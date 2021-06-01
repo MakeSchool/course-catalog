@@ -1,6 +1,6 @@
-# Make School Course Catalog & Student Handbook 
+# Make School Course Catalog & Student Handbook
 
-2020-2021 Academic Year 
+2020-2021 Academic Year
 
 **Make School**
 
@@ -13,7 +13,7 @@
 **APPROVAL DISCLOSURE STATEMENT**
 
 Make School is a private institution currently seeking approval from the Bureau for Private Postsecondary Education to operate.
- 
+
 
 **ANNUAL UPDATES**
 
@@ -21,11 +21,11 @@ This catalog is updated as needed, or required, and at least once annually. Make
 
 **COMMENTS**
 
-1. Any questions a student may have regarding this catalog that have not been satisfactorily answered by the institution may be directed to the Bureau for Private Postsecondary Education at **1747 N. Market, Suite 225, Sacramento, CA 95834, ****[www.bppe.ca.go**v](http://www.bppe.ca.gov)**, toll-free phone number (888) 370-7589, locally at (916) 574-8900 or by fax at (916) 263-1897.**
+1. Any questions a student may have regarding this catalog that have not been satisfactorily answered by the institution may be directed to the Bureau for Private Postsecondary Education at **1747 N. Market, Suite 225, Sacramento, CA 95834, [www.bppe.ca.gov](http://www.bppe.ca.gov)**, **toll-free phone number (888) 370-7589, locally at (916) 574-8900 or by fax at (916) 263-1897.**
 
-2. As a prospective student, you are encouraged to review this catalog prior to signing an enrollment agreement. You are also encouraged to review the School Performance Fact Sheet, which must be provided to you prior to signing an enrollment agreement. 
+2. As a prospective student, you are encouraged to review this catalog prior to signing an enrollment agreement. You are also encouraged to review the School Performance Fact Sheet, which must be provided to you prior to signing an enrollment agreement.
 
-3. A student or any member of the public may file a complaint about this institution with the Bureau for Private Postsecondary Education by calling** (toll-free phone number) (888) 370-7589** or by completing a complaint form, which can be obtained on the bureau’s Internet Website **[www.bppe.ca.go**v](http://www.bppe.ca.gov)**.**
+3. A student or any member of the public may file a complaint about this institution with the Bureau for Private Postsecondary Education by calling **(toll-free phone number) (888) 370-7589** or by completing a complaint form, which can be obtained on the bureau’s Internet Website **[www.bppe.ca.gov](http://www.bppe.ca.gov)**.
 
 **COURSE LOCATION**
 
@@ -40,7 +40,7 @@ Make School does not have a pending petition in bankruptcy, is not operating as 
 
 Welcome to Make School! We are excited to have you be a part of our community! We have provided this Course Catalog and Student Handbook to help you during your time at Make School.
 
-The Course Catalog and Student Handbook is designed to be a reference guide for all things related to your student experience: from classes you might take, to campus activities, to student financial aid. We’ve done our best to be as comprehensive as possible, and do update the information when there is a major program change. 
+The Course Catalog and Student Handbook is designed to be a reference guide for all things related to your student experience: from classes you might take, to campus activities, to student financial aid. We’ve done our best to be as comprehensive as possible, and do update the information when there is a major program change.
 
 How to use this Course Catalog and Student Handbook:
 
@@ -50,9 +50,9 @@ How to use this Course Catalog and Student Handbook:
 
 * There is a lot of information provided in this document. Read it carefully and thoroughly to make sure you understand the content.
 
-* You are responsible for the information and upholding the policies included in this document. It is your responsibility to read and familiarize yourself with the Course Catalog and Student Handbook. 
+* You are responsible for the information and upholding the policies included in this document. It is your responsibility to read and familiarize yourself with the Course Catalog and Student Handbook.
 
-* **This guide is designed with you in mind. **Let us know if there is something you don’t understand or need clarity on so we can improve the information provided in this document. 
+* **This guide is designed with you in mind.** Let us know if there is something you don’t understand or need clarity on so we can improve the information provided in this document.
 
 For quick access to important information, forms, documents, or other items, the [Appendix](https://docs.google.com/document/d/1cP3HyewqxDk3RglFfZA8ju7wSDhBHWpeJi5vWlXK9l8/edit#heading=h.r6g3lcy73iw9) has a list of links to things most commonly used or asked about by Make School Students. This is a great place to start if you’re not sure what you are looking for.
 
@@ -60,7 +60,7 @@ For quick access to important information, forms, documents, or other items, the
 
 ## Message from the Dean
 
-We are so excited you are joining our learning community and look forward to guiding you on your journey to a rewarding career in software engineering.  
+We are so excited you are joining our learning community and look forward to guiding you on your journey to a rewarding career in software engineering.
 
 Learning at Make School is engaging, innovative and inspiring. Our technical instructors are software engineering professionals who guide you through industry-relevant, project-based curriculum. You’ll learn by building products that solve real-world problems and thrive in a close-knit community with like-minded, passionate students from all backgrounds. Success isn't about where you come from, it's about where you are going.  We can’t wait to help you get there.
 
@@ -76,35 +76,35 @@ Make School is built on the following values:
 
 * **Innovation** - we operate using progressive organizational principles, cutting-edge education methodologies, and regular experimentation.
 
-* **Relevance **- we develop curriculum and partnerships to ensure the education we provide prepares students for productive careers in industry and to be engaged members of civil society.
+* **Relevance** - we develop curriculum and partnerships to ensure the education we provide prepares students for productive careers in industry and to be engaged members of civil society.
 
 * **Equity** - we analyze our actions and decisions through the lenses of Justice, Equity, Diversity, and Inclusion in order to create a more equitable future for all. We serve students traditionally underrepresented in the technology industry.
 
-* **Citizenship **- our students actively engage with their communities and create positive social impact. Students work on projects and seek employment to help solve key societal problems. Students formalize their ethical frameworks, practice empathy, respect diversity, and reject bias.
+* **Citizenship** - our students actively engage with their communities and create positive social impact. Students work on projects and seek employment to help solve key societal problems. Students formalize their ethical frameworks, practice empathy, respect diversity, and reject bias.
 
 * **Personal Growth** - we provide educational resources and mentorship to help students and staff develop a growth mindset and achieve personal growth.
 
-* **Transparency** - our policies, practices, planning, offerings, and student outcomes are hosted on a public-facing, version-controlled platform. Our affiliations with partners are publicly disclosed. 
+* **Transparency** - our policies, practices, planning, offerings, and student outcomes are hosted on a public-facing, version-controlled platform. Our affiliations with partners are publicly disclosed.
 
 ## Program Learning Outcomes
 
 Upon graduation, students will have demonstrated mastery of the following program learning outcomes:
 
-1. **Software Engineering: ** Implement innovative software designs using sound development practices and state-of-the-art software engineering techniques, methods, and tools. 
+1. **Software Engineering:** Implement innovative software designs using sound development practices and state-of-the-art software engineering techniques, methods, and tools.
 
-2. **Computer Science: ** Demonstrate mastery over computer science concepts and the classical patterns in computer hardware, software, and networking.
+2. **Computer Science:** Demonstrate mastery over computer science concepts and the classical patterns in computer hardware, software, and networking.
 
-3. **Agile Product Development: ** Apply the agile product development process to ideate, design, ship, and iterate on solutions to real-world problems.
+3. **Agile Product Development:** Apply the agile product development process to ideate, design, ship, and iterate on solutions to real-world problems.
 
-4. **Teamwork & Leadership: ** Develop the skills of a leader and team member by understanding the theory and practice of effective decision making: consensus, compromise, negotiation, delegation, management, communication, and collaboration with people of different backgrounds, cultures and skills. 
+4. **Teamwork & Leadership:** Develop the skills of a leader and team member by understanding the theory and practice of effective decision making: consensus, compromise, negotiation, delegation, management, communication, and collaboration with people of different backgrounds, cultures and skills.
 
-5. **Problem Solving & Lean Startups:** Develop original and critical thinking strategies to find solutions to real-world problems across for- and not-for-profit domains of the economy and society, e.g. Education, Health, Business, Entertainment, Global Trade, Politics, Charity, etc. 
+5. **Problem Solving & Lean Startups:** Develop original and critical thinking strategies to find solutions to real-world problems across for- and not-for-profit domains of the economy and society, e.g. Education, Health, Business, Entertainment, Global Trade, Politics, Charity, etc.
 
-6. **Self Advocacy & Career Development: **Develop the knowledge and skills of advocating and promoting oneself in the context of developing a professional career in technology.
+6. **Self Advocacy & Career Development:** Develop the knowledge and skills of advocating and promoting oneself in the context of developing a professional career in technology.
 
-7. **Liberal Arts integrated with Professional Education: ** Situate and apply professional knowledge and skills within a broad base of understanding of multiple disciplines. 
+7. **Liberal Arts integrated with Professional Education:** Situate and apply professional knowledge and skills within a broad base of understanding of multiple disciplines.
 
-## The History of Make School	
+## The History of Make School
 
 Make School was founded in 2012, initially as a Summer Academy, to introduce high school and college students to the potential of using technology to solve problems. The program was designed to be project-based and collaborative, focused on teaching students to use modern software development tools and frameworks. The Summer Academy taught thousands of students from around the world how to build products, and enabled students to earn internships and jobs at top tech companies.
 
@@ -112,11 +112,11 @@ In 2014, Make School began building a new college based on the same principles. 
 
 ## Facilities and Equipment
 
-Make School provides students with a residential-based education experience at the Make School Main Campus located at 555 Post Street, San Francisco, CA 94102. Located blocks away from Union Square, Make School may be easily accessed via public transportation. 
+Make School provides students with a residential-based education experience at the Make School Main Campus located at 555 Post Street, San Francisco, CA 94102. Located blocks away from Union Square, Make School may be easily accessed via public transportation.
 
-Make School’s Main Campus is comprised of climate controlled classrooms, lab, meeting/conference spaces, administrative offices, break rooms and kitchens, onsite reference library, designated quiet workspaces, a maker space, secure bike parking, and multiple restrooms. Make School provides students with secure, high speed wireless internet, at no additional cost to students, while on the main campus. 
+Make School’s Main Campus is comprised of climate controlled classrooms, lab, meeting/conference spaces, administrative offices, break rooms and kitchens, onsite reference library, designated quiet workspaces, a maker space, secure bike parking, and multiple restrooms. Make School provides students with secure, high speed wireless internet, at no additional cost to students, while on the main campus.
 
-For instructional purposes, Make School utilizes the following equipment and technology: projectors and projection screens, white boards, printers, speakers and microphones, as well as high-speed internet, GitHub, Slack, and laptops. 
+For instructional purposes, Make School utilizes the following equipment and technology: projectors and projection screens, white boards, printers, speakers and microphones, as well as high-speed internet, GitHub, Slack, and laptops.
 
 ### **Laptops**
 
@@ -132,13 +132,13 @@ Every student must have a fully-operating laptop on which to do their work. The 
 
 Since purchasing a laptop can be a large financial burden, we can provide advice for how to find an economical laptop that will serve you well. Some simple tips are:
 
-* **Upgrade: **If you have an older Apple laptop that lacks SSD storage, you can check if your laptop is upgradeable with a new SSD storage component and more memory. If so, the most economical option is to purchase an SSD storage and RAM, then install them in your laptop.
+* **Upgrade:** If you have an older Apple laptop that lacks SSD storage, you can check if your laptop is upgradeable with a new SSD storage component and more memory. If so, the most economical option is to purchase an SSD storage and RAM, then install them in your laptop.
 
 * **Buy Used:** Many websites, including Craigslist and eBay, offer less expensive used laptop options. When buying a computer through a reseller, confirm with the seller that the laptop is fully functioning and that the computer is in decent operating condition. It is especially important to focus on the battery, charging cables, keyboard, screen, and USB ports.
 
 * **Buy Refurbished:** You can buy a refurbished MacBook Air for approximately $900. If you combine this with a financing option, you may only need to pay approx. $75/month for 12 months.
 
-* **Buy with Apple or Retail Financing: **Apple and other retail stores often offer financial options to allow you to pay for a computer over 12 months with no interest. 
+* **Buy with Apple or Retail Financing:** Apple and other retail stores often offer financial options to allow you to pay for a computer over 12 months with no interest.
 
 ### **Temporary Laptop Assistance**
 
@@ -146,20 +146,20 @@ We understand how important it is to have a properly functioning laptop in order
 
 ## Library Services
 
-Make School maintains an online library with a curated list of digital resources for technical content, social science texts, periodicals, reference materials, databases, and reserves to supplement student learning.  These resources can be accessed online at [make.sc/library](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.5ejfrtps59sw).  
+Make School maintains an online library with a curated list of digital resources for technical content, social science texts, periodicals, reference materials, databases, and reserves to supplement student learning.  These resources can be accessed online at [make.sc/library](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.5ejfrtps59sw).
 
 Students who reside in San Francisco may also utilize the **San Francisco Public Library** (SFPL). The SFPL is an excellent source for supplemental learning materials, with a great system of reserving books from any library in the SFPL system. Students may also utilize professional librarian services through SFPL. The Main Library Branch is located at 100 Larkin Street, and is just a brief walk from the Civic Center BART Station or a 20 minute walk from Make School’s campus.
 
-Students receive training in the use of  library resources during orientation in their first week of classes. As necessary, students receive assignment-specific training from their instructors. Through our partnership with Dominican University, students are able to access Library liaisons through the student services webpage ([make.sc/du-self-service](make.sc/du-self-service)). Library liaisons are subject specialists who provide support for student research by locating and recommending relevant information and resources. Dominican University also subscribes to numerous online databases containing scholarly articles, eBooks, newspapers, and many other resources designed to help students with their research. 
+Students receive training in the use of  library resources during orientation in their first week of classes. As necessary, students receive assignment-specific training from their instructors. Through our partnership with Dominican University, students are able to access Library liaisons through the student services webpage ([make.sc/du-self-service](make.sc/du-self-service)). Library liaisons are subject specialists who provide support for student research by locating and recommending relevant information and resources. Dominican University also subscribes to numerous online databases containing scholarly articles, eBooks, newspapers, and many other resources designed to help students with their research.
 
 # Admissions and Enrollment Information
 
 
 ## Admissions Policy and Procedure
 
-In addition to completing Make School’s application for admission and being provided with Make School’s course catalog and School Performance Fact Sheet, the  Admissions Team requires that the prospective student: 
+In addition to completing Make School’s application for admission and being provided with Make School’s course catalog and School Performance Fact Sheet, the  Admissions Team requires that the prospective student:
 
-* Provide a High School diploma or equivalent as verified via official transcript(s) and requisite test scores; 
+* Provide a High School diploma or equivalent as verified via official transcript(s) and requisite test scores;
 
 * Provide official college or university transcripts for students transferring to Make School;
 
@@ -227,13 +227,13 @@ Make School does not permit students to transfer credits for courses that are pa
 
 Students may transfer credits to meet the Science & Letters requirements only and satisfying up to 36 out of the 124 credit units required for the BACS degree. Students must have earned a passing grade of "C" or above in their previous coursework for the credit to be successfully transferred to Make School. Please refer to the full list of [Transfer Credit Policies](https://dominican.smartcatalogiq.com/2019-2020/Academic-Catalog/Academic-Policies-and-Procedures/Transfer-Credit-Policies) for Science & Letters requirements for more detail.   Transfer credits do not count toward attempted credits on a student’s transcript, but do count toward credits earned toward the Bachelor of Science degree. Students are not required to pay a fee or be charged for transferring credits.
 
-Make School students may concurrently enroll to take Science & Letters courses at off-campus accredited institutions and be granted transfer credit for these courses. The maximum number of transferable units via concurrent registration is 9 units. Students are required to obtain prior approval for any coursework they seek to take at another institution, and all other relevant transfer policies apply to concurrent registration. All authorizations for off-campus registration must be approved by the Office of the Registrar prior to the student’s concurrent enrollment. 
+Make School students may concurrently enroll to take Science & Letters courses at off-campus accredited institutions and be granted transfer credit for these courses. The maximum number of transferable units via concurrent registration is 9 units. Students are required to obtain prior approval for any coursework they seek to take at another institution, and all other relevant transfer policies apply to concurrent registration. All authorizations for off-campus registration must be approved by the Office of the Registrar prior to the student’s concurrent enrollment.
 
 Make School does not grant credit for prior experiential learning or college-level learning experiences.
 
-**NOTICE CONCERNING TRANSFERABILITY OF CREDITS AND CREDENTIALS EARNED AT OUR INSTITUTION:****  **
+**NOTICE CONCERNING TRANSFERABILITY OF CREDITS AND CREDENTIALS EARNED AT OUR INSTITUTION:**
 
-The transferability of credits you earn at MAKE SCHOOL is at the complete discretion of an institution to which you may seek to transfer. Acceptance of the BACHELOR DEGREE you earn in the BACHELOR OF APPLIED COMPUTER SCIENCE program is also at the complete discretion of an institution to which you may seek to transfer. If the credits or BACHELOR DEGREE that you earn at this institution are not accepted at the institution to which you seek to transfer, you may be required to repeat some or all of your coursework at that institution. For this reason you should make certain that your attendance at this institution will meet your educational goals. This may include contacting an institution to which you may seek to transfer after attending MAKE SCHOOL to determine if your credits or BACHELOR DEGREE will transfer. 
+The transferability of credits you earn at MAKE SCHOOL is at the complete discretion of an institution to which you may seek to transfer. Acceptance of the BACHELOR DEGREE you earn in the BACHELOR OF APPLIED COMPUTER SCIENCE program is also at the complete discretion of an institution to which you may seek to transfer. If the credits or BACHELOR DEGREE that you earn at this institution are not accepted at the institution to which you seek to transfer, you may be required to repeat some or all of your coursework at that institution. For this reason you should make certain that your attendance at this institution will meet your educational goals. This may include contacting an institution to which you may seek to transfer after attending MAKE SCHOOL to determine if your credits or BACHELOR DEGREE will transfer.
 
 ## International Students and English Language Services
 
@@ -263,21 +263,21 @@ All foreign transcripts and degrees must be evaluated and translated to meet U.S
 
 **Student’s Right to Cancel**
 
-Students have the right to cancel their agreement for a program of instruction, without any penalty or obligations, through attendance at the first class session or the seventh calendar day after enrollment, whichever is later. Cancellation of their agreement can occur through the date denoted on their enrollment agreement form. 
+Students have the right to cancel their agreement for a program of instruction, without any penalty or obligations, through attendance at the first class session or the seventh calendar day after enrollment, whichever is later. Cancellation of their agreement can occur through the date denoted on their enrollment agreement form.
 
 Cancellation may occur when the student provides a written notice of cancellation at the following address: 555 Post Street, San Francisco, CA 94102. This can be done by mail or by hand delivery. The written notice of cancellation, if sent by mail, is effective when deposited in the mail properly addressed with proper postage.
 
-The written notice of cancellation need not take any particular form and, however expressed, it is effective if it shows that the student no longer wishes to be bound by the Enrollment Agreement.  
+The written notice of cancellation need not take any particular form and, however expressed, it is effective if it shows that the student no longer wishes to be bound by the Enrollment Agreement.
 
 If the Enrollment Agreement is cancelled, the school will refund the student any money he/she paid within 45 days after the notice of cancellation is received.
 
-If the student obtains a loan to pay for this educational program, the students will be responsible to repay the full amount of the loan plus interest, less the amount of any refund. 
+If the student obtains a loan to pay for this educational program, the students will be responsible to repay the full amount of the loan plus interest, less the amount of any refund.
 
-If the student is eligible for a loan guarantee by the federal or state government and the student defaults on the loan, both of the following may occur: 1) The federal or state government or loan guarantee agency may take action against the student, including applying any income tax refund to which the person is entitled to reduce the balance owed on the loan. 2) The student may not be eligible for any other federal student financial aid at another institution or other government assistance until the loan is repaid. If the student has received federal student financial aid funds, the student is entitled to a refund of monies not paid from federal student financial aid program funds. 
+If the student is eligible for a loan guarantee by the federal or state government and the student defaults on the loan, both of the following may occur: 1) The federal or state government or loan guarantee agency may take action against the student, including applying any income tax refund to which the person is entitled to reduce the balance owed on the loan. 2) The student may not be eligible for any other federal student financial aid at another institution or other government assistance until the loan is repaid. If the student has received federal student financial aid funds, the student is entitled to a refund of monies not paid from federal student financial aid program funds.
 
 **Withdrawal from Make School and Refund Policy**
 
-Students may withdraw from the school at any time after the cancellation period (described above) and receive a pro rata refund if they have completed 80% or less of the scheduled days in the current payment period in their program through the last day of attendance. If the student has completed more than 80% of the period of attendance for which the student was charged, the tuition is considered earned and the student will receive no refund.  
+Students may withdraw from the school at any time after the cancellation period (described above) and receive a pro rata refund if they have completed 80% or less of the scheduled days in the current payment period in their program through the last day of attendance. If the student has completed more than 80% of the period of attendance for which the student was charged, the tuition is considered earned and the student will receive no refund.
 
 For the purpose of determining a refund under this section, a student may be deemed to have withdrawn from a program of instruction when any of the following occurs:
 
@@ -285,7 +285,7 @@ For the purpose of determining a refund under this section, a student may be dee
 
 * The institution terminates the student’s enrollment for failure to maintain satisfactory progress; failure to abide by the rules and regulations of the institution; absences in excess of maximum set forth by the institution; and/or failure to meet financial obligations to the School.
 
-For the purpose of determining the amount of the refund, the date of the student’s withdrawal shall be deemed the last date of recorded attendance. The amount owed equals the daily charge for the program (total institutional charge, minus non-refundable fees, divided by the number of days in the period of attendance, multiplied by the number of days scheduled to attend prior to withdrawal). No refund will be issued to a student who has attended more than 80% of the days in the period of attendance. 
+For the purpose of determining the amount of the refund, the date of the student’s withdrawal shall be deemed the last date of recorded attendance. The amount owed equals the daily charge for the program (total institutional charge, minus non-refundable fees, divided by the number of days in the period of attendance, multiplied by the number of days scheduled to attend prior to withdrawal). No refund will be issued to a student who has attended more than 80% of the days in the period of attendance.
 
 If any portion of the tuition was paid from the proceeds of a loan or third party, the refund shall be sent to the lender, third party or, if appropriate, to the state or federal agency that guaranteed or reinsured the loan. Any amount of the refund in excess of the unpaid balance of the loan shall be first used to repay any student financial aid programs from which the student received benefits, in proportion to the amount of the benefits received, and any remaining amount shall be paid to the student. If the student has received federal student financial aid funds, the student is entitled to a refund of monies not paid from federal student financial aid program funds.
 
@@ -298,7 +298,7 @@ Make School is accredited by the Western Association of Schools and Colleges Sen
 
 ## Academic Regulations
 
-All of Make School’s Academic Regulations are located in our Course Catalog & Student Handbook published on makeschool.com. Our Catalog is made publically accessible through our website and does not require credentials to access its content. 
+All of Make School’s Academic Regulations are located in our Course Catalog & Student Handbook published on makeschool.com. Our Catalog is made publically accessible through our website and does not require credentials to access its content.
 
 ## Academic Freedom
 
@@ -308,7 +308,7 @@ Make School follows the Recommended Institutional Regulations on Academic Freedo
 
 ## Applicability of Policies & Standards
 
-The Course Catalog & Student Handbook, and all policies and procedures outlined therein are applicable to all Make School students at all times. Students are responsible for being aware of these policies and following them. Enrollment at Make School implies acceptance of these policies and procedures and makes them binding for all students. 
+The Course Catalog & Student Handbook, and all policies and procedures outlined therein are applicable to all Make School students at all times. Students are responsible for being aware of these policies and following them. Enrollment at Make School implies acceptance of these policies and procedures and makes them binding for all students.
 
 This Catalog and its policies and procedures should be interpreted in a manner consistent with the mission and values of Make School. The Dean (or their designee) will resolve any questions involving the application or interpretation of these policies, rules, and expectations. In such instances, the decision of the Dean (or their designee) will be final and binding.
 
@@ -318,9 +318,9 @@ This Catalog and its policies and procedures should be interpreted in a manner c
 
 Term start and end dates, as well as key dates and campus closures within each term, are in the Academic Calendar: [make.sc/academic-calendar](http://make.sc/academic-calendar). Below is a sample of a standard semester schedule:
 
-FALL SEMESTER		
+FALL SEMESTER
 TERM 1: 7 Weeks	FALL INTENSIVE: 1 Week	TERM 2: 7 Weeks
-SCIENCE and LETTERS CLASSES: 14 Weeks		
+SCIENCE and LETTERS CLASSES: 14 Weeks
 
 
 
@@ -348,7 +348,7 @@ If an incident of plagiarism or cheating occurs, the instructor will investigate
 
 ### **Attendance & Participation Policy**
 
-Just like any job, attendance at Make School is required and a key component of your success. Attendance means being available (either online or on-campus)  from 9:30am to 5:30pm PST each weekday, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working on homework and group projects when not in a scheduled session. Being available for the entire school day allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.  
+Just like any job, attendance at Make School is required and a key component of your success. Attendance means being available (either online or on-campus)  from 9:30am to 5:30pm PST each weekday, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working on homework and group projects when not in a scheduled session. Being available for the entire school day allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
 Unless otherwise noted, attendance requirements for classes and other scheduled sessions are:
 
@@ -360,7 +360,7 @@ It is the student’s responsibility to know the attendance policy in each cours
 
 ### **Technology Policy**
 
-While technology is the heart of all we do here, students must make sure their attention is where it needs to be to optimize their learning. Students should keep phones out of sight and laptops closed when not in use so they can focus fully and learn at maximum capacity. 
+While technology is the heart of all we do here, students must make sure their attention is where it needs to be to optimize their learning. Students should keep phones out of sight and laptops closed when not in use so they can focus fully and learn at maximum capacity.
 
 ### Family Educational Rights & Privacy Act of 1974 (FERPA)
 
@@ -396,9 +396,9 @@ Students’ satisfactory achievement (progress) and standing in the Bachelor of 
 
 **Degree Completion Progress**
 
-In order to stay in good Academic Standing: 
+In order to stay in good Academic Standing:
 
-* You cannot fail more than 3 courses per academic year. 
+* You cannot fail more than 3 courses per academic year.
 
 * If you fail any SPD, INT, or required Technical Course, you must retake *and* pass that course at the next available offering.
 
@@ -410,19 +410,19 @@ In order to stay in good Academic Standing:
 
     * Year 2, End of Term 2:  67-83 Units and 3 Portfolio Projects completed.
 
-    * Year 2, End of Term 5:  106-124 Units, Internship, and 4 Portfolio Projects completed. 
+    * Year 2, End of Term 5:  106-124 Units, Internship, and 4 Portfolio Projects completed.
 
 **Course Load**
 
 In any given term, you should be taking 4 courses (standard load) from the following categories:
 
-* Software Product Development Core (SPD, INT, SWE), 
+* Software Product Development Core (SPD, INT, SWE),
 
 * Technical Courses as determined by your concentration, and
 
 * Science & Letters (S&L)
 
-To be in good Academic Standing, you must register for at least 12 credits with the following course requirements per term: 
+To be in good Academic Standing, you must register for at least 12 credits with the following course requirements per term:
 
 * Fall & Spring Terms (Terms 1 - 4): 1 SPD Course, 2 Technical Courses, 1-2 S&L Course(s)
 
@@ -434,7 +434,7 @@ To be in good Academic Standing, you must register for at least 12 credits with 
 
 **Non-Standard Course Load**
 
-If you want to register for a course load of more or less than 4 courses, or otherwise differentiate from the above requirements in any term, you must meet with your academic advisor and complete the [Non-Standard Academic Course Load Form](make.sc/non-standard-course-load). Submitting this form means you are aware that not taking the required courses may impact your potential career opportunities, degree progress, and ISA payback plan. It is not possible to defer any SPD, Intensive (INT) or Internship (SWE) requirement. 
+If you want to register for a course load of more or less than 4 courses, or otherwise differentiate from the above requirements in any term, you must meet with your academic advisor and complete the [Non-Standard Academic Course Load Form](make.sc/non-standard-course-load). Submitting this form means you are aware that not taking the required courses may impact your potential career opportunities, degree progress, and ISA payback plan. It is not possible to defer any SPD, Intensive (INT) or Internship (SWE) requirement.
 
 If you choose to take a less than full-time course load or do not follow your degree plan, you may be required to spend extra time at Make School to ensure that all degree requirements are completed.
 
@@ -450,17 +450,17 @@ Your academic progress is reported by your instructors during every mid-term per
 
 A credit hour is an amount of work represented in intended learning outcomes and verified by evidence of student achievement. The amount of work required for a credit is calculated in one of the following ways:
 
- 
 
-* One credit hour equates to 12.5 hours of direct instruction (either in-class hours with an instructor or supported project hours with an instructor, teaching assistant or industry expert) and 25 hours of out of class student work per term.  In-class hours are based on a 50 min class per credit hour allowing for breaks and transition between classes. 
 
-* One credit hour equates to 37.5 hours of student work per term for other academic activities as established by the institution including laboratory work, internships, practicum, studio work, community-based learning, and other academic work leading to the award of credit hours. 
+* One credit hour equates to 12.5 hours of direct instruction (either in-class hours with an instructor or supported project hours with an instructor, teaching assistant or industry expert) and 25 hours of out of class student work per term.  In-class hours are based on a 50 min class per credit hour allowing for breaks and transition between classes.
+
+* One credit hour equates to 37.5 hours of student work per term for other academic activities as established by the institution including laboratory work, internships, practicum, studio work, community-based learning, and other academic work leading to the award of credit hours.
 
 The number of hours per week required for a credit is calculated from the total credits and the term length.  For a typical 3-credit hour course in a 7 week term, the 37.5 total hours of direct instruction equates to 5.5 hours a week of direct instruction.  In addition, homework and other out-of-class work constitutes 75 hours total or 10.7 hours per week.
 
-Technology-enhanced, Hybrid, or Online Courses: Courses offered through these modalities are to be delivered so that the sum of faculty instruction and student preparation time is equivalent to the relevant credit hour calculations above. The table below summarizes course credit hours for all course types at Make School. 
+Technology-enhanced, Hybrid, or Online Courses: Courses offered through these modalities are to be delivered so that the sum of faculty instruction and student preparation time is equivalent to the relevant credit hour calculations above. The table below summarizes course credit hours for all course types at Make School.
 
-Course	Units	Length	Total Hours	Hours / Wk	In-Class 
+Course	Units	Length	Total Hours	Hours / Wk	In-Class
 Hrs / Wk	Project Hrs / Wk	Lab Hrs / Wk
 Technical	3	7 wks	37.5	5.5	4	1.5	-
 INT 1.1, 1.2, 2.1, 2.2	1	1 wk	37.5	37.5	-	-	37.5
@@ -479,21 +479,21 @@ New courses, or changes in the unit value of existing courses, should be reviewe
 
 ## Course Modalities
 
-Courses at Make School are offered in either in-person, online synchronous, online asynchronous or hybrid modalities. 
+Courses at Make School are offered in either in-person, online synchronous, online asynchronous or hybrid modalities.
 
 #### In-person delivery
 
-In-person classes are taught on our campus and students are expected to be in attendance for the entire class time.  Class time includes many opportunities for active learning, group work, 1:1 instruction and guidance from the instructor or TA as well as traditional lecture format.  
+In-person classes are taught on our campus and students are expected to be in attendance for the entire class time.  Class time includes many opportunities for active learning, group work, 1:1 instruction and guidance from the instructor or TA as well as traditional lecture format.
 
 **NOTE: For 2020 Fall Term (and if necessary ongoing) all in-person classes will adhere to state and local guidelines for COVID-19 including those limiting public gatherings.  This may impact the amount of in-person delivery available.**
 
-#### Online delivery 
+#### Online delivery
 
-Synchronous online classes meet online for the same scheduled time as an in-person class in compliance with credit hour policies.  Class structure is similar to that of an in-person class with the same key elements of lecture, active learning, group work and individual support time.   In asynchronous online classes, the lecture portion is presented over video and students work independently with limited or no scheduled meeting times.  There is still ample opportunity for support from instructors via asynchronous modes such as slack, email or 1:1 online sessions. 
+Synchronous online classes meet online for the same scheduled time as an in-person class in compliance with credit hour policies.  Class structure is similar to that of an in-person class with the same key elements of lecture, active learning, group work and individual support time.   In asynchronous online classes, the lecture portion is presented over video and students work independently with limited or no scheduled meeting times.  There is still ample opportunity for support from instructors via asynchronous modes such as slack, email or 1:1 online sessions.
 
-#### Hybrid delivery 
+#### Hybrid delivery
 
-Hybrid classes are a mixture of in-person and online components.  The online component can be synchronous or asynchronous as defined above.  The in-person time is primarily used for active learning and group work where the learning experience benefits from the in-person element.  Students are expected to attend both online and in-person components. 
+Hybrid classes are a mixture of in-person and online components.  The online component can be synchronous or asynchronous as defined above.  The in-person time is primarily used for active learning and group work where the learning experience benefits from the in-person element.  Students are expected to attend both online and in-person components.
 
 **NOTE: For 2020 Fall Term (and if necessary ongoing) all in-person components of hybrid classes will adhere to state and local guidelines for COVID-19 including those limiting public gatherings.  This may impact the amount of in-person delivery available.**
 
@@ -529,13 +529,13 @@ Important things to consider when going on a LoA:
 
 * Make School housing is still available to you during your leave. You must maintain your lease and continue paying rent during this period. If you opt out of Make School housing, you must terminate their lease according to their Housing Agreement
 
-* You can take a maximum of two, term-long Leaves of Absence, consecutively or non-consecutively. Extending a consecutive LoA through a second term requires an additional written request. 
+* You can take a maximum of two, term-long Leaves of Absence, consecutively or non-consecutively. Extending a consecutive LoA through a second term requires an additional written request.
 
 * If you withdraw after the add/drop deadline of a term, all courses in which you are registered will be assigned a "W" grade.
 
-To return from a LoA, students must submit a request to the [Registrar](mailto:registrar@makeschool.com)[ ](mailto:registrar@makeschool.com)for the Re-enrollment form. Upon returning, students will rejoin Make School with the same academic standing as when they requested the LoA, and will be subject to the same requirements and guidelines. 
+To return from a LoA, students must submit a request to the [Registrar](mailto:registrar@makeschool.com)[ ](mailto:registrar@makeschool.com)for the Re-enrollment form. Upon returning, students will rejoin Make School with the same academic standing as when they requested the LoA, and will be subject to the same requirements and guidelines.
 
-If a student does not intend to return to the college, they must officially Withdraw. If you do not return or extend their LoA, and do not communicate intentions to do so, students will be automatically withdrawn. 
+If a student does not intend to return to the college, they must officially Withdraw. If you do not return or extend their LoA, and do not communicate intentions to do so, students will be automatically withdrawn.
 
 ### Withdrawal from Make School
 
@@ -561,9 +561,9 @@ In order to re-enroll after withdrawing, you must submit a written request to th
 
 ## Grading System
 
-Make School uses a Pass-Fail grading system which emphasizes the importance of mastery and retention of course material. Rubrics and other assessment tools are used to gain a clear understanding of students’ strengths and challenges, and provide an accurate representation of students’ performance level and knowledge. 
+Make School uses a Pass-Fail grading system which emphasizes the importance of mastery and retention of course material. Rubrics and other assessment tools are used to gain a clear understanding of students’ strengths and challenges, and provide an accurate representation of students’ performance level and knowledge.
 
-While a grade of Pass in a class equates to a C or better on a standard grading scale, Make School does not compute or report a Grade Point Average (GPA). If students need academic performance information (i.e. GPA) for the purpose and internship or graduate school application, a narrative of their progress through the program is available upon request. 
+While a grade of Pass in a class equates to a C or better on a standard grading scale, Make School does not compute or report a Grade Point Average (GPA). If students need academic performance information (i.e. GPA) for the purpose and internship or graduate school application, a narrative of their progress through the program is available upon request.
 
 Repeated Courses
 
@@ -571,17 +571,17 @@ You may repeat courses in which you earned a failing grade (F). While there is n
 
 ## Credit Policies
 
-Make School’s [transfer policy](#heading=h.wu5v3v6dl8q6) is administered and updated by the Office of the Registrar under the direction of the Dean. 
+Make School’s [transfer policy](#heading=h.wu5v3v6dl8q6) is administered and updated by the Office of the Registrar under the direction of the Dean.
 
 Technical and Software Product Development Credits
 
-Make School does not accept any transfer, concurrent, or prior learning credits for Technical or Software Product Development courses as these courses are only taught onsite with our project based curriculum. 
+Make School does not accept any transfer, concurrent, or prior learning credits for Technical or Software Product Development courses as these courses are only taught onsite with our project based curriculum.
 
 Science & Letters Credits
 
 These credit requirements can be met through onsite courses and the following methods:
 
-**Transfering Credits:  **Make School will grant Science & Letters transfer credit units completed at:
+**Transfering Credits:** Make School will grant Science & Letters transfer credit units completed at:
 
 * degree-granting, regionally accredited, post-secondary two- or four-year institutions;
 
@@ -593,7 +593,7 @@ These credit requirements can be met through onsite courses and the following me
 
 Please note transfer credits do not count toward ‘attempted’ credits on your transcript, but do count toward credits earned toward the Bachelor of Science degree.
 
-**Concurrent / "Off-Campus" Registration:  **You may take Science & Letters classes at an off-campus accredited institution while attending classes at Make School  and be granted transfer credit for these courses. The maximum number of transferable units via concurrent registration is 9 units. You are required to obtain pre approval for any coursework you want to take at another institution, and all other relevant [transfer policies](#heading=h.wu5v3v6dl8q6) apply to concurrent registration. To obtain prior approval for concurrent registration, please contact the [Office of the Registrar](mailto:registrar@makeschool.com).
+**Concurrent / "Off-Campus" Registration:** You may take Science & Letters classes at an off-campus accredited institution while attending classes at Make School  and be granted transfer credit for these courses. The maximum number of transferable units via concurrent registration is 9 units. You are required to obtain pre approval for any coursework you want to take at another institution, and all other relevant [transfer policies](#heading=h.wu5v3v6dl8q6) apply to concurrent registration. To obtain prior approval for concurrent registration, please contact the [Office of the Registrar](mailto:registrar@makeschool.com).
 
 # Academic Procedures
 
@@ -630,7 +630,7 @@ Approval by your instructor(s) and the Dean will enter you into an Incomplete Gr
 
 ## Registration
 
-Many courses are only offered in one term during the academic year, which requires taking them in a specific sequence to stay on track to earn a degree. Students should consult with their academic advisor before registering for courses. All registration requests are submitted through the Course Enrollment Portal and must be approved before students will be enrolled in courses. 
+Many courses are only offered in one term during the academic year, which requires taking them in a specific sequence to stay on track to earn a degree. Students should consult with their academic advisor before registering for courses. All registration requests are submitted through the Course Enrollment Portal and must be approved before students will be enrolled in courses.
 
 First time students will register during orientation after taking diagnostic exams. Returning students generally begin registering two weeks before the start of each term; specific dates will be announced to the student body via email. 
 
@@ -730,9 +730,9 @@ The Bachelor of Science in Applied Computer Science program provides innovative,
 
 Students who graduate from this program will be prepared for gainful employment as Software and Web Developers, Programmers, and Testers (United States Department of Labor Standard Occupational Classification codes 15-1250 (15-1251, 15-1252, 15-1253, 15-1254, 15-1255)).
 
-**Graduation Requirements: **Students must submit an Application to Graduate with the Registrar’s Office the *term prior to* completing their degree, which initiates a final review of degree candidates' academic records and degree requirements to verify that all are on track to graduate in the term indicated on their application. Degrees are conferred after the final grade is posted for the final degree requirements and all requirements have been audited by the Registrar’s Office. 
+**Graduation Requirements:** Students must submit an Application to Graduate with the Registrar’s Office the *term prior to* completing their degree, which initiates a final review of degree candidates' academic records and degree requirements to verify that all are on track to graduate in the term indicated on their application. Degrees are conferred after the final grade is posted for the final degree requirements and all requirements have been audited by the Registrar’s Office. 
 
-**Degree Conferral: **Make School confers degrees three times per year at the end of the Spring, Summer and Fall semesters.  Degrees will be posted within 60 days of the last day of the semester and diplomas sent within 90 days.
+**Degree Conferral:** Make School confers degrees three times per year at the end of the Spring, Summer and Fall semesters.  Degrees will be posted within 60 days of the last day of the semester and diplomas sent within 90 days.
 
 ## Degree and Graduation Requirements
 
@@ -765,7 +765,7 @@ Select 45 units (Including 18 upper-division units)
 * **Foundational Curriculum: 15 Units**
 All students must take three 3-unit courses (9 units total) in Computer Science: CS 1.0, CS 1.1, and CS 1.2, and two 3-unit courses (6 units) in Full Stack Web: WEB 1.0 and WEB 1.1.
 
-* **Concentration Curriculum: 15-18 Units (Including 9 Upper-Division). **Students will either choose one of the four concentrations: Back End Web (BEW), Front End Web (FEW), Mobile (MOB), Data Science (DS), or can choose not to have a concentration.  BEW, FEW, and MOB  concentrations require six (6) concentration-specific courses to satisfy the degree requirement. The DS concentration requires five (5) concentration-specific courses to satisfy the degree requirement.
+* **Concentration Curriculum: 15-18 Units (Including 9 Upper-Division).** Students will either choose one of the four concentrations: Back End Web (BEW), Front End Web (FEW), Mobile (MOB), Data Science (DS), or can choose not to have a concentration.  BEW, FEW, and MOB  concentrations require six (6) concentration-specific courses to satisfy the degree requirement. The DS concentration requires five (5) concentration-specific courses to satisfy the degree requirement.
 
     * Back End Web Concentration Courses: 18 Units.
 BEW 1.2, BEW 1.3, BEW 2.1 - 2.5, and BEW 2.9 are  all 3-unit courses. 
@@ -832,7 +832,7 @@ In order to graduate from Make School with a bachelor’s degree, students must 
 
 ### International Language Competency Requirement
 
-In order to earn a Bachelor’s degree, all Make School students must satisfy the International Foreign Language Requirement. While most students will meet this requirement based upon their foriegn language credits earned in High School, other students will need to meet the requirement through one of the options listed below.** Note: **Transfer students entering with 60 or more units are considered to have met this requirement. Second bachelor's degree seeking students are also considered to have met this requirement.
+In order to earn a Bachelor’s degree, all Make School students must satisfy the International Foreign Language Requirement. While most students will meet this requirement based upon their foriegn language credits earned in High School, other students will need to meet the requirement through one of the options listed below.** Note:** Transfer students entering with 60 or more units are considered to have met this requirement. Second bachelor's degree seeking students are also considered to have met this requirement.
 
 All required documentation should be sent to the Office of the Registrar.
 
@@ -927,19 +927,19 @@ Students must take five 3-unit courses from DS 1.1, DS 2.1, DS 2.2, DS 2.3, DS 2
 
 Software Product Development (SPD) is the core curriculum taken by every student. Classes consist of a blend of technical and general skills that all software engineers and employees must master to be successful developers and engineers. Courses include SPD classes taken every term which include designing, coding, and shipping a unique portfolio product., INT (Intensive) sessions which are week long immersive product development courses offered three times a year, and SWE (Supervised Work Experience) which is an internship experience taken in the first or second summer. 
 
-**SPD 1.1****: Introduction to Product Development (ACS 1910)**
+**SPD 1.1: Introduction to Product Development (ACS 1910)**
 
 *Prerequisites: None*
 
 This course covers how to build products that people love. Key concepts include understanding user needs (industry and competitive analysis, user interviews), building iterative prototypes (wireframes, user journeys, scoping), and doing the work to validate your idea (user testing). This course also teaches success skills necessary to become a well-rounded product developer, including using professional communication best practices, building healthy habits, and getting feedback from industry contacts and peers. 
 
-**SPD 1.2****: Agile Development & UX/UI (ACS 1920)**
+**SPD 1.2: Agile Development & UX/UI (ACS 1920)**
 
 *Prerequisites: None*
 
 This course guides students in building a product using the lean product development methodology. Students work in pairs and gain practice working through the challenges that arise during collaboration. This course also layers in lessons related to UI/UX to help students iteratively improve the look and feel of their product. Key concepts covered include: information hierarchy, system state, grid systems, onboarding teardowns, typography and color, digital mockup tools, user testing. By the end of the term student teams will ship a beautiful product that delights users.
 
-**SPD 1.3****: ****Team Software Project**** (ACS 2930)**
+**SPD 1.3: Team Software Project (ACS 2930)**
 
 *Prerequisites: None*
 
@@ -951,7 +951,7 @@ This course focuses on the foundational skills of successful engineering teams. 
 
 This course focuses on engineering careers, particularly on how to prepare for technical interviews. You'll be able to clearly walk an interviewer through your thought process, clearly craft code on a whiteboard, and check your work to show improvements and drawbacks. You will also hone your resume and LinkedIn profiles to highlight your most recent accomplishments. You'll use these stunning upgrades to your resume and portfolio, to connect with industry professionals to hear what their experience was like while interviewing for companies and beginning their careers.
 
-**SDP 1.51****: ****Engineering Careers: Management & Leadership (ACS 2951)**
+**SDP 1.51: Engineering Careers: Management & Leadership (ACS 2951)**
 
 *Prerequisites: None*
 
@@ -969,7 +969,7 @@ Students team up to work on an ambitious project of their choice or with actual 
 
 A continuation of SPD 2.1. Students continue work on their industry collaboration project from last term. Now that their products are live, teams will work to acquire and retain users using industry practices in growth marketing. Teams also make data-driven design decisions based off site traffic. This class experience continues to simulate many challenges and opportunities of actual work environments.
 
-**SPD 2.3****: Onboarding (ACS 4941)**
+**SPD 2.3: Onboarding (ACS 4941)**
 
 *Prerequisites: None*
 
@@ -981,7 +981,7 @@ This course prepares students to onboard to a development job and to navigate th
 
 This course focuses on advanced topics in testing and code craftsmanship. Students apply these concepts to existing portfolio projects, adding a further layer of sophistication. Topics covered include: types of testing, automated testing, design patterns, open source coding, and navigating massive codebases. The course also covers guiding principles in software development that help professional developers make decisions on what language, frameworks, and construction practices to use while building projects. By the end of the course, students will have refactored projects to have better testing and architecture, and built an additional solo project incorporating course principles
 
-**SPD 2.4****1: Onboarding Into Companies (ACS 4941)**
+**SPD 2.41: Onboarding Into Companies (ACS 4941)**
 
 *Prerequisites: None*
 
@@ -1037,15 +1037,15 @@ Students in the five foundation courses will master the basics of computer scien
 
 *Prerequisites: None*
 
-This course covers the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions. Students will learn software development skills including writing pseudocode, drawing flowchart diagrams, problem solving, and debugging.** **
+This course covers the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions. Students will learn software development skills including writing pseudocode, drawing flowchart diagrams, problem solving, and debugging.
 
-**CS 1.1: ****Object Oriented Programming**** (ACS 1110)**
+**CS 1.1: Object Oriented Programming (ACS 1110)**
 
 *Prerequisites: CS 1.0*
 
 This course covers the fundamentals of programming including variables, data types, control flow, conditionals, loops, lists, dictionaries, functions, and object-oriented programming. Students will master top-level concepts in software development including writing pseudocode, using functions to process input into output, technical project planning, and diagramming. The course will also cover how computers work, from components and layout to memory and machine code instructions.
 
-**CS 1.2: ****Introduction to Data Structures**** (ACS 1120)**
+**CS 1.2: Introduction to Data Structures (ACS 1120)**
 
 *Prerequisites: CS 1.1*
 
@@ -1067,19 +1067,19 @@ This course covers language-independent web server frameworks and patterns in fu
 
 Students in these courses will build on the foundational computer science and master concepts such as data structures, algorithm design and analysis, discrete math, probability, recursion, and object-oriented programming. Understanding these topics is necessary to build scalable software that can gracefully handle millions of users and data points. Technical interviews and programming challenges very often assess an applicant’s ability to apply these skills and knowledge to a new problem. Students will write blog posts about these topics explaining how they work to understand deeper and bolster your online presence as a knowledgeable and proficient software engineer.
 
-**CS 1.3****: Core Data Structures & Algorithms**** (ACS 2130)**
+**CS 1.3: Core Data Structures & Algorithms (ACS 2130)**
 
 *Prerequisites: CS 1.2*
 
 This course explores the foundations of computer science including discrete mathematics, abstract data types, data structures, and algorithm analysis and design. Students will compare and contrast iterative and recursive algorithms to analyze design and performance tradeoffs. Students will implement and test data structures including lists, stacks, queues, sets, maps, and trees. Students will then apply these to real-world problems like phone call routing to understand their tradeoffs. Students will also write technical blog articles about these topics to deepen understanding, improve technical writing, and bolster their online presence as knowledgeable and proficient software engineers. 
 
-**CS 2.1****: Advanced Trees & Sorting Algorithms**** (ACS 31110)**
+**CS 2.1: Advanced Trees & Sorting Algorithms (ACS 31110)**
 
 *Prerequisites: CS 1.3*
 
 In this course students will implement and test advanced data structures and algorithms, analyze algorithmic complexity, benchmark performance in time and memory usage, and draw out elegant problem-solving techniques. Key concepts include divide-and-conquer recursion, sorting algorithms, heaps, tries, n-ary trees, and self-balancing trees. Students will build an original project that applies these data structures to real-world problems such as autocomplete, expression parsing, and phylogenetic trees. Students will also write technical blog articles about these topics to deepen understanding, improve technical writing, and bolster their online presence as knowledgeable and proficient software engineers. 
 
-**CS 2.2****: Advanced Recursion & Graphs**** (ACS 3120)**
+**CS 2.2: Advanced Recursion & Graphs (ACS 3120)**
 
 *Prerequisites: CS 1.3*
 
@@ -1113,7 +1113,7 @@ In this course students deepen their understanding of the web and implement adva
 
 In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. Students will also learn about DevOps without containers using AWS and S3 tools. The course will tie both these patterns together with generic DevOp patterns, such as environmental design, development controls, and uptime management. 
 
-**BEW 2.3****: Introduction to Web Security (ACS 3230)**
+**BEW 2.3: Introduction to Web Security (ACS 3230)**
 
 *Prerequisites: BEW 1.2*
 
@@ -1131,7 +1131,7 @@ In this course, students will learn how to utilize a fresh, exciting new develop
 
 In this course, students discover the value of strongly typed languages in server-side architectures, and dive deep into performant, concurrent programming paradigms present in Go. In studying Go, which is known for its ability to blend the expressive features of dynamic languages (Python, JavaScript) with the performance capabilities of compiled languages (C, C++), students will gain the syntactic diversity required in today's large-scale platform engineering pursuits. Throughout the course, students will learn and implement the design patterns and best practices that make Go a top choice at high-velocity startups like Lyft, Heroku, Docker, and Medium.
 
-**BEW 2.9****: Back End Web Technical Seminar (ACS 4290)**
+**BEW 2.9: Back End Web Technical Seminar (ACS 4290)**
 
 *Prerequisites: 6 credits in BEW Concentration, Instructor Approval *
 
@@ -1211,7 +1211,7 @@ This course is a deep exploration of CSS. Students take a close look at renderin
 
 This course covers the process and tools used to build single page applications (SPA) using the most up-to-date tools and techniques. Students will learn to manage state and render on state changes using reactive programming techniques. Modern JavaScript libraries including React and Redux will be used.
 
-**FEW 2.4****: Native Development with JavaScript (ACS 3340)**
+**FEW 2.4: Native Development with JavaScript (ACS 3340)**
 
 *Prerequisites: FEW 2.3*
 
@@ -1233,13 +1233,13 @@ This is an advanced course with industry relevant topics suggested by students w
 
 Students pursuing the *Mobile Concentration *learn the theory and application of the full product development process for mobile applications. Beginning with Swift programming language and its core object-oriented programming principles, students then study Apple’s front-end frameworks for creating interactive applications, first creating single page and then multi-page apps. In upper division courses, students will learn to synchronize the local and cloud data in their applications, using the same advanced frameworks used in industry. 
 
-**MOB 1.1****: Introduction to Swift (ACS 1410)**
+**MOB 1.1: Introduction to Swift (ACS 1410)**
 
 *Prerequisites: None*
 
 This course covers the foundations of Swift programming language. Students learn core concepts in mobile development including variables, constants, keywords, conditionals, loops, data types, object oriented principles. Students will practice these concepts by building games in Swift and simple iOS applications using UIKit. 
 
-**MOB 1.2****: Introduction to iOS Development (ACS 2420)**
+**MOB 1.2: Introduction to iOS Development (ACS 2420)**
 
 *Prerequisites: MOB 1.1*
 
@@ -1251,25 +1251,25 @@ This course covers the foundations of Swift programming language. Students learn
 
 This course covers the programming concepts needed to create dynamic iOS applications that can respond to user events. Key concepts include closures, callbacks and delegations. Students will learn how these constructs are used to pass information between views and objects and common communication patterns and roles. Students will fetch and parse information from the internet through APIs, interact with public APIs with and without authentication, make network requests in iOS using native Swift tools, model a networking layer in iOS, and parse a JSON network response using native Swift tools. The course will also introduce popular networking libraries and tools such as Alamofire & Firebase.
 
-**MOB 2.1****: Local Persistence in iOS (ACS 3410)**
+**MOB 2.1: Local Persistence in iOS (ACS 3410)**
 
 *Prerequisites: MOB 1.3 *
 
 This course covers how and why to persist data in mobile development. Students learn the various options for saving data locally in iOS including Core Data, Realm, NSCoder, UserDefaults, and Keychain. Key concepts include best practices in storing and retrieving sensitive data and how to work with the iOS file system. 
 
-**MOB 2.2****: 2D Mobile Game Development (ACS 3420)**
+**MOB 2.2: 2D Mobile Game Development (ACS 3420)**
 
 *Prerequisites:  MOB 1.3*
 
 This course is an introduction to gaming on mobile devices. Students will learn SpriteKit and important core concepts like Sprites, Sprite Sheets, physics, and common gaming software patterns like State Machine.
 
-**MOB 2.3****: iOS Concurrency & Parallelism (ACS 3430)**
+**MOB 2.3: iOS Concurrency & Parallelism (ACS 3430)**
 
 *Prerequisites: MOB 2.1*
 
 This course covers concurrency and parallelism in iOS to optimize programming performance on mobile devices which are built with multiple cores. Students will learn the foundation of Grand Central Dispatch and build applications that run multiple tasks simultaneously which improves speed.
 
-**MOB 2.4: ****Advanced Architectural Patterns in iOS (ACS 4410)**
+**MOB 2.4: Advanced Architectural Patterns in iOS (ACS 4410)**
 
 *Prerequisites: MOB 2.3 and BEW 1.2*
 
@@ -1289,19 +1289,19 @@ This is an advanced course with industry relevant topics suggested by students w
 
 In this course students learn and implement various sales strategies to acquire new customers. Students will perform contracting work with real and hypothetical clients to create products according to specification. Key concepts include how to find contracting work the steps to ensure client satisfaction.
 
-**EPM 2.1****: Entrepreneurship (ACS 3970)**
+**EPM 2.1: Entrepreneurship (ACS 3970)**
 
 *Prerequisites: 9 Technical Credits, Instructor Approval*
 
 This course covers how to grow a business once the idea is validated and how to scale while raising funding from investors, bankers, or customers. Students will learn how to hire real and virtual employees, understand legal contracts for incorporating and distributing equity, and develop pitch decks for real products.
 
-**SUP 2.1****: Supervised Intensive Study (ACS 4991)**
+**SUP 2.1: Supervised Intensive Study (ACS 4991)**
 
 *Prerequisites: 6 Technical Credits, Project Advisor Approval*
 
 This course is an independent study to give students with diverse interests the space and time to explore and practice their craft and exercise their skills. Students will work with an advisor and make a plan that includes elements of theory, writing, reading, planning, and significant programming with key deliverables and timeline. To register for these courses, the student must find a Supervisor (instructor or staff) who will oversee their progress and complete the [SUP Contract Template. ](http://make.sc/SUP-contract)
 
-**SUP 2.2****: Supervised Intensive Project (ACS 4992)**
+**SUP 2.2: Supervised Intensive Project (ACS 4992)**
 
 *Prerequisites: 6 Technical Credits, Project Advisor Approval*
 
@@ -1341,7 +1341,7 @@ This course places an emphasis on critical thinking through research, evaluating
 
 **MATH 1450: Mathematical Thinking and Quantitative Reasoning**
 
-*Prerequisites: **Score of 30 or higher on ALEKS exam or transfer credit for MATH 1210 (but put in course title) or higher.*
+*Prerequisites: Score of 30 or higher on ALEKS exam or transfer credit for MATH 1210 (but put in course title) or higher.*
 
 An introductory university mathematics course designed to enable students to see mathematics as an enriching and empowering discipline. Topics covered include principles of reasoning, problem solving tools, fundamentals of statistics, modeling our world, exponential growth and decay, fundamentals of probability, putting statistics to work, real-world mathematical applications. Purchase of a specific brand and model of a graphing calculator may be required.
 
@@ -1453,7 +1453,7 @@ Using an interdisciplinary framework this course stresses that myth, symbol and 
 
 ## Tuition and Costs
 
-The total anticipated cost (direct and indirect) and charges for 2020-2022 Bachelor in Applied Computer Science Students is **$113,078.**** **A breakdown of tuition and charges per year is included below. Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
+The total anticipated cost (direct and indirect) and charges for 2020-2022 Bachelor in Applied Computer Science Students is **$113,078.** A breakdown of tuition and charges per year is included below. Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
 
 Tuition for 2020-2022 Bachelor in Applied Computer Science Students
 
@@ -1551,11 +1551,11 @@ Under Make School’s Financial Hold Policy, students may be restricted from enr
 
 Enrollment Restriction Criteria
 
-* **Non-Payment Amount Less than $1,000: **Student is allowed to register
+* **Non-Payment Amount Less than $1,000:** Student is allowed to register
 
-* **Non-Payment Amount Between $1,000 - $5,000: **Student is allowed to register if they agree to a payment plan.
+* **Non-Payment Amount Between $1,000 - $5,000:** Student is allowed to register if they agree to a payment plan.
 
-* **Non-Payment Amount Greater than $5,000: **Student is not allowed to register 
+* **Non-Payment Amount Greater than $5,000:** Student is not allowed to register 
 
 These invoices will be sent from this email address: [invoice@hq.bill.com](mailto:invoice@hq.bill.com) with the subject line, "You have an invoice from Make School". If you have questions that are related to how to pay the invoice or want to discuss a payment plan, please reach out to [financial.aid@makeschool.com](mailto:finance@makeschool.com). 
 
@@ -1641,14 +1641,12 @@ Make School is creating and funding an Extended Income-Based Repayment (EIBR) pr
 The EIBR protection plan is designed as an extension of the Federal IBR program to apply to all types of loans not covered by the Federal IBR and preserve the protection and incentive alignment of previous payment plan options. The EIBR protection plan will cap total student loan payments (combined federal, parent plus, and private) to the following percentages of monthly gross income.
 
 Graduate Annual Gross Income	EIBR Cap
-$60K+	20%
-$50-59K	18%
-$40-49K	15%
-$30-39K	10%
-$20-29K	6%
-<$20K	0%
-
-
+$60K+	  20%
+$50-59K	  18%
+$40-49K	  15%
+$30-39K	  10%
+$20-29K	  6%
+less than $20K	0%
 
 *Disclaimer: the stated EIBR caps apply to students enrolling in Fall 2020. These caps are subject to change by a few percentage points for future cohorts as we collect data on how the program is working and what challenges surface.*
 
@@ -1656,7 +1654,7 @@ Any debt obligation beyond the cap will be paid out by the EIBR protection plan.
 
 We expect that around 80% of students will qualify for the cheaper funding options, government and private loans, to fund their Make School education. For those who don’t, we still plan on offering tuition gap funding. To receive tuition gap funding, students will be required to apply for these new funding options first*.
 
-**If you have significant existing debt that would result in unaffordable monthly payments after Make School, you may be denied for both loans and tuition gap funding. Please contact us immediately at **[admissions@makeschool.co*m](mailto:admissions@makeschool.com)* if you have more than $7,500 in outstanding debt. This is not a hard cut-off, just an amount that will trigger a conversation about the best financial options for you.*
+**If you have significant existing debt that would result in unaffordable monthly payments after Make School, you may be denied for both loans and tuition gap funding. Please contact us immediately at [admissions@makeschool.com](mailto:admissions@makeschool.com) if you have more than $7,500 in outstanding debt. This is not a hard cut-off, just an amount that will trigger a conversation about the best financial options for you.**
 
 ## Satisfactory Academic Progress (SAP) for Financial Aid
 
@@ -1685,8 +1683,6 @@ Term 1
 (7 wk)	Term 5
 (7 wk)	Int 4
 (2 wk)
-
-
 
 Make School is an accelerated program and full time students enroll in 12 units per term, 24 units per semester for fall and spring, and 15 units during the summer semester.  
 
@@ -1718,7 +1714,7 @@ Students are required to maintain a minimum quantitative Completion Rate of 67% 
 
     * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass three courses and Fail one course. The completion rate is 9/12 = 75%.  The student has met the completion rate criteria. 
 
-    * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass two courses, Withdraw from one course and Fail one course. The completion rate is 6/12 = 50%. The student has **not **met the completion rate criteria. 
+    * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass two courses, Withdraw from one course and Fail one course. The completion rate is 6/12 = 50%. The student has **not** met the completion rate criteria. 
 
 **Maximum Time-Frame**
 
@@ -1874,29 +1870,29 @@ Emotional Support Animal (ESA) Policy
 
 Emotional Support Animals (ESAs) are animals that provide emotional support which alleviates one or more identified symptoms or effects of an individual’s existing disability. Animals whose sole function is to provide comfort or emotional support are Emotional Support Animals, not Service Animals.
 
-A student seeking to bring an ESA onto the Make School campus, must make a formal request to Operations personnel.** **The request should be made at least 30 days before the start of the semester or academic year for which the presence of an ESA is requested. Documentation indicating the need for an ESA must be current, presented on professional letterhead, and signed by the licensed provider. This documentation must also specifically prescribe an ESA and note the type of animal that is recommended.
+A student seeking to bring an ESA onto the Make School campus, must make a formal request to Operations personnel. The request should be made at least 30 days before the start of the semester or academic year for which the presence of an ESA is requested. Documentation indicating the need for an ESA must be current, presented on professional letterhead, and signed by the licensed provider. This documentation must also specifically prescribe an ESA and note the type of animal that is recommended.
 
 In addition, before a specific ESA is approved, the Handler must submit documentation from a licensed veterinarian that the ESA is in good health and that its required immunizations are up- to-date. As part of the approval process, the individual requesting the ESA may be required to meet with Make School representatives. Make School will provide written notification of animal-specific approval of an ESA request. If an individual intends to replace an approved ESA with a new animal, a new request must be made.
 
-Need to register a Service Animal or Emotional Support Animal with Make School? Complete the [Service Animal Agreement](make.sc/service-animal-agreement) or [Emotional Support Animal Agreement](make.sc/esa-agreement)[ ](make.sc/esa-agreement)Forms.
+Need to register a Service Animal or Emotional Support Animal with Make School? Complete the [Service Animal Agreement](make.sc/service-animal-agreement) or [Emotional Support Animal Agreement](make.sc/esa-agreement) Forms.
 
 ## Information Technology
 
 Information Technology is a key component to students’ success at Make School. We expect all students to conduct themselves in a respectful, inclusive manner when communicating online and through social media.
 
-GSuite Account
+### GSuite Account
 
 All Make School students will receive an official Make School email address, which should be used for all communication while you’re a student. This email address will be your legal first name, a period, and your legal last name, followed by @students.makeschool.com (e.g., john.doe@students.makeschool.com). This account is part of the Google Suite, which also gives access to all administrative Google interfaces (i.e., Google Drive, Google Docs, etc.).
 
-GitHub Account
+### GitHub Account
 
 [GitHub](https://github.com/Product-College-Courses/) is our Learning Management System for the technical courses at Make School. Be sure to register for an account prior to your first day of classes.
 
-Slack Account
+### Slack Account
 
 [Slack](http://slack.com) is the main platform Make School uses for informal communication. Announcements, reminders about action items, and community conversations are shared via this service. It is important that you are attentive to your Slack channels and messages, as this is often the fastest way to share information with colleagues and Make School staff. Students are automatically invited to Slack upon enrollment. To access the student Slack workspace on your computer or mobile device, open the email invitation sent to your Make School email account and click "join." Slack will then guide you through the process of setting up your account.
 
-Social Media Accounts
+### Social Media Accounts
 
 Make School has a robust [Facebook](https://www.facebook.com/makeschool/) and [LinkedIn](https://www.linkedin.com/school/makeschool/) network! **Facebook** is used to enhance internal communications among the Make School community. You can join the following Make School groups on Facebook:
 
@@ -1962,17 +1958,17 @@ Once the investigation is complete and the student has been notified of the viol
 
 A PIP is a specific plan developed on an individual basis to set clearly articulated goals or objectives to improve performance. It includes check-ins, transparent expectations, and closely monitored progress by the conduct administrator and the student’s coach. There are two types of PIPs based on the type of policy violation: behavioural or academic:
 
-* A **Conduct PIP **issued for Conduct Violations listed in this Course Catalog & Student Handbook.
+* A **Conduct PIP** issued for Conduct Violations listed in this Course Catalog & Student Handbook.
 
-* An **Academic PIP **is issued for either academic violations listed in the Course Catalog & Student Handbook, or when a student is not making Satisfactory Academic Progress.  
+* An **Academic PIP** is issued for either academic violations listed in the Course Catalog & Student Handbook, or when a student is not making Satisfactory Academic Progress.  
 
 While on a PIP, a student may be considered not to be in good standing and may have certain restrictions related to their participation in select programming and events. Examples include, but not limited to, field trips, mock technical interviews, access to new industry contacts, student jobs (i.e., Teaching or Resident Assistantships), participation in Student Council, and outcomes referrals to partner companies.  Any such restrictions will be noted in the PIP. 
 
 A PIP typically is in effect for a specific time period (usually 30 days) and the student performance will be re-evaluated at the end of that time period. If a PIP does not result in the student meeting the goals or objectives, the student may be dismissed or suspended from Make School either immediately or at the end of the term as denoted in the PIP. Typically, a dismissed student is not allowed to return to Make School, and a suspended student may be allowed to return by reapplying the following year.
 
-**Alternate Conduct Action: **Reports of violations of certain policies (i.e., violations of Sexual Misconduct policies or violation of the Alcohol, Drug & Smoking Policies) may require alternate conduct action.
+**Alternate Conduct Action:** Reports of violations of certain policies (i.e., violations of Sexual Misconduct policies or violation of the Alcohol, Drug & Smoking Policies) may require alternate conduct action.
 
-Request for Appeal of Conduct Action
+### Request for Appeal of Conduct Action
 
 A request for an appeal of the findings and/or sanctions is subject to the grounds outlined below. All original sanctions imposed remain in effect through determination of the appeal, and both parties should be timely informed of the status of the request for appeal, the status of the appeal consideration, and the result of the appeal decision. Requests for Appeal must be submitted in writing to the Dean of Make School within five (5) business days of receipt of the findings/sanctions being issued. 
 
@@ -2070,9 +2066,7 @@ In the event off-campus conduct results in an arrest or criminal proceedings, st
 
 ## Non-Retaliation
 
-No individual shall be penalized in any way for having reported or threatened to report any violation of procedure, policy, or non-compliance with the *Code of Conduct, Equity & Inclusion*, or for cooperating with or participating in any grievance investigation. Furthermore, no individual shall be penalized for reporting incidents of discrimination, harassment, or sexual misconduct. Retaliation by any member of the community against such an individual is prohibited, and shall be considered a serious violation of Make School policy. Retaliation includes threats, intimidation, reprisals, and any adverse actions related to an individual’s employment or 
-
-Education.
+No individual shall be penalized in any way for having reported or threatened to report any violation of procedure, policy, or non-compliance with the *Code of Conduct, Equity & Inclusion*, or for cooperating with or participating in any grievance investigation. Furthermore, no individual shall be penalized for reporting incidents of discrimination, harassment, or sexual misconduct. Retaliation by any member of the community against such an individual is prohibited, and shall be considered a serious violation of Make School policy. Retaliation includes threats, intimidation, reprisals, and any adverse actions related to an individual’s employment or Education.
 
 ## Title IX: Understanding Harassment & Sexual Misconduct
 
@@ -2080,21 +2074,19 @@ Education.
 
 All Make School designated Title IX investigators have received [training](https://icslawyer.com/posting-for-review-higher-ed-investigator-level-1-two-day/) as required by OCR in §106.45(b)(10)(i)(D).
 
-Reporting Misconduct
+### Reporting Misconduct
 
 Make School refuses to accept any violation of the *Code of Conduct, Equity & Inclusion*, including violations of our standard Conduct Policies and [Title IX Policy](https://www.dominican.edu/sites/default/files/2020-11/title_ix_policy_dhr_policy_for_employees-after-aug14.pdf). Those asked to stop inappropriate behaviors are expected to comply immediately and may face further disciplinary action (i.e., being removed from community spaces, etc.). To keep our community safe, we encourage reporting conduct violations, and will maintain reporter privacy to the extent permissible by law and policy. Conduct violations can be reported via our [Student Reporting Form](http://make.sc/student-reporting-form) or emailed directly to our [Title IX Coordinator](mailto:student.affairs@makeschool.com). 
 
-* **Title IX Coordinator: **Carmen Ye ([carmen@makeschool.com](mailto:carmen@makeschool.com))
+* **Title IX Coordinator:** Carmen Ye ([carmen@makeschool.com](mailto:carmen@makeschool.com))
 
 * **Lead Investigator:**  Michelle Lessly Backburn ([michelle.blackburn@makeschool.com](mailto:michelle.blackburn@makeschool.com))
 
-* **Decision Making Administrator (DMA): **Anne Spalding ([anne@makeschool.com](mailto:anne@makeschool.com))	
+* **Decision Making Administrator (DMA):** Anne Spalding ([anne@makeschool.com](mailto:anne@makeschool.com))	
 
-Reporting Options and Resources
+### Reporting Options and Resources
 
 For all Title IX disclosures and incident reports, medical and counseling support or resources will be offered, and interim remedies may be made available (e.g., room or class schedule change for respondent or no contact order) to both the Complainant (person who was subject to the alleged violation) and the Respondent (person alleged of the violation). Based upon the nature of the incident, Make School students may be subject to the Title IX processes as described below. A report of this nature will be reflected in Make School’s annual crime statistics if it meets reporting criteria.
-
- 
 
  Options	Investigation & Disciplinary Process	Assistance Reporting
 to Local Police*
@@ -2103,17 +2095,11 @@ Reporting the assault and pursuing criminal charges only.	If made aware of the i
 Reporting the assault and pursuing both Make School and criminal charges.	Make School will proceed with an investigation and disciplinary process as permitted by Federal Law.	Make School will provide assistance, if requested, to make a report to the local Police Department.
 Reporting the assault, but choosing not to pursue charges.	Make School will proceed with an investigation, and, if appropriate, a disciplinary process.	 
 
-
-
- 
-
 *In certain instances, the University may need to report conduct to law enforcement authorities even when the complainant has not decided to do so.
-
- 
 
 The processes listed above may occur simultaneously, although the Make School’s disciplinary processes and the Criminal process occur independently of each other.
 
-Responding to Misconduct
+### Responding to Misconduct
 
 In the event Make School has actual knowledge of a potential violation of the Conduct Policies and Title IX Policy, Make School will most likely take the actions (not necessarily in this order):
 
@@ -2151,22 +2137,21 @@ This section of the Catalog focuses on any resources or support a student may ne
 
 ## College Team Staff and Instructors
 
-Academic Administration
+### Academic Administration
 
 This team is here to make sure your living and learning environment is dynamic, inclusive, and compliant. The Academic Administrators will help you stay on track for graduation, listen to your feedback, and work with the College Team to address student needs. 
 
-* **Dean: ** [Anne Spalding](mailto:anne@makeschool.com), Doctor of Philosophy, University of Colorado at Denver, 1998; Master of Science, University of Colorado at Denver, 1996; Bachelor of Science, University of Colorado at Denver, 1993
+* **Dean:** [Anne Spalding](mailto:anne@makeschool.com), Doctor of Philosophy, University of Colorado at Denver, 1998; Master of Science, University of Colorado at Denver, 1996; Bachelor of Science, University of Colorado at Denver, 1993
 *Instructor and Student Support, Curriculum Design, Building the School*
 
-* **Director of Science & Letters: **[Justine Mey](mailto:justine@makeschool.com), Doctor of Philosophy in Education, The Gevirtz School of Education, University of California, Santa Barbara, 2017; Masters of Arts, University of California Santa Barbara, Santa Barbara, CA, 2010; Bachelor of Arts, Brandeis University, Waltham, MS, 2002
+* **Director of Science & Letters:**[Justine Mey](mailto:justine@makeschool.com), Doctor of Philosophy in Education, The Gevirtz School of Education, University of California, Santa Barbara, 2017; Masters of Arts, University of California Santa Barbara, Santa Barbara, CA, 2010; Bachelor of Arts, Brandeis University, Waltham, MS, 2002
 
-* **Director of ****Student & Academic Affairs:** [Michelle Lessly Blackburn](mailto:student.affairs@makeschool.com), Doctor of Law and Public Policy, Northeastern University, 2016;  Masters of Education, Abilene Christian University, 2008; Bachelor of Arts, Abilene Christian University, 2005
+* **Director of Student & Academic Affairs:** [Michelle Lessly Blackburn](mailto:student.affairs@makeschool.com), Doctor of Law and Public Policy, Northeastern University, 2016;  Masters of Education, Abilene Christian University, 2008; Bachelor of Arts, Abilene Christian University, 2005
 *Student Affairs, Academic Support, Title IX*
 
-* **Registrar, Director of Institutional Research: **[Kaleena L.M. Findley](mailto:kaleena@makeschool.com), Master of Science, Touro College, Graduate School of Education & Technology (NY), 2009; Bachelor of Arts, Long Island University-CW Post, 2004*
-*
+* **Registrar, Director of Institutional Research:** [Kaleena L.M. Findley](mailto:kaleena@makeschool.com), Master of Science, Touro College, Graduate School of Education & Technology (NY), 2009; Bachelor of Arts, Long Island University-CW Post, 2004
 
-Instructors
+### Instructors
 
 Our diverse faculty is composed of individuals with recent, relevant software engineering experience and academic degrees in computer science. Instructors guide students through project-based learning that promotes both skill development and theoretical understanding in software engineering, computer science, and agile product development.  This team is here to make sure you meet your academic goals by providing project-based learning opportunities. The Instructors will help you master software development  concepts, provide academic support, and help you grow as an engineer.
 
@@ -2186,13 +2171,13 @@ Our diverse faculty is composed of individuals with recent, relevant software en
 
 * [Regina Yoong](mailto:regina@makeschool.com), Doctor of Philosophy in English, Ohio University, 2020; Master of Arts, University of Malaya, Malaysia, 2017; Bachelor of Arts, UCSI University, Malaysia, 2012
 
-Curriculum
+### Curriculum
 
 This team is here to make sure we offer you the best learning experience possible. The Curriculum team works to ensure what you’re learning in class will help you meet your career goals, is in keeping with industry best practices, and offers additional learning support.
 
 * [Ian Birnam](mailto:ian@makeschool.com)**,** Bachelor of Arts, University of California at Berkeley, 2014
 
-Student Experience 
+### Student Experience 
 
 This team is here to make sure you have the best experience possible outside the classroom and in the residence hall. Student Experience will help you become a student leader, feel connected to the Make School community, and make San Francisco feel like home. 
 
@@ -2200,11 +2185,9 @@ This team is here to make sure you have the best experience possible outside the
 
 * **Coordinator:** [Lisa Tran](mailto:lisa.tran@makeschool.com), Master of Arts, University of San Francisco, 2019; Bachelor of Arts, University of California at Irvine, 2013
 
-Student Outcomes 
+### Student Outcomes 
 
 This team is here to make sure you are job ready by the time you graduate. Student Outcomes will help you get access to internship opportunities, build your professional network, and hone your interviewing skills.
-
- 
 
 * [Jeff D’Andria](mailto:jeff@makeschool.com), Masters of Science, Syracuse University, 2012; Bachelor of Arts, University of California at Davis, 2008; Associate of Arts, Skyline College, 2006 
 
@@ -2232,39 +2215,39 @@ Make School also provides a number of events and activities for remote students 
 
 ## Emergency Procedures & Preparedness
 
-Safety & Security on Campus
+### Safety & Security on Campus
 
 Security and safety on campus must be a top priority for all of us. While the Make School is committed to making our campus a safe environment, it would be impossible to prevent all criminal activity. To make the campus as secure as possible, the following information is provided so that you are familiar with procedures Make School has set in place to foster a safe campus environment:
 
 * **Campus Access:**  Make School campus is open Monday through Friday from 9:00am to 6:00pm, and access to our facilities is monitored and controlled by Make School ID badges.
 
-* **Campus Security:  **After Hours Security for Make School and Hotel Zeppelin can be reached by phone at (415) 563-0303. 
+* **Campus Security:** After Hours Security for Make School and Hotel Zeppelin can be reached by phone at (415) 563-0303. 
 
 * **Formal Complaints:**  A victim of a crime wishing to file a formal complaint against a perpetrator who is a member of the campus community should refer to Make School’s [Formal Resolution](https://docs.google.com/document/d/1hCAe9psHARguZE-nEeFaYVUbjPG6VvNXWwrQJj7tXMU/edit#heading=h.gjo7cfcjxl90) Policy. For information about harassment or sexual violence, please refer to the [Title IX Policy.](https://docs.google.com/document/d/1cP3HyewqxDk3RglFfZA8ju7wSDhBHWpeJi5vWlXK9l8/edit#heading=h.kvh5jwtvzk3w)
 
-* **Media Inquiries:  **Any inquiries from the news media regarding the occurrence of criminal incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
+* **Media Inquiries:** Any inquiries from the news media regarding the occurrence of criminal incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
 
 * **Missing Persons Reporting:**  In compliance with the Higher Education Act, Make School gives all students the option to provide confidential contact information for a person to be notified in the event a student is officially reported as missing. Should you have concerns about an individual who may be missing, please speak to the [Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com).
 
-* **Notification of Current Campus Crime:  **Title II of Federal Public Law 101-542, The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, requires colleges to collect and report statistics concerning the occurrence on campus of certain criminal offenses which must be reported to campus security authorities or local police agencies. Those criminal offenses include murder, rape, sex offenses, robbery, aggravated assault, burglary, and motor vehicle theft. In addition, the Violence Against Women Re-authorization Act (VAWRA) requires colleges to report incidents of dating violence, domestic violence, and stalking in addition to crimes related to sexual misconduct and sexual assault. At Make School, the Office of Compliance collects data about these crimes, which are published each year. Information is also collected about arrests for liquor law violations, for drug abuse violations, and for weapon possession. 
+* **Notification of Current Campus Crime:** Title II of Federal Public Law 101-542, The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, requires colleges to collect and report statistics concerning the occurrence on campus of certain criminal offenses which must be reported to campus security authorities or local police agencies. Those criminal offenses include murder, rape, sex offenses, robbery, aggravated assault, burglary, and motor vehicle theft. In addition, the Violence Against Women Re-authorization Act (VAWRA) requires colleges to report incidents of dating violence, domestic violence, and stalking in addition to crimes related to sexual misconduct and sexual assault. At Make School, the Office of Compliance collects data about these crimes, which are published each year. Information is also collected about arrests for liquor law violations, for drug abuse violations, and for weapon possession. 
 
-* **Reporting Crimes & Emergencies: ****_ _**In the event of a violent crime, a crime in progress, or an incident involving personal injury or requiring medical attention, immediately contact the San Francisco Police Department or San Francisco Fire Department by dialing 911. 
+* **Reporting Crimes & Emergencies:** In the event of a violent crime, a crime in progress, or an incident involving personal injury or requiring medical attention, immediately contact the San Francisco Police Department or San Francisco Fire Department by dialing 911. 
 
-* **Reporting Non-Emergency Criminal Acts:  **Non-emergency criminal acts (e.g., vandalism, burglary, etc.) should immediately be reported to:
+* **Reporting Non-Emergency Criminal Acts:** Non-emergency criminal acts (e.g., vandalism, burglary, etc.) should immediately be reported to:
 
 [Michelle Lessly Blackburn](mailto:michelle.blackburn@makeschool.com)
 
 Director of Student Academic Affairs and Clery Officer
 
-Emergency Notification System
+### Emergency Notification System
 
 All students are enrolled into Make School’s emergency alert notification system. In the event of an emergency situation on campus, the system sends text and voice messages to the campus community with important information and instructions. It is imperative that students follow the directions and instructions provided by the system. Make School staff or local civil agencies will initiate procedures to inform students of the nature of the situation and steps to follow.
 
-Procedures & Preparedness
+### Procedures & Preparedness
 
 Please follow the protocols listed below for each emergency situation.
 
-Earthquake
+#### Earthquake
 
 **When indoors:** drop to the floor and take cover. Be prepared to move with it until the shaking stops. If not near a desk or table, huddle against the interior wall of the room and protect your head and neck with your arms. Avoid exterior walls, windows, hanging objects, mirrors, tall furniture, large appliances, and cabinets with heavy objects or glass. Do not go outside until you know that there is safe passage, and no falling debris outside of the building.
 
@@ -2276,9 +2259,7 @@ Earthquake
 
 It is recommended that everyone in the Bay Area have an earthquake kit ready in case of emergency. Many options are available for purchase through Amazon.
 
-
-
-Fire
+#### Fire
 
 Leave the building via the nearest stairway or exit, as safely and quickly as possible if:
 
@@ -2324,8 +2305,6 @@ Make School does not bear responsibility for assisting students in finding housi
 
 	Double Occupancy Room 	$800/month
 
-	
-
 ## Lost & Found
 
 If you lost something at Make School, it is best to check the Lost and Found bin located in the Student Resource Room. If you cannot locate your item(s), or if you want to report adding an item to the Lost and Found bin, you can message the #lost-and-found Slack channel. The Lost and Found bin will be cleared annually.
@@ -2336,14 +2315,14 @@ Make School is located in the heart of San Francisco, so parking is limited to c
 
 Public transit is, by far, the easiest way of navigating the bay area. The basic forms of transportation are, as follows:
 
-* **AC Transit: **This is an Oakland-based public transit agency serving the western portions of Alameda and Contra Costa counties in the East Bay of the San Francisco Bay Area. AC Transit also operates "Transbay" routes across San Francisco Bay to San Francisco and selected areas in San Mateo and Santa Clara counties.
-**Bay Area Rapid Transit (BART): **This is a rapid transit public transportation system serving the San Francisco Bay Area in California. The heavy rail elevated and subway system connects San Francisco and Oakland with urban and suburban areas in Alameda, Contra Costa, and San Mateo counties.
+* **AC Transit:** This is an Oakland-based public transit agency serving the western portions of Alameda and Contra Costa counties in the East Bay of the San Francisco Bay Area. AC Transit also operates "Transbay" routes across San Francisco Bay to San Francisco and selected areas in San Mateo and Santa Clara counties.
+**Bay Area Rapid Transit (BART):** This is a rapid transit public transportation system serving the San Francisco Bay Area in California. The heavy rail elevated and subway system connects San Francisco and Oakland with urban and suburban areas in Alameda, Contra Costa, and San Mateo counties.
 
-* **CalTrain: **This is a California commuter rail line on the San Francisco Peninsula and in the Santa Clara Valley. The northern terminus of the line is in San Francisco at 4th and King streets; its southern terminus is in Gilroy.
+* **CalTrain:** This is a California commuter rail line on the San Francisco Peninsula and in the Santa Clara Valley. The northern terminus of the line is in San Francisco at 4th and King streets; its southern terminus is in Gilroy.
 
-* **The San Francisco Municipal Railway (MUNI): **This is the public transit system for the city and county of San Francisco, California. This includes the cable car system, the internal ‘subway’ system that navigates San Francisco, and buses.
+* **The San Francisco Municipal Railway (MUNI):** This is the public transit system for the city and county of San Francisco, California. This includes the cable car system, the internal ‘subway’ system that navigates San Francisco, and buses.
 
-Clipper Card
+### Clipper Card
 
 We recommend that you invest in a [Clipper Card](https://www.clippercard.com/), which simplifies paying for public transit by allowing you to reload funds automatically and online. It can also save you money! For example, if you opt to automatically reload a High Value Discount ticket for Bay Area Rapid Transit (BART), you receive a 6.25% discount per ride. There are also monthly Muni passes for San Francisco fares, and the option of adding general cash value to your Clipper Card. Please note that loading BART funds onto your account will not allow you to use other forms of public transportation; you will have to load additional funds onto your Clipper Card to access additional modes of travel.
 
@@ -2351,15 +2330,15 @@ We recommend that you invest in a [Clipper Card](https://www.clippercard.com/), 
 
 We empower and encourage students to initiate leadership and ownership over clubs. Since each cohort is unique, we let student voices be heard and support their goals rather than determining standard clubs. In this way, clubs are inspired and self-formed by the community and its members. Previous cohorts have organized a Drone Club, Hackathon Club, and Women in Tech Club. Make School staff members with expertise and/or interest in an area can serve as guides and resources to support student clubs. 
 
-Student Council
+### Student Council
 
 Student Council is a Make School-sponsored group that consists of student advocates, nominated and elected by their peers, who act as the voice of the student body. The council has weekly meetings with the Student Experience team to ensure students are happy, heard, and aware of the efforts employed to support their life here at Make School. The members of the Student Council have the role of listening to student concerns, and communicating these concerns to Make School staff. Student Council is granted a budget and can plan student events in collaboration with the Student Experience team.
 
-Student Event Coordinators
+### Student Event Coordinators
 
 We encourage students to help organize school-related gatherings! Students who express an interest in this role volunteer to meet bi-weekly with the Student Experience Team to plan and organize monthly events for the student body and staff. Events include holiday celebrations, multicultural day meals, talent shows, spring flings, and other school-sponsored functions.
 
-Diversity and Inclusion Committee
+### Diversity and Inclusion Committee
 
 Students are welcome to participate in developing initiatives to support a diverse student population. The student-led D & I committee works with the Student Experience team to host educational programs, trainings, and events to help foster a welcoming and inclusive environment for all community members. 
 
@@ -2373,8 +2352,6 @@ Make School does not provide health insurance but all students are expected to h
 
 Students without health insurance may incur fees with the IRS for lack of coverage.
 
-
-
 ## Hospitals & Clinics
 
 Below are a few local hospitals and clinics, should students ever need immediate care:
@@ -2382,23 +2359,30 @@ Below are a few local hospitals and clinics, should students ever need immediate
 Kaiser Permanente Hospital
 1632 Divisadero Street
 San Francisco
-(415) 833-2000	San Francisco Free Clinic
+(415) 833-2000
+
+San Francisco Free Clinic
 4900 California Street
 San Francisco, CA
-(415) 750-9894	UCSF Hospital
+(415) 750-9894
+
+UCSF Hospital
 505 Parnassus Avenue
 San Francisco
 (415) 476-1000
+
 Planned Parenthood SF
 1650 Valencia Street
 San Francisco, CA 94110
-(415) 821-1282 	SF Sex Information
+(415) 821-1282
+
+SF Sex Information
 (415) 989-7374
-ask-us@sfsi.org	SF General Hospital
+ask-us@sfsi.org
+
+SF General Hospital
 1001 Potrero Ave, San Francisco, CA 94110
 (628) 206-8000
-
-
 
 ## Mental Health & Emotional Support
 
@@ -2406,7 +2390,7 @@ Make School partners with [Better Help](betterhelp.com), an online, on-demand li
 
 Students can also review a comprehensive list of mental health resources at [make.sc/mental-health-resources](https://docs.google.com/document/d/1ONyKidX-a9HCrGVqA0c7JHMSWb85gUjFJlRx5sb9GFE/edit).
 
-Other Recommended Free or Sliding Scale Counseling Services
+### Other Recommended Free or Sliding Scale Counseling Services
 
 Do you want to see a mental health practitioner outside of the on-site service we provide? Below are some free or sliding-scale counseling service providers we recommend. Please note that these organizations are in no way affiliated with Make School.
 
@@ -2414,12 +2398,16 @@ Integral Counseling
 2140 Pierce Street
 San Francisco, CA 94115
 (415) 776-3109 
-Sliding Scale (Starts at $20)	Lyon Martin Clinic
+Sliding Scale (Starts at $20)
+
+Lyon Martin Clinic
 1735 Mission Street
 San Francisco, CA 94103
 (415) 565-7667 
 
-For Women & Trans Patients	San Francisco City Impact 
+For Women & Trans Patients
+
+San Francisco City Impact 
 140 Turk Street
 San Francisco, CA 94102
 (415) 738-6878
@@ -2428,7 +2416,7 @@ Mon. - Fri., 10am - 4pm
 
 
 
-Mental Health "Warm" Lines
+### Mental Health "Warm" Lines
 
 If you need to speak with someone, but you’re not in crisis, a "warm" line may be a useful option for you. These are services you can call to talk through stressful times without going into an office to see a therapist.
 
@@ -2437,30 +2425,34 @@ Peer-Run Warm Line
 (855) 845-7415
 
 Mon. - Thurs., 7am - 11pm
-Fri - Sun., 11am - 7pm	NAMI
+Fri - Sun., 11am - 7pm
+
+NAMI
 Nat’l Alliance on Mental Illness
 National HelpLine 
-(800) 950-6264	Office of Self-Help 
-Emotional Support Warm Line
+(800) 950-6264
+
+Office of Self-Help Emotional Support Warm Line
 (415) 575-1400
 
 Mon. - Tues., 9am - 5pm
 Wed. - Sun., 9am - 8:30pm
 
-
-
-Mental Health Crisis Hotlines
+### Mental Health Crisis Hotlines
 
 The below resources are hotlines that help you when you’re in a mental health crisis, and are possibly at risk of hurting yourself or others. 
 
 SF Suicide Prevention 24-Hour Crisis Line 
-(415) 781-0500  -or-  (800) 273-8255	National Suicide Prevention Lifeline
+(415) 781-0500  -or-  (800) 273-8255
+
+National Suicide Prevention Lifeline
 (800) 273-8255
+
 The Trevor Project (LGBT Suicide Prevention)
-(866) 488-7386	Trauma Recovery/Rape Treatment Center
+(866) 488-7386
+
+Trauma Recovery/Rape Treatment Center
 (415) 437-3000
-
-
 
 ## Childcare
 
