@@ -1,16 +1,6 @@
-![image alt text](image_0.jpg)
-
-Course Catalog 
-
-& Student Handbook
-
-* * *
-
+# Make School Course Catalog & Student Handbook 
 
 2020-2021 Academic Year 
-
-* * *
-
 
 **Make School**
 
@@ -23,7 +13,6 @@ Course Catalog
 **APPROVAL DISCLOSURE STATEMENT**
 
 Make School is a private institution currently seeking approval from the Bureau for Private Postsecondary Education to operate.
-
  
 
 **ANNUAL UPDATES**
@@ -46,17 +35,8 @@ Make School offers courses in a residential format. All courses take place at 55
 
 Make School does not have a pending petition in bankruptcy, is not operating as a debtor in possession, has not filed a petition within the preceding five years, or has not has a petition in bankruptcy filed against it within the preceding five years that resulted in reorganization under Chapter 11 of the United states Bankruptcy Code (11 U.S.C. Sec. 1101 et seq.).
 
-Table of Contents
-
-* * *
-
-
-[[TOC]]
 
 # How to Use This Course Catalog and Student Handbook
-
-# * * *
-
 
 Welcome to Make School! We are excited to have you be a part of our community! We have provided this Course Catalog and Student Handbook to help you during your time at Make School.
 
@@ -77,9 +57,6 @@ How to use this Course Catalog and Student Handbook:
 For quick access to important information, forms, documents, or other items, the [Appendix](https://docs.google.com/document/d/1cP3HyewqxDk3RglFfZA8ju7wSDhBHWpeJi5vWlXK9l8/edit#heading=h.r6g3lcy73iw9) has a list of links to things most commonly used or asked about by Make School Students. This is a great place to start if you’re not sure what you are looking for.
 
 # Institutional Information
-
-* * *
-
 
 ## Message from the Dean
 
@@ -177,10 +154,8 @@ Students receive training in the use of  library resources during orientation in
 
 # Admissions and Enrollment Information
 
-# * * *
 
-
-## Admissions Policy and Procedure 
+## Admissions Policy and Procedure
 
 In addition to completing Make School’s application for admission and being provided with Make School’s course catalog and School Performance Fact Sheet, the  Admissions Team requires that the prospective student: 
 
@@ -315,8 +290,6 @@ For the purpose of determining the amount of the refund, the date of the student
 If any portion of the tuition was paid from the proceeds of a loan or third party, the refund shall be sent to the lender, third party or, if appropriate, to the state or federal agency that guaranteed or reinsured the loan. Any amount of the refund in excess of the unpaid balance of the loan shall be first used to repay any student financial aid programs from which the student received benefits, in proportion to the amount of the benefits received, and any remaining amount shall be paid to the student. If the student has received federal student financial aid funds, the student is entitled to a refund of monies not paid from federal student financial aid program funds.
 
 # Academic and Educational Program Information
-
-# * * *
 
 
 ## Accreditation
@@ -624,8 +597,6 @@ Please note transfer credits do not count toward ‘attempted’ credits on your
 
 # Academic Procedures
 
-# * * *
-
 
 ## Documentation Requests
 
@@ -723,9 +694,6 @@ In addition, Make School maintains data, for a period of not less than five year
 
 # Academic Support
 
-* * *
-
-
 Make School provides academic support to students through coaching, in-class teaching assistants, and an open plan workspace that encourages students to help each other through academic challenges. 
 
 You can access academic support in three ways: through the development of coach-coachee relationships, in-class teaching assistants, and an open plan workspace that encourages students to help each other through academic challenges. If you are uncertain where to go for academic support, your coach should be your first point of contact! 
@@ -757,9 +725,6 @@ Make School prohibits discrimination against any individual with a disability, a
 Please note that all disability-related information (including documentation, accommodation letters, correspondence, and consultations) are considered confidential and will be managed in accordance with The Family Educational Rights and Privacy Act (FERPA) regulations. Your information will not be shared without your expressed, written consent, and all disability-related documentation will be destroyed within 1-2 years of your graduation from Make School.
 
 # Bachelor of Science in Applied Computer Science
-
-# * * *
-
 
 The Bachelor of Science in Applied Computer Science program provides innovative, project based learning in computer science and software engineering. Our curriculum is continually evaluated and evolving with current industry standards and constitutes a balance of technical computer science courses, hands-on software product development, professional identity courses, and thoughtfully-crafted liberal arts requirements. This program is not designed or intended to lead to positions in a profession, occupation, trade, or career field requiring licensure in the State of California.
 
@@ -957,9 +922,6 @@ Students must take five 3-unit courses from DS 1.1, DS 2.1, DS 2.2, DS 2.3, DS 2
 * Key Prerequisites: Most Data Science courses have the previous course as a prerequisite and must be taken in order. QL 1.1 and CS 1.2 -> DS 1.1 -> DS 2.1 ->DS 2.2 -> DS 2.4, DS 2.1 -> DS 2.3
 
 # Course Descriptions
-
-# * * *
-
 
 ## SPD: Software Product Development
 
@@ -1489,9 +1451,6 @@ Using an interdisciplinary framework this course stresses that myth, symbol and 
 
 # Tuition Information
 
-# * * *
-
-
 ## Tuition and Costs
 
 The total anticipated cost (direct and indirect) and charges for 2020-2022 Bachelor in Applied Computer Science Students is **$113,078.**** **A breakdown of tuition and charges per year is included below. Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
@@ -1605,8 +1564,6 @@ These invoices will be sent from this email address: [invoice@hq.bill.com](mailt
 All tuition and financial aid questions should be sent to [financial.aid@makeschool.com](mailto:financial.aid@makeschool.com). Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
 
 # Student Financial Aid Policies
-
-# * * *
 
 
 ## Federal and State Student Financial Aid 
@@ -1819,9 +1776,6 @@ The SAP Committee will thoroughly review each appeal. If the SAP Committee needs
 
 # Campus Policies
 
-# * * *
-
-
 The policies included in this section of the Catalog are specifically campus-related. Students should be aware of and abide by these policies at all times.
 
 ## Student’s Rights, Responsibilities, and Addressing Grievances
@@ -1955,9 +1909,6 @@ Make School has a robust [Facebook](https://www.facebook.com/makeschool/) and [L
 **LinkedIn** is a tool to connect internally with staff and students, as well as externally with hiring partners, industry contacts, and other Make School affiliates. It is highly encouraged for you to add connections and utilize this platform. LinkedIn is the number one way recruits reach out to you when looking to hire, and it’s important that your LinkedIn profile is up-to-date with your current projects, experience and education, and a professional headshot. We provide support to students to create an effective LinkedIn profile.
 
 # Conduct Policies
-
-# * * *
-
 
 The policies described in this section of the Catalog are especially important for students to understand, as violating these policies may result in the [Formal Resolution](#heading=h.8obtx3h2p3mr) process. Students are expected to follow these policies at all times. Reports regarding potential violations of these conduct policies can be submitted using the [Student Reporting Form](http://make.sc/student-reporting-form).
 
@@ -2196,9 +2147,6 @@ The possession, use, or sale of items such as fireworks, firearms, explosive dev
 
 # Student Services & Resources
 
-# * * *
-
-
 This section of the Catalog focuses on any resources or support a student may need. This includes points of contact for our college team staff, information about student clubs and campus recreation, alumni relations and career services, and so much more. 
 
 ## College Team Staff and Instructors
@@ -2417,9 +2365,6 @@ Students are welcome to participate in developing initiatives to support a diver
 
 # Additional Support Resources
 
-* * *
-
-
 The section of the Catalog gives helpful information for how to navigate challenges off-campus.
 
 ## Health Insurance
@@ -2522,8 +2467,6 @@ The Trevor Project (LGBT Suicide Prevention)
 Make School does not provide childcare, but the [Children’s Council](http://www.childrenscouncil.org/) can help. Please visit their website to see the childcare services they offer.
 
 # Appendix: Important Links
-
-# * * *
 
 
 ## Academic Services and Information
