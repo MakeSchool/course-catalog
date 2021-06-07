@@ -1416,7 +1416,7 @@ and S&L courses.
 
 - Key Prerequisites: WEB 1.0 -> WEB 1.1 -> BEW 1.2 -> All other BEW courses.
 
-![image alt text](image_1.png)
+![Back end web concentration sample 2 year plan](../images/back-end-web-concentration-sample-2-year-plan.png)
 
 #### FEW: Frontend Web Development
 
@@ -1427,7 +1427,7 @@ SPD, INT and S&L courses.
 - Key Prerequisites: WEB 1.0 (or FEW 1.1) -> FEW 1.2 -> Most FEW Courses, WEB 1.1 and FEW 1.2 -> FEW
   2.3 -> FEW 2.4
 
-![image alt text](image_2.png)
+![Frontend web concentration sample 2 year plan](../images/front-end-web-concentration-sample-2-year-plan.png)
 
 #### MOB: Mobile Development
 
@@ -1441,6 +1441,8 @@ courses.
 - Key Prerequisites: Most Mobile courses have the previous course as a prerequisite and must be
   taken in order. MOB 1.1 ->MOB 1.2 and BEW 1.2 ->MOB 1.3 ->MOB 2.1 ->MOB 2.3 ->MOB 2.4
 
+![Mobile concentration sample 2 year plan](../images/mobile-concentration-sample-2-year-plan.png)
+
 #### DS: Data Science
 
 Students must take five 3-unit courses from DS 1.1, DS 2.1, DS 2.2, DS 2.3, DS 2.4, five 3-unit
@@ -1452,6 +1454,8 @@ foundation courses, and four 3-unit electives as well as all SPD, INT and S&L co
 
 - Key Prerequisites: Most Data Science courses have the previous course as a prerequisite and must
   be taken in order. QL 1.1 and CS 1.2 -> DS 1.1 -> DS 2.1 ->DS 2.2 -> DS 2.4, DS 2.1 -> DS 2.3
+
+![Data science concentration sample 2 year plan](../images/data-science-concentration-sample-2-year-plan.png)
 
 ## Course Descriptions
 
