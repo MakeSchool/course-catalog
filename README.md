@@ -85,9 +85,9 @@ How to use this Course Catalog and Student Handbook:
   understand or need clarity on so we can improve the information provided in this document.
 
 For quick access to important information, forms, documents, or other items, the
-[Appendix](https://docs.google.com/document/d/1cP3HyewqxDk3RglFfZA8ju7wSDhBHWpeJi5vWlXK9l8/edit#heading=h.r6g3lcy73iw9)
-has a list of links to things most commonly used or asked about by Make School Students. This is a
-great place to start if you’re not sure what you are looking for.
+[Appendix](../helpful-links/general-information) has a list of links to things most commonly used or
+asked about by Make School Students. This is a great place to start if you’re not sure what you are
+looking for.
 
 ### Message from the Dean
 
@@ -239,7 +239,7 @@ assistance, contact [student.affairs@makeschool.com](mailto:student.affairs@make
 Make School maintains an online library with a curated list of digital resources for technical
 content, social science texts, periodicals, reference materials, databases, and reserves to
 supplement student learning. These resources can be accessed online at
-[make.sc/library](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.5ejfrtps59sw).
+[make.sc/library](make.sc/library).
 
 Students who reside in San Francisco may also utilize the **San Francisco Public Library** (SFPL).
 The SFPL is an excellent source for supplemental learning materials, with a great system of
@@ -555,9 +555,10 @@ consult with the Dean. If the student has been found to have committed an act of
 dishonesty, an
 [Academic Misconduct Report](https://docs.google.com/forms/d/e/1FAIpQLSeUBN68KkiOyXoynNwBrc89zb5Tr-Z0g0aCpNqbgNzCBm1uGQ/viewform?usp=sf_link)
 will be filed and the student will be placed on a
-[Participation Improvement Plan (PIP)](#heading=h.8obtx3h2p3mr). A student who believes they have
-been wrongly accused of plagiarism or cheating, or that the instructor’s resolution of the alleged
-incident is unjust, may file a [Request for Appeal of Disciplinary Action](#heading=h.8obtx3h2p3mr).
+[Participation Improvement Plan (PIP)](../conduct-policies/disciplinary-action-academic-conduct). A
+student who believes they have been wrongly accused of plagiarism or cheating, or that the
+instructor’s resolution of the alleged incident is unjust, may file a
+[Request for Appeal of Disciplinary Action](../conduct-policies/disciplinary-action-academic-conduct).
 
 ### **Attendance & Participation Policy**
 
@@ -687,8 +688,9 @@ be required to spend extra time at Make School to ensure that all degree require
 
 If a student does not stay in good Academic Standing or are at risk of failing to maintain good
 Academic Standing, they may be placed on a
-[Participation Improvement Plan (PIP)](#heading=h.8obtx3h2p3mr). If a student is unable to stay in
-Good Academic Standing or fail to complete a PIP, they may be asked to leave Make School.
+[Participation Improvement Plan (PIP)](../conduct-policies/disciplinary-action-academic-conduct). If
+a student is unable to stay in Good Academic Standing or fail to complete a PIP, they may be asked
+to leave Make School.
 
 #### Mid-Term Reporting Policy
 
@@ -889,8 +891,8 @@ up to two (2) times. All grades from repeated courses remain on your academic re
 
 ### Credit Policies
 
-Make School’s [transfer policy](#heading=h.wu5v3v6dl8q6) is administered and updated by the Office
-of the Registrar under the direction of the Dean.
+Make School’s [transfer policy](../admissions-and-enrollment-information/transfer-credits-policy) is
+administered and updated by the Office of the Registrar under the direction of the Dean.
 
 #### Technical and Software Product Development Credits
 
@@ -920,8 +922,9 @@ count toward credits earned toward the Bachelor of Science degree.
 accredited institution while attending classes at Make School and be granted transfer credit for
 these courses. The maximum number of transferable units via concurrent registration is 9 units. You
 are required to obtain pre approval for any coursework you want to take at another institution, and
-all other relevant [transfer policies](#heading=h.wu5v3v6dl8q6) apply to concurrent registration. To
-obtain prior approval for concurrent registration, please contact the
+all other relevant
+[transfer policies](../admissions-and-enrollment-information/transfer-credits-policy) apply to
+concurrent registration. To obtain prior approval for concurrent registration, please contact the
 [Office of the Registrar](mailto:registrar@makeschool.com).
 
 ## Academic Procedures
@@ -999,9 +1002,10 @@ to ensure this process is completed.
 #### Auditing a Course vs. "Sitting-In" on a Class
 
 Students in good standing (who are not on a
-[Participation Improvement Plan](#heading=h.8obtx3h2p3mr)) may audit a course with instructor
-approval, provided that the student: has taken the course previously and would like to revisit the
-material; or has an [Incomplete grade](#heading=h.46zoxwdj1mjj) for the course from the previous
+[Participation Improvement Plan](../conduct-policies/disciplinary-action-academic-conduct)) may
+audit a course with instructor approval, provided that the student: has taken the course previously
+and would like to revisit the material; or has an
+[Incomplete grade](../academic-procedures/documentation-requests) for the course from the previous
 term, and seeks to gain further mastery of the material to complete the course.
 
 Students in good standing, who have not been approved to audit a course, may request to "sit in" on
@@ -1025,11 +1029,13 @@ more information (below).
 
 #### Process
 
-1. Review the Make School [Articulation Agreements](#heading=h.8q9hb4reuwvw) to see which classes
-   have been pre-approved for credit at local colleges. You should also make sure the course is
-   offered during the desired term as not all pre-approved classes will be offered at all times
-   during the academic year. You are welcome to find classes on your own and submit for approval,
-   but there is no guarantee that classes not on the articulation agreement list will be approved.
+1. Review the Make School
+   [Articulation Agreements](../admissions-and-enrollment-information/articulation-agreements) to
+   see which classes have been pre-approved for credit at local colleges. You should also make sure
+   the course is offered during the desired term as not all pre-approved classes will be offered at
+   all times during the academic year. You are welcome to find classes on your own and submit for
+   approval, but there is no guarantee that classes not on the articulation agreement list will be
+   approved.
 
 2. Complete the
    [Authorization to Take Course(s) Off-Campus Form](https://make.sc/off-campus-courses) **_prior_**
@@ -1349,9 +1355,9 @@ language other than English.
    the International Language Competency requirement. This can be confirmed by submitting a copy of
    your high school transcript to the Registrar's office. For students who want to enroll in a
    college course concurrent with their Make School enrollment must follow the
-   [Off-Campus Courses Policies and Procedures](#heading=h.3skhob6xz1kd) to earn credit for this
-   requirement. The following off-campus courses have been approved for meeting the foreing language
-   requirement:
+   [Off-Campus Courses Policies and Procedures](../academic-procedures/registration) to earn credit
+   for this requirement. The following off-campus courses have been approved for meeting the foreing
+   language requirement:
 
 - Coursera's Chinese for Beginners and More Chinese for Beginners (must take both)\* \*
 
@@ -2154,7 +2160,8 @@ Make School embraces diversity and encourages students to bring their informed p
 learning environment. As such, Make School’s S&L curriculum allows for various worldviews to be
 present in the classroom and extends the ability for students to engage in the free expression of
 ideas in their search for truth. Therefore, faculty and students are protected by
-[Academic Freedom](#heading=h.4nb9fgeoaaoy) in all Science and Letters courses.
+[Academic Freedom](../academic-and-educational-program-information/academic-freedom) in all Science
+and Letters courses.
 
 Science and Letters classes available for registration vary by term. The course descriptions
 included are courses that have been previously been offered and may be offered during the 2020-2021
@@ -2668,8 +2675,9 @@ reduce your Direct Federal Loan payments to $0 if you are unemployed, at other c
 still have to pay monthly for the rest of your loans. Not so at Make School.
 
 Make School is creating and funding an Extended Income-Based Repayment (EIBR) protection plan to
-cover Parent Plus and [private loans](#heading=h.cvhmh8iudig) to create full protection for
-underemployed and unemployed graduates.
+cover Parent Plus and
+[private loans](../student-financial-aid-policies/student-private-or-personal-loans) to create full
+protection for underemployed and unemployed graduates.
 
 The EIBR protection plan is designed as an extension of the Federal IBR program to apply to all
 types of loans not covered by the Federal IBR and preserve the protection and incentive alignment of
@@ -2899,8 +2907,9 @@ members, students may report concerns or complaints at any time by completing th
 the form will remain private to the best of Make School’s ability. Depending upon the nature of the
 complaint, anonymity may not be guaranteed, but we will do our best to protect the privacy of all
 parties involved. Make School does not tolerate any form of retaliation. The form can be used to
-report concerns regarding a violation of the [Code of Conduct](#heading=h.x0jvq6l5kdwl) or a concern
-regarding the conduct of an instructor or staff member.
+report concerns regarding a violation of the
+[Code of Conduct](../conduct-policies/code-of-conduct-equity-inclusion) or a concern regarding the
+conduct of an instructor or staff member.
 
 The student may also choose to speak with their instructor, coach, or a member of the Student
 Experience Team to address the concern and complete
@@ -2923,7 +2932,7 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
 
    2. Some complaints, depending on the nature of the report, will warrant an informal or formal
       resolution process as determined by the Director and described in the
-      [Code of Conduct](#heading=h.8obtx3h2p3mr) policy.
+      [Code of Conduct](../conduct-policies/code-of-conduct-equity-inclusion) policy.
 
    3. Complaints regarding a potential violation of Title IX, Hate Speech Policy, Retaliation, or
       Hazing are not eligible for the restorative justice process.
@@ -2935,11 +2944,11 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
    4. Most issues will be resolved through a Participation Improvement Plan (PIP).
 
 4. If applicable, students may pursue the appeal process as described in the
-   [Code of Conduct](#heading=h.8obtx3h2p3mr).
+   [Code of Conduct](../conduct-policies/code-of-conduct-equity-inclusion).
 
 5. Records relating to the initial complaint, resolution process, and appeals will be maintained for
    up to seven years after the resolution of the incident. All records are
-   [FERPA](#heading=h.lcouv21rq30j) protected.
+   [FERPA](../academic-policies/family-educational-rights-privacy-act-of-1974-ferpa) protected.
 
 Students are encouraged to first attempt to utilize Make School’s grievance procedures to seek
 resolution to their concern or complaint, but are not required to do so. Students have the right to
@@ -3146,9 +3155,10 @@ students to create an effective LinkedIn profile.
 
 The policies described in this section of the Catalog are especially important for students to
 understand, as violating these policies may result in the
-[Formal Resolution](#heading=h.8obtx3h2p3mr) process. Students are expected to follow these policies
-at all times. Reports regarding potential violations of these conduct policies can be submitted
-using the [Student Reporting Form](http://make.sc/student-reporting-form).
+[Formal Resolution](../conduct-policies/disciplinary-action-academic-conduct) process. Students are
+expected to follow these policies at all times. Reports regarding potential violations of these
+conduct policies can be submitted using the
+[Student Reporting Form](http://make.sc/student-reporting-form).
 
 ### Code of Conduct, Equity & Inclusion
 
@@ -3184,7 +3194,7 @@ media, in student housing, etc.).
 This section of the Catalog outlines resolution of policy violations, whether academic or
 conduct-related.
 
-Informal Resolution Processes
+#### Informal Resolution Processes
 
 Informal Resolution is used when the parties agree to resolve interpersonal conflicts or a violation
 of the Code of Conduct through conflict resolution (mediation, restorative justice, etc.), or where
@@ -3203,14 +3213,14 @@ Informal Resolution (as determined by the Dean or Director). Reports of violatio
 Discrimination, Harassment, Sexual Misconduct, or Retalation Policy will be addressed through the
 Formal Resoltuion Process. _
 
-Verbal or Written Warnings
+#### Verbal or Written Warnings
 
 Informal Resolutions may include a verbal or written warning from the Dean or the Director of
 Student and Academic Affairs. These warnings serve as notice to the student of the violation of the
 Code of Conduct and function as a record of the behavior. Verbal or Written Warnings are an interim
 measure prior to a Performance Improvement Plan.
 
-Formal Resolutions: Performance Improvement Plans
+#### Formal Resolutions: Performance Improvement Plans
 
 When a student is alleged to have violated academic or behavioral policy at Make School, the matter
 must be reported to and investigated by the appropriate conduct administrator. In most cases, the
@@ -3315,7 +3325,8 @@ located on Make School property.
 
 If it is determined that a student is under the influence of alcohol or drugs, or has been smoking
 or vaping on campus, any related contraband will be confiscated and the standard
-[Performance Improvement Plan](#heading=h.8obtx3h2p3mr) process will be followed.
+[Performance Improvement Plan](../conduct-policies/disciplinary-action-academic-conduct) process
+will be followed.
 
 ### Communications Expectations
 
@@ -3413,7 +3424,7 @@ has put a student’s safety at risk or is an emergency, you should contact 911 
 medical attention.
 
 Incidents of hazing are not eligible for an Informal Resolution of the
-[Student Conduct Process](#heading=h.8obtx3h2p3mr).
+[Student Conduct Process](../conduct-policies/disciplinary-action-academic-conduct).
 
 ### Medical Amnesty
 
@@ -3713,9 +3724,9 @@ you are familiar with procedures Make School has set in place to foster a safe c
 
 - **Formal Complaints:** A victim of a crime wishing to file a formal complaint against a
   perpetrator who is a member of the campus community should refer to Make School’s
-  [Formal Resolution](https://docs.google.com/document/d/1hCAe9psHARguZE-nEeFaYVUbjPG6VvNXWwrQJj7tXMU/edit#heading=h.gjo7cfcjxl90)
-  Policy. For information about harassment or sexual violence, please refer to the
-  [Title IX Policy.](https://docs.google.com/document/d/1cP3HyewqxDk3RglFfZA8ju7wSDhBHWpeJi5vWlXK9l8/edit#heading=h.kvh5jwtvzk3w)
+  [Formal Resolution](../conduct-policies/disciplinary-action-academic-conduct) Policy. For
+  information about harassment or sexual violence, please refer to the
+  [Title IX Policy.](../conduct-policies/title-ix-understanding-harassment-sexual-misconduct)
 
 - **Media Inquiries:** Any inquiries from the news media regarding the occurrence of criminal
   incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
