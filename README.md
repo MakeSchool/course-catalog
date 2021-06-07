@@ -516,8 +516,10 @@ Term start and end dates, as well as key dates and campus closures within each t
 Academic Calendar: [make.sc/academic-calendar](http://make.sc/academic-calendar). Below is a sample
 of a standard semester schedule:
 
-FALL SEMESTER TERM 1: 7 Weeks FALL INTENSIVE: 1 Week TERM 2: 7 Weeks SCIENCE and LETTERS CLASSES: 14
-Weeks
+|             FALL SEMESTER             |                        |                 |
+| :-----------------------------------: | :--------------------: | :-------------: |
+|            TERM 1: 7 Weeks            | FALL INTENSIVE: 1 Week | TERM 2: 7 Weeks |
+| SCIENCE and LETTERS CLASSES: 14 Weeks |                        |                 |
 
 ### **Academic Honesty & Integrity Policy**
 
@@ -601,15 +603,8 @@ to your education records. Your rights include:
 - The right to file a complaint with the U.S. Department of Education concerning alleged failures by
   the School to comply with the requirements of FERPA:
 
-Family Policy Compliance Office
-
-U.S. Department of Education
-
-400 Maryland Avenue
-
-SW Washington, DC 20202-8520
-
-1-800-872-5327
+  Family Policy Compliance Office<br/> U.S. Department of Education<br/> 400 Maryland Avenue<br/> SW
+  Washington, DC 20202-8520<br/> 1-800-872-5327
 
 The School has authority under the Act to release "directory information" concerning students.
 “Directory information” may include the student’s name, contact information, date and place of
@@ -1329,15 +1324,23 @@ language other than English.
 2. **SAT Subject Examination:** See below for the qualifying subject examinations and their required
    minimum scores. Scores should be sent to the Registrar’s Office.
 
-Chinese with Listening 520 French/French with Listening 540 German/German with Listening 510 Modern
-Hebrew 470 Italian 520 Japanese with Listening 50 Korean with Listening 500 Latin 530
-Spanish/Spanish with Listening 520
+| Chinese with Listening         | 520 |
+| ------------------------------ | --- |
+| French/French with Listening   | 540 |
+| German/German with Listening   | 510 |
+| Modern Hebrew                  | 470 |
+| Italian                        | 520 |
+| Japanese with Listening        | 50  |
+| Korean with Listening          | 500 |
+| Latin                          | 530 |
+| Spanish/Spanish with Listening | 520 |
 
 3. **AP or IB Examination:** See below for the qualifying subject examinations and their required
    minimum scores. Scores should be sent to the Registrar’s Office.
 
-AP Language or Literature Exam in: French, German, Spanish, or Latin 3 or higher IB Language A2 HL
-Exam 4 or higher
+| AP Language or Literature Exam in: French, German, Spanish, or Latin | 3 or higher |
+| -------------------------------------------------------------------- | ----------- |
+| IB Language A2 HL Exam                                               | 4 or higher |
 
 4. **College Courses:** A grade of ‘C’ (2.0) or better in any transferable course(s) (excluding
    conversation) is considered to be equivalent to two years of high school language. NOTE: Many
@@ -2354,36 +2357,28 @@ Computer Science Students is **$113,078.** A breakdown of tuition and charges pe
 below. Students are encouraged to review the Make School Financial Tuition and Aid
 [webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
 
-Tuition for 2020-2022 Bachelor in Applied Computer Science Students
+#### Tuition for 2020-2022 Bachelor in Applied Computer Science Students
 
-Fall and Spring semester tuition year 1: $30,000
+| Fall and Spring semester tuition year 1:             | $30,000 |
+| ---------------------------------------------------- | ------- |
+| Summer semester tuition year 1:                      | $10,000 |
+| Fall and Spring semester tuition year 2:             | $30,000 |
+| Total tuition for the Make School bachelor's program | $70,000 |
 
-Summer semester tuition year 1: $10,000
-
-Fall and Spring semester tuition year 2: $30,000
-
-Total tuition for the Make School bachelor's program $70,000
-
-Additional Costs for 2020-2022 Bachelor in Applied Computer Science Students
+#### Additional Costs for 2020-2022 Bachelor in Applied Computer Science Students
 
 These following anticipated additional costs are an estimate of what a student may expect to spend
 while attending Make School (indirect costs). **Individual student costs may vary.**
 
-Books classroom materials (including laptop) per year: $200
-
-Laptop (First year only): $1,600
-
-Room and Board (Make School Preferred Housing) per year: $11,940
-
-Transportation per year: $864
-
-Food per year: $4,800
-
-Health Insurance per year: $100
-
-Personal Expenses per year: $2,853
-
-Total Indirect Costs per year $22,339
+| Books classroom materials (including laptop) per year:   | $200    |
+| -------------------------------------------------------- | ------- |
+| Laptop (First year only):                                | $1,600  |
+| Room and Board (Make School Preferred Housing) per year: | $11,940 |
+| Transportation per year:                                 | $864    |
+| Food per year:                                           | $4,800  |
+| Health Insurance per year:                               | $100    |
+| Personal Expenses per year:                              | $2,853  |
+| Total Indirect Costs per year                            | $22,339 |
 
 ### Student Tuition Recovery Fund Disclosure
 
@@ -2681,8 +2676,14 @@ types of loans not covered by the Federal IBR and preserve the protection and in
 previous payment plan options. The EIBR protection plan will cap total student loan payments
 (combined federal, parent plus, and private) to the following percentages of monthly gross income.
 
-Graduate Annual Gross Income EIBR Cap $60K+ 20% $50-59K 18% $40-49K 15% $30-39K 10% $20-29K 6% less
-than $20K 0%
+| Graduate Annual Gross Income | EIBR Cap |
+| :--------------------------: | :------: |
+|            $60K+             |   20%    |
+|           $50-59K            |   18%    |
+|           $40-49K            |   15%    |
+|           $30-39K            |   10%    |
+|           $20-29K            |    6%    |
+|           &lt;$20K           |    0%    |
 
 _Disclaimer: the stated EIBR caps apply to students enrolling in Fall 2020. These caps are subject
 to change by a few percentage points for future cohorts as we collect data on how the program is
@@ -2698,7 +2699,7 @@ private loans, to fund their Make School education. For those who don’t, we st
 tuition gap funding. To receive tuition gap funding, students will be required to apply for these
 new funding options first\*.
 
-**If you have significant existing debt that would result in unaffordable monthly payments after
+\* **If you have significant existing debt that would result in unaffordable monthly payments after
 Make School, you may be denied for both loans and tuition gap funding. Please contact us immediately
 at [admissions@makeschool.com](mailto:admissions@makeschool.com) if you have more than $7,500 in
 outstanding debt. This is not a hard cut-off, just an amount that will trigger a conversation about
@@ -2745,8 +2746,9 @@ The academic year at Make School consists of three semesters (fall, spring and s
 subdivided into terms and intensives. Terms last 7 weeks and intensives last either 1 or 2 weeks.
 This is shown in the table below.
 
-Fall (14 wk) Spring (14 wk) Summer (9 wk) Term 1 (7 wk) Int 1 (1 wk) Term 2 (7 wk) Int 2 (1 wk) Term
-3 (7 wk) Int 3 (2 wk) Term 4 (7 wk) Term 5 (7 wk) Int 4 (2 wk)
+| Fall (14 wk)  |              |               | Spring (14 wk) |               |              |               | Summer (9 wk) |              |
+| :-----------: | :----------: | :-----------: | :------------: | :-----------: | :----------: | :-----------: | :-----------: | :----------: |
+| Term 1 (7 wk) | Int 1 (1 wk) | Term 2 (7 wk) |  Int 2 (1 wk)  | Term 3 (7 wk) | Int 3 (2 wk) | Term 4 (7 wk) | Term 5 (7 wk) | Int 4 (2 wk) |
 
 Make School is an accelerated program and full time students enroll in 12 units per term, 24 units
 per semester for fall and spring, and 15 units during the summer semester.
@@ -3495,16 +3497,12 @@ incident, Make School students may be subject to the Title IX processes as descr
 of this nature will be reflected in Make School’s annual crime statistics if it meets reporting
 criteria.
 
-Options Investigation & Disciplinary Process Assistance Reporting to Local Police\* Reporting the
-assault and pursuing Make School charges only. Make School will proceed with an investigation and
-disciplinary process as permitted by Federal Law. Reporting the assault and pursuing criminal
-charges only. If made aware of the incident, Make School will proceed with an investigation and
-disciplinary process as permitted by Federal Law. Make School will provide assistance, if requested,
-to make a report to the local Police Department. Reporting the assault and pursuing both Make School
-and criminal charges. Make School will proceed with an investigation and disciplinary process as
-permitted by Federal Law. Make School will provide assistance, if requested, to make a report to the
-local Police Department. Reporting the assault, but choosing not to pursue charges. Make School will
-proceed with an investigation, and, if appropriate, a disciplinary process.
+|                                  Options                                  |                                                Investigation & Disciplinary Process                                                 |                               Assistance Reporting to Local Police\*                                |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|       Reporting the assault and pursuing Make School charges only.        |                Make School will proceed with an investigation and disciplinary process as permitted by Federal Law.                 |                                                                                                     |
+|         Reporting the assault and pursuing criminal charges only.         | If made aware of the incident, Make School will proceed with an investigation and disciplinary process as permitted by Federal Law. | Make School will provide assistance, if requested, to make a report to the local Police Department. |
+| Reporting the assault and pursuing both Make School and criminal charges. |                Make School will proceed with an investigation and disciplinary process as permitted by Federal Law.                 | Make School will provide assistance, if requested, to make a report to the local Police Department. |
+|        Reporting the assault, but choosing not to pursue charges.         |                    Make School will proceed with an investigation, and, if appropriate, a disciplinary process.                     |                                                                                                     |
 
 \*In certain instances, the University may need to report conduct to law enforcement authorities
 even when the complainant has not decided to do so.
@@ -3839,9 +3837,9 @@ locating housing in the Bay Area.
   Housing rates are charged per student (bed) on monthly, and students hold a month-to-month lease.
   For the 2020-2021 academic year, 851 housing rates are as follows:
 
-      Single Occupancy Room	$1450/month
-
-      Double Occupancy Room 	$1150/month
+  | Single Occupancy Room | $1450/month |
+  | --------------------- | ----------- |
+  | Double Occupancy Room | $1150/month |
 
 - **Bartlett and Herbert** Halls are located in Union Square, approximately a 5 minute walk from
   Make School’s main campus, but can also be accessed via public transportation. Students who live
@@ -3850,9 +3848,9 @@ locating housing in the Bay Area.
   (bed) on monthly, and students hold a month-to-month lease. For the 2020-2021 academic year,
   Bartlett and Herebert housing rates are as follows:
 
-      Single Occupancy Room	$1000/month
-
-      Double Occupancy Room 	$800/month
+  | Single Occupancy Room | $1000/month |
+  | --------------------- | ----------- |
+  | Double Occupancy Room | $800/month  |
 
 ### Lost & Found
 
@@ -3948,17 +3946,9 @@ Students without health insurance may incur fees with the IRS for lack of covera
 
 Below are a few local hospitals and clinics, should students ever need immediate care:
 
-Kaiser Permanente Hospital 1632 Divisadero Street San Francisco (415) 833-2000
-
-San Francisco Free Clinic 4900 California Street San Francisco, CA (415) 750-9894
-
-UCSF Hospital 505 Parnassus Avenue San Francisco (415) 476-1000
-
-Planned Parenthood SF 1650 Valencia Street San Francisco, CA 94110 (415) 821-1282
-
-SF Sex Information (415) 989-7374 ask-us@sfsi.org
-
-SF General Hospital 1001 Potrero Ave, San Francisco, CA 94110 (628) 206-8000
+| [Kaiser Permanente Hospital](https://thrive.kaiserpermanente.org/care-near-you/northern-california/sanfrancisco/locations/1635-divisadero-2/)<br />1632 Divisadero Street<br />San Francisco<br />(415) 833-2000          | [San Francisco Free Clinic](https://sffc.org/)<br />4900 California Street<br />San Francisco, CA<br />(415) 750-9894 | [UCSF Hospital](https://www.ucsfhealth.org/)<br />505 Parnassus Avenue<br />San Francisco<br />(415) 476-1000 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [Planned Parenthood SF](https://www.plannedparenthood.org/health-center/california/san-francisco/94110/san-francisco-health-center-3997-90200)<br />1650 Valencia Street<br />San Francisco, CA 94110<br />(415) 821-1282 | [SF Sex Information](http://sfsi.org/)<br />(415) 989-7374<br />ask-us@sfsi.org                                       | SF General Hospital<br />1001 Potrero Ave, San Francisco, CA 94110<br />(628) 206-8000                        |
 
 ### Mental Health & Emotional Support
 
@@ -3975,16 +3965,8 @@ Do you want to see a mental health practitioner outside of the on-site service w
 some free or sliding-scale counseling service providers we recommend. Please note that these
 organizations are in no way affiliated with Make School.
 
-Integral Counseling 2140 Pierce Street San Francisco, CA 94115 (415) 776-3109 Sliding Scale (Starts
-at $20)
-
-Lyon Martin Clinic 1735 Mission Street San Francisco, CA 94103 (415) 565-7667
-
-For Women & Trans Patients
-
-San Francisco City Impact 140 Turk Street San Francisco, CA 94102 (415) 738-6878
-
-Mon. - Fri., 10am - 4pm
+| [Integral Counseling](http://www.integralcounseling.org)<br />2140 Pierce Street<br />San Francisco, CA 94115(415) 776-3109 <br /><br />Sliding Scale (Starts at $20) | [Lyon Martin Clinic](http://www.lyon-martin.org)<br />1735 Mission Street<br />San Francisco, CA 94103<br />(415) 565-7667 <br />For Women & Trans Patients | [San Francisco City Impact](https://wellness.sfcityimpact.com/home/)<br />140 Turk Street<br />San Francisco, CA 94102<br />(415) 738-6878<br />Mon. - Fri., 10am - 4pm |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Mental Health "Warm" Lines
 
@@ -3992,28 +3974,17 @@ If you need to speak with someone, but you’re not in crisis, a "warm" line may
 for you. These are services you can call to talk through stressful times without going into an
 office to see a therapist.
 
-Mental Health Assoc. of SF Peer-Run Warm Line (855) 845-7415
-
-Mon. - Thurs., 7am - 11pm Fri - Sun., 11am - 7pm
-
-NAMI Nat’l Alliance on Mental Illness National HelpLine (800) 950-6264
-
-Office of Self-Help Emotional Support Warm Line (415) 575-1400
-
-Mon. - Tues., 9am - 5pm Wed. - Sun., 9am - 8:30pm
+| [Mental Health Assoc. of SF Peer-Run Warm Line](http://www.mentalhealthsf.org/peer-run-warmline/)<br />(855) 845-7415<br />Mon. - Thurs., 7am - 11pm<br />Fri - Sun., 11am - 7pm | [NAMI](https://www.nami.org/)<br />Nat’l Alliance on Mental Illness<br />National HelpLine <br />(800) 950-6264 | Office of Self-Help <br />Emotional Support Warm Line<br />(415) 575-1400<br />Mon. - Tues., 9am - 5pm<br />Wed. - Sun., 9am - 8:30pm |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Mental Health Crisis Hotlines
 
 The below resources are hotlines that help you when you’re in a mental health crisis, and are
 possibly at risk of hurting yourself or others.
 
-SF Suicide Prevention 24-Hour Crisis Line (415) 781-0500 -or- (800) 273-8255
-
-National Suicide Prevention Lifeline (800) 273-8255
-
-The Trevor Project (LGBT Suicide Prevention) (866) 488-7386
-
-Trauma Recovery/Rape Treatment Center (415) 437-3000
+| [SF Suicide Prevention 24-Hour Crisis Line](http://www.sfsuicide.org/our-programs/24-hour-crisis-line/) <br />(415) 781-0500 -or- (800) 273-8255 | [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)<br />(800) 273-8255                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| [The Trevor Project (LGBT Suicide Prevention)](https://www.thetrevorproject.org/)<br />(866) 488-7386                                            | [Trauma Recovery/Rape Treatment Center](http://traumarecoverycenter.org/services/rape-treatment-center/)<br />(415) 437-3000 |
 
 ### Childcare
 
