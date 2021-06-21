@@ -723,7 +723,7 @@ relevant credit hour calculations above. The table below summarizes course credi
 course types at Make School.
 
 | Course                 | Units   | Length      | Total Hours | Hours / Wk | In-Class <br>Hrs / Wk | Project Hrs / Wk | Lab Hrs / Wk |
-|------------------------|---------|-------------|-------------|------------|-----------------------|------------------|--------------|
+| ---------------------- | ------- | ----------- | ----------- | ---------- | --------------------- | ---------------- | ------------ |
 | Technical              | 3       | 7 wks       | 37.5        | 5.5        | 4                     | 1.5              | -            |
 | INT 1.1, 1.2, 2.1, 2.2 | 1       | 1 wk        | 37.5        | 37.5       | -                     | -                | 37.5         |
 | INT 1.3, 2.3           | 2       | 2 wks       | 75          | 37.5       | -                     | -                | 37.5         |
