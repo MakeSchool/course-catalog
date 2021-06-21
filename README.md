@@ -722,10 +722,14 @@ delivered so that the sum of faculty instruction and student preparation time is
 relevant credit hour calculations above. The table below summarizes course credit hours for all
 course types at Make School.
 
-Course Units Length Total Hours Hours / Wk In-Class Hrs / Wk Project Hrs / Wk Lab Hrs / Wk Technical
-3 7 wks 37.5 5.5 4 1.5 - INT 1.1, 1.2, 2.1, 2.2 1 1 wk 37.5 37.5 - - 37.5 INT 1.3, 2.3 2 2 wks 75
-37.5 - - 37.5 SWE 10 -12 10 - 12 wks 400 - 480 40 - - 40 S&L Course 4 14 wks 50 3.5 3.5 - - S&L
-Course+Lab 4 (3+1) 14 wks 75 5.5 2.75 - 2.75
+| Course                 | Units   | Length      | Total Hours | Hours / Wk | In-Class <br>Hrs / Wk | Project Hrs / Wk | Lab Hrs / Wk |
+|------------------------|---------|-------------|-------------|------------|-----------------------|------------------|--------------|
+| Technical              | 3       | 7 wks       | 37.5        | 5.5        | 4                     | 1.5              | -            |
+| INT 1.1, 1.2, 2.1, 2.2 | 1       | 1 wk        | 37.5        | 37.5       | -                     | -                | 37.5         |
+| INT 1.3, 2.3           | 2       | 2 wks       | 75          | 37.5       | -                     | -                | 37.5         |
+| SWE                    | 10 -12  | 10 - 12 wks | 400 - 480   | 40         | -                     | -                | 40           |
+| S&L Course             | 4       | 14 wks      | 50          | 3.5        | 3.5                   | -                | -            |
+| S&L Course+Lab         | 4 (3+1) | 14 wks      | 75          | 5.5        | 2.75                  | -                | 2.75         |
 
 #### **Periodic Review of Course Credit Hours**
 
