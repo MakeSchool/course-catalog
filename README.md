@@ -144,6 +144,8 @@ accredited school.
 
 ## Student Services & Resources
 
+### Student Services & Resources Overview
+
 This section of the Catalog focuses on any resources or support a student may need. This includes
 points of contact for our college team staff, information about student clubs and campus recreation,
 alumni relations and career services, and so much more. We encourage you to read this section in its
@@ -719,6 +721,8 @@ document and set-up your environment prior to the start of the term.
 
 ## Student Conduct Policies
 
+### Student Conduct Policies Overview
+
 The policies described in this section of the Catalog are especially important for students to
 understand, as violating these policies may result in the
 [Formal Resolution](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/edit#heading=h.8obtx3h2p3mr)
@@ -1212,6 +1216,8 @@ Title IX Policy, Make School will most likely take the actions (not necessarily 
 - Review and determine appeal requests, when applicable.
 
 ## On-Campus Policies
+
+### On-Campus Policies Overview
 
 The policies included in this section of the Catalog are specifically campus-related. Students
 should be aware of and abide by these policies at all times.
@@ -2839,6 +2845,8 @@ than seven years.
 
 ## Academic Support
 
+### Academic Support Overview
+
 Make School provides academic support to students through coaching, in-class teaching assistants,
 and an open plan workspace that encourages students to help each other through academic challenges.
 
@@ -2894,6 +2902,8 @@ without your expressed, written consent, and all disability-related documentatio
 within 1-2 years of your graduation from Make School.
 
 ## Bachelor of Science in Applied Computer Science
+
+### Program Overview
 
 The Bachelor of Science in Applied Computer Science program provides innovative, project based
 learning in computer science and software engineering. Our curriculum is continually evaluated and
