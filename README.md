@@ -32,7 +32,7 @@ How to use this Course Catalog and Student Handbook:
 * You are responsible for the information and upholding the policies included in this document. It is your responsibility to read and familiarize yourself with the Course Catalog and Student Handbook. 
 * **This guide is designed with you in mind.** Let us know if there is something you don’t understand or need clarity on so we can improve the information provided in this document. 
 
-For quick access to important information, forms, documents, or other items, the [Appendix](#TK FIX heading=h.r6g3lcy73iw9) has a list of links to things most commonly used or asked about by Make School Students. This is a great place to start if you’re not sure what you are looking for.
+For quick access to important information, forms, documents, or other items, the [Appendix](#TK_FIX heading=h.r6g3lcy73iw9) has a list of links to things most commonly used or asked about by Make School Students. This is a great place to start if you’re not sure what you are looking for.
 
 
 ## Institutional Information
@@ -88,11 +88,6 @@ In late 2020, Make School became a 501c(3) non-for-profit academic institution a
 
 
 ## Student Services & Resources
-
-
-## 
-
----
 
 
 This section of the Catalog focuses on any resources or support a student may need. This includes points of contact for our college team staff, information about student clubs and campus recreation, alumni relations and career services, and so much more. We encourage you to read this section in its entirety as it includes information for both online and on-campus students.
@@ -483,12 +478,6 @@ We empower and encourage students to initiate leadership and ownership over club
 ## Technology Information
 
 
-## 
-
----
-
-
-
 ### Etiquette
 
 We expect all students to conduct themselves in a respectful, inclusive manner when communicating online, over Zoom, and through social media.
@@ -578,8 +567,7 @@ Information Technology is a key component to students’ success at Make School.
     We understand how important it is to have a properly functioning laptop in order to be effective at Make School. Students are responsible for securing a temporary laptop in the event that their current laptop is inoperable and needs to be repaired. Make School may be able to assist students with the cost associated with renting a laptop. For more information regarding temporary laptop assistance, contact [student.affairs@makeschool.com](mailto:student.affairs@makeschool.com).
 
 
-### 
-    Online Learning Tutorial
+### Online Learning Tutorial
 
 
     You should review the [Online Learning Tutorial](https://docs.google.com/document/d/1Tls-1j9nAx0qw8SnINuEn_q4nm0QWY5s5FhZsVBs_DQ/edit#heading=h.cl51njq0mka) to learn tips and tricks to taking classes online, as well as Make School’s expectations for how you will engage with instructors and peers when online. 
@@ -589,12 +577,6 @@ Information Technology is a key component to students’ success at Make School.
 
 
 ## Student Conduct Policies
-
-
-## 
-
----
-
 
 The policies described in this section of the Catalog are especially important for students to understand, as violating these policies may result in the [Formal Resolution](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/edit#heading=h.8obtx3h2p3mr) process. Students are expected to follow these policies at all times. Reports regarding potential violations of these conduct policies can be submitted using the [Student Reporting Form](http://make.sc/student-reporting-form). All policies and processes are applicable to both online and on-campus students.
 
@@ -885,9 +867,9 @@ All Make School designated Title IX investigators have received [training](https
 
 
 
-* **Title IX Coordinator: **Carmen Ye ([carmen@makeschool.com](mailto:carmen@makeschool.com))
+* **Title IX Coordinator:** Carmen Ye ([carmen@makeschool.com](mailto:carmen@makeschool.com))
 * **Lead Investigator:**  Michelle Lessly Backburn ([michelle.blackburn@makeschool.com](mailto:michelle.blackburn@makeschool.com))
-* **Decision Making Administrator (DMA): **Anne Spalding ([anne@makeschool.com](mailto:anne@makeschool.com))	
+* **Decision Making Administrator (DMA):** Anne Spalding ([anne@makeschool.com](mailto:anne@makeschool.com))	
 
     Reporting Options and Resources
 
@@ -995,11 +977,6 @@ All Make School designated Title IX investigators have received [training](https
 ## On-Campus Policies
 
 
-## 
-
----
-
-
 The policies included in this section of the Catalog are specifically campus-related. Students should be aware of and abide by these policies at all times.
 
 
@@ -1049,7 +1026,7 @@ Make School is open during typical business operating hours (Monday through Frid
 
 
 * **Campus Access:**  Make School campus is open Monday through Friday from 9:00am to 6:00pm, and access to our facilities is monitored and controlled by Make School ID badges.
-* **Campus Security:  **After Hours Security for Make School and Hotel Zeppelin can be reached by phone at (415) 563-0303. 
+* **Campus Security:** After Hours Security for Make School and Hotel Zeppelin can be reached by phone at (415) 563-0303. 
 * **Formal Complaints:**  A victim of a crime wishing to file a formal complaint against a perpetrator who is a member of the campus community should refer to Make School’s 
 
 <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Formal Resolution"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -1059,11 +1036,11 @@ Make School is open during typical business operating hours (Monday through Frid
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Title IX Policy."). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Title IX Policy.](#heading=h.kvh5jwtvzk3w)
-* **Media Inquiries:  **Any inquiries from the news media regarding the occurrence of criminal incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
+* **Media Inquiries** Any inquiries from the news media regarding the occurrence of criminal incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
 * **Missing Persons Reporting:**  In compliance with the Higher Education Act, Make School gives all students the option to provide confidential contact information for a person to be notified in the event a student is officially reported as missing. Should you have concerns about an individual who may be missing, please speak to the [Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com).
-* **Notification of Current Campus Crime:  **Title II of Federal Public Law 101-542, The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, requires colleges to collect and report statistics concerning the occurrence on campus of certain criminal offenses which must be reported to campus security authorities or local police agencies. Those criminal offenses include murder, rape, sex offenses, robbery, aggravated assault, burglary, and motor vehicle theft. In addition, the Violence Against Women Re-authorization Act (VAWRA) requires colleges to report incidents of dating violence, domestic violence, and stalking in addition to crimes related to sexual misconduct and sexual assault. At Make School, the Office of Compliance collects data about these crimes, which are published each year. Information is also collected about arrests for liquor law violations, for drug abuse violations, and for weapon possession. 
-* **Reporting Crimes & Emergencies: _ _**In the event of a violent crime, a crime in progress, or an incident involving personal injury or requiring medical attention, immediately contact the San Francisco Police Department or San Francisco Fire Department by dialing 911. 
-* **Reporting Non-Emergency Criminal Acts:  **Non-emergency criminal acts (e.g., vandalism, burglary, etc.) should immediately be reported to:
+* **Notification of Current Campus Crime:** Title II of Federal Public Law 101-542, The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, requires colleges to collect and report statistics concerning the occurrence on campus of certain criminal offenses which must be reported to campus security authorities or local police agencies. Those criminal offenses include murder, rape, sex offenses, robbery, aggravated assault, burglary, and motor vehicle theft. In addition, the Violence Against Women Re-authorization Act (VAWRA) requires colleges to report incidents of dating violence, domestic violence, and stalking in addition to crimes related to sexual misconduct and sexual assault. At Make School, the Office of Compliance collects data about these crimes, which are published each year. Information is also collected about arrests for liquor law violations, for drug abuse violations, and for weapon possession. 
+* **Reporting Crimes & Emergencies:** In the event of a violent crime, a crime in progress, or an incident involving personal injury or requiring medical attention, immediately contact the San Francisco Police Department or San Francisco Fire Department by dialing 911. 
+* **Reporting Non-Emergency Criminal Acts:** Non-emergency criminal acts (e.g., vandalism, burglary, etc.) should immediately be reported to:
 
     [Michelle Lessly Blackburn](mailto:michelle.blackburn@makeschool.com)
 
@@ -1153,7 +1130,7 @@ Please note that dogs are the only approved Service or Emotional Support Animal 
     Emotional Support Animals (ESAs) are animals that provide emotional support which alleviates one or more identified symptoms or effects of an individual’s existing disability. Animals whose sole function is to provide comfort or emotional support are Emotional Support Animals, not Service Animals.
 
 
-    A student seeking to bring an ESA onto the Make School campus, must make a formal request to Operations personnel.** **The request should be made at least 30 days before the start of the semester or academic year for which the presence of an ESA is requested. Documentation indicating the need for an ESA must be current, presented on professional letterhead, and signed by the licensed provider. This documentation must also specifically prescribe an ESA and note the type of animal that is recommended.
+    A student seeking to bring an ESA onto the Make School campus, must make a formal request to Operations personnel. The request should be made at least 30 days before the start of the semester or academic year for which the presence of an ESA is requested. Documentation indicating the need for an ESA must be current, presented on professional letterhead, and signed by the licensed provider. This documentation must also specifically prescribe an ESA and note the type of animal that is recommended.
 
 
     In addition, before a specific ESA is approved, the Handler must submit documentation from a licensed veterinarian that the ESA is in good health and that its required immunizations are up- to-date. As part of the approval process, the individual requesting the ESA may be required to meet with Make School representatives. Make School will provide written notification of animal-specific approval of an ESA request. If an individual intends to replace an approved ESA with a new animal, a new request must be made.
@@ -1206,12 +1183,6 @@ The possession, use, or sale of items such as fireworks, firearms, explosive dev
 ## Academic and Educational Program Information
 
 
-## 
-
----
-
-
-
 ### Accreditation
 
 Make School is accredited by the Western Association of Schools and Colleges Senior College and University Commission (WSCUC) via its [incubation policy](https://www.wscuc.org/content/incubation-policy) relationship with Dominican University of California. In Spring 2021, Make School began pursuing independent accreditation from WSCUC. Until Make School is granted independent accreditation, Make School will remain in the WSCUC approved incubation policy relationship with Domincian University of California and therefore will continue to be accredited by WSCUC. Upon receiving accreditation, Make School will end its incubation policy relationship Dominican University of California and will operate as an independent educational agency.
@@ -1232,8 +1203,7 @@ Make School follows the Recommended Institutional Regulations on Academic Freedo
 ### Academic Policies
 
 
-#### 
-    **Academic Calendar**
+#### Academic Calendar
 
 
     Term start and end dates, as well as key dates and campus closures within each term, are in the Academic Calendar: [make.sc/academic-calendar](http://make.sc/academic-calendar). Below is a sample of a standard semester schedule:
@@ -1260,8 +1230,7 @@ Make School follows the Recommended Institutional Regulations on Academic Freedo
 
 
 
-#### 
-    **Academic Honesty & Integrity Policy**
+#### Academic Honesty & Integrity Policy
 
 
     Students are expected to practice academic integrity in all of its forms, including abstaining from plagiarism, cheating, and other forms of academic misconduct. Make School reserves the right to determine in any given instance what action constitutes a violation of academic honesty and integrity.
@@ -1292,8 +1261,7 @@ Make School follows the Recommended Institutional Regulations on Academic Freedo
 [Request for Appeal of Disciplinary Action](#heading=h.8obtx3h2p3mr).
 
 
-#### 
-    **Attendance & Participation Policy**
+#### Attendance & Participation Policy
 
 
     Just like any job, attendance at Make School is required and a key component of your success. Attendance means being available (either online or on-campus)  from 9:30am to 5:30pm PST each weekday, attending all scheduled sessions including classes, coaching and school meetings, and working on homework and group projects when not in a scheduled session. Being available for the entire school day allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.  
@@ -1409,8 +1377,7 @@ A standard course load is three technical courses (3 credits each) and one S&L c
     As a strictly Pass/Fail program, good academic standing is based upon the quality of work shown and the student's mastery of the course material and determined by the student's advisor/coach, in consultation with the Dean. If a student is unable to stay in Good Academic Standing and/or fails to satisfy requirements of the PIP, they may be asked to leave Make School.
 
 
-###### 
-    **Appeals**
+###### Appeals
 
 
     A student may appeal their dismissal and petition for immediate reinstatement. Such an appeal must be made in writing within the time limit indicated on the dismissal notification letter and must have the support of the student’s advisor. The appeal letter should be directed to the Appeals Committee, in care of the Registrar. The Committee has the discretion to:
@@ -1429,12 +1396,12 @@ As such, the Make School credit hour is an amount of work represented in intende
 
 
 
-* One credit hour equates to 12.5 hours of direct instruction (either in-class hours with an instructor or supported project hours with an instructor, teaching assistant or industry expert) and 30 hours of out of class student work per term.  **Note: **12.5 hours is calculated by using a 50 minute class period per credit hour (15hrs * 50 min per hour = 12.5 hrs)
+* One credit hour equates to 12.5 hours of direct instruction (either in-class hours with an instructor or supported project hours with an instructor, teaching assistant or industry expert) and 30 hours of out of class student work per term.  **Note:** 12.5 hours is calculated by using a 50 minute class period per credit hour (15hrs * 50 min per hour = 12.5 hrs)
 * One credit hour equates to 45 hours of student work per term for other academic activities as established by the institution including laboratory work, internships, practicum, studio work, community-based learning, and other academic work leading to the award of credit hours. 
 
 The number of hours per week required for a credit is calculated from the total credits and the term length.  For a typical 3-credit hour course in a 7 week term, the 37.5 total hours of direct instruction equates to 5.5 hours a week of direct instruction.  In addition, homework and other out-of-class work constitutes 90 hours total or 12.8 hours per week.
 
-**Course Credit Hour Formula **
+**Course Credit Hour Formula**
 
 
 <table>
@@ -1471,7 +1438,7 @@ Starting Fall 2021, Make School will offer 2 student experiences.
 
 
 * **Online:** Students will learn from their chosen environment through live zoom lectures, recorded content, guided active learning, and self-guided activities. There will be no required in-person components
-* **On-Campus: **Students will learn from our campus with instructors present. In addition to in-person lectures, labs, and office hours, students will receive guided active learning and self-guided activities. There may still be recorded content.
+* **On-Campus:** Students will learn from our campus with instructors present. In addition to in-person lectures, labs, and office hours, students will receive guided active learning and self-guided activities. There may still be recorded content.
 
 Within each of these student experiences, students will have 2 course delivery options.
 
@@ -1483,12 +1450,12 @@ Within each of these student experiences, students will have 2 course delivery o
 * These formats are available for both online and on-campus students
     * **Online [Bichronous](https://er.educause.edu/articles/2020/9/bichronous-online-learning-blending-asynchronous-and-synchronous-online-learning)** - Meet 2 hours/week synchronously online, 16.5 hours/week asynchronous work (in-person or online - recordings, homework, labs, etc.)
     * **Online Sync** - Meet 5.5 hours/week synchronously online, 13 hours/week asynchronous work (recordings, homework, labs, project work, etc.)
-* **Internship (Supervised Work Experience) courses **have some asynchronous check-ins with course instructor, Casey Spurgeon throughout the internship. 
+* **Internship (Supervised Work Experience) courses** have some asynchronous check-ins with course instructor, Casey Spurgeon throughout the internship. 
 
 The tables below illustrate _minimum_ contact hours, _maximum_ non-contact hours and total hours per week/terms for the four (4 course) types Make School offers in the Bachelor of Applied Computer Science program. 
 
 
-    **Three (3) credit course in 7 weeks period, will meet for 18.5 hours per week as follows: **
+    **Three (3) credit course in 7 weeks period, will meet for 18.5 hours per week as follows:**
 
 
 <table>
@@ -1587,7 +1554,7 @@ The tables below illustrate _minimum_ contact hours, _maximum_ non-contact hours
 </table>
 
 
-**Four (4) credit course in a 14 week period, will meet for 12 hours per week as follows: **
+**Four (4) credit course in a 14 week period, will meet for 12 hours per week as follows:**
 
 
 <table>
@@ -1686,7 +1653,7 @@ The tables below illustrate _minimum_ contact hours, _maximum_ non-contact hours
 </table>
 
 
-**Four: 4 (3+1) credit course in a 14 week period, will meet for 14 hours per week as follows: **
+**Four: 4 (3+1) credit course in a 14 week period, will meet for 14 hours per week as follows:**
 
 
 <table>
@@ -1915,7 +1882,7 @@ The tables below illustrate _minimum_ contact hours, _maximum_ non-contact hours
 
     ⭑Asynchronous work consists of recordings, guided tutorials, homework, lab, project work, etc.
 
-**One-two (1-2) credit courses in a 1-2 week period, will meet for 45 hours per week as follows: **
+**One-two (1-2) credit courses in a 1-2 week period, will meet for 45 hours per week as follows:**
 
 
 <table>
@@ -2044,7 +2011,7 @@ The tables below illustrate _minimum_ contact hours, _maximum_ non-contact hours
 
 
 
-### **Periodic Review of Course Credit Hours**
+### Periodic Review of Course Credit Hours
 
 Application of the Credit Hour Policy will be reviewed during the Academic Program Review process to ensure that credit hour assignments are accurate, reliable, and appropriate to degree level. Supporting evidence includes syllabi, learning outcomes, assignment schedules, and course schedules identifying the times that courses meet (if applicable).
 
@@ -2069,12 +2036,6 @@ While a grade of Pass in a class equates to a C or better on a standard grading 
 
 
 ## Enrollment Information
-
-
-## 
-
----
-
 
 
 ### Enrollment Status
@@ -2208,45 +2169,34 @@ Students who have been academically dismissed from the college are automatically
 ## Academic Procedures
 
 
-## 
-
----
-
-
-
 ### Documentation Requests
 
 
-#### 
-    Transcripts
+#### Transcripts
 
 
     To request an official transcript, students must visit the [National Student Clearinghouse](http://www.studentclearinghouse.org/) website. If you encounter difficulty or have any questions, please contact the Clearinghouse directly by telephone at (703) 742-4200 or by email at [transcripts@studentclearinghouse.org](mailto:transcripts@studentclearinghouse.org).
 
 
-#### 
-    Verification of Enrollment & Degrees
+#### Verification of Enrollment & Degrees
 
 
     To request an enrollment verification for loan deferment purposes, contact the [Office of the Registrar](mailto:registrar@makeschool.com) for further information. Please note processing time for these requests is 5-10 business days.
 
 
-#### 
-    Progress Narratives
+#### Progress Narratives
 
 
     To request a progress narrative report, contact the [Office of the Registrar](mailto:registrar@makeschool.com) for further information. Please note processing time for these requests is 5-10 business days.
 
 
-#### 
-    Grade Change Petition
+#### Grade Change Petition
 
 
     To request a grade change, you should complete the [Grade Change Petition](http://make.sc/grade-change-petition). This petition should be used only when requesting a reevaluation of a given grade, and should not be used to request an Incomplete grade. For information on the status of a grade change petition, please email the [Office of the Registrar](mailto:registrar@makeschool.com).
 
 
-#### 
-    Incomplete Grade Request
+#### Incomplete Grade Request
 
 
     An Incomplete grade means the required work for the course is not yet finished due to extraordinary circumstances (e.g., illness or very serious personal reasons) beyond your control, and only under the following circumstances:
@@ -2272,8 +2222,7 @@ Many courses are only offered in one term during the academic year, which requir
 First time students will register during orientation after taking diagnostic exams. Returning students generally begin registering two weeks before the start of each term; specific dates will be announced to the student body via email. 
 
 
-#### 
-    Add/Drop Process
+#### Add/Drop Process
 
 
     You may request to Add course until the Add/Drop deadline (see the [Academic Calendar](http://make.sc/academic-calendar)) in the Student Dashboard (SIS). Requests to Add a class requires an instructor signature. Dropping a course does not require an instructor signature or request.  It is your responsibility to ensure this process is completed. 
@@ -2289,8 +2238,7 @@ First time students will register during orientation after taking diagnostic exa
 [Financial Implications: Leave of Absence & Withdrawal](#heading=h.8gc851bvz58b) of this catalog. 
 
 
-#### 
-    Auditing a Course vs. “Sitting-In” on a Class
+#### Auditing a Course vs. “Sitting-In” on a Class
 
 
     Students in good standing (who are not on a 
@@ -2307,8 +2255,7 @@ First time students will register during orientation after taking diagnostic exa
     Students in good standing, who have not been approved to audit a course, may request to “sit in” on one class session of a course. After being granted approval, the student must coordinate with the instructor regarding which particular session(s) they will join.
 
 
-#### 
-    Concurrent Registration
+#### Concurrent Registration
 
 
     Make School students may concurrently enroll to take Science & Letters or Foreign Language courses at off-campus accredited institutions and be granted transfer credit for these courses. The maximum number of transferable units via concurrent registration is 9 units. However, due to unit requirements, seniors with 36 or less units remaining will only be approved for concurrent enrollment in off-campus courses for a maximum of 8 units. 
@@ -2410,8 +2357,7 @@ Total transfer and credit for prior learning in the degree (including CORE: Scie
     PM: Purpose & Meaning
 
 
-#### 
-    Technical Curriculum
+#### Technical Curriculum
 
 
     Students may transfer credits up to 42 credits to meet the program's Technical curriculum in which a grade of C or better has been earned. Courses that earned a ”Pass” or “Credit” (CR) grade must be certified as equivalent to a grade of C or higher to be accepted. Make School will grant transfer units based on:
@@ -2730,10 +2676,6 @@ Make School maintains electronic records of the name, address, email address, an
 ## Academic Support
 
 
-
----
-
-
 Make School provides academic support to students through coaching, in-class teaching assistants, and an open plan workspace that encourages students to help each other through academic challenges. 
 
 You can access academic support in three ways: through the development of coach-coachee relationships, in-class teaching assistants, and an open plan workspace that encourages students to help each other through academic challenges. If you are uncertain where to go for academic support, your coach should be your first point of contact! All Academic Support Programs are available to both online and on-campus students.
@@ -2771,16 +2713,12 @@ Please note that all disability-related information (including documentation, ac
 ## Bachelor of Science in Applied Computer Science
 
 
-## 
-
----
-
 
 The Bachelor of Science in Applied Computer Science program provides innovative, project based learning in computer science and software engineering. Our curriculum is continually evaluated and evolving with current industry standards and constitutes a balance of technical computer science courses, hands-on software product development, professional identity courses, and thoughtfully-crafted liberal arts requirements. This program is not designed or intended to lead to positions in a profession, occupation, trade, or career field requiring licensure in the State of California.
 
-**Graduation Requirements: **Students must submit an Application to Graduate with the Registrar’s Office the _term prior to_ completing their degree, which initiates a final review of degree candidates' academic records and degree requirements to verify that all are on track to graduate in the term indicated on their application. Degrees are conferred after the final grade is posted for the final degree requirements and all requirements have been audited by the Registrar’s Office. 
+**Graduation Requirements:** Students must submit an Application to Graduate with the Registrar’s Office the _term prior to_ completing their degree, which initiates a final review of degree candidates' academic records and degree requirements to verify that all are on track to graduate in the term indicated on their application. Degrees are conferred after the final grade is posted for the final degree requirements and all requirements have been audited by the Registrar’s Office. 
 
-**Degree Conferral: **Make School confers degrees three times per year at the end of the Spring, Summer and Fall semesters.  Degrees will be posted within 60 days of the last day of the semester and diplomas sent within 90 days.
+**Degree Conferral:** Make School confers degrees three times per year at the end of the Spring, Summer and Fall semesters.  Degrees will be posted within 60 days of the last day of the semester and diplomas sent within 90 days.
 
 
 ### Degree and Graduation Requirements
@@ -2814,7 +2752,7 @@ Select 45 units (Including 18 upper-division units)
 
 * **Foundational Curriculum: 15 Units** \
 All students must take three 3-unit courses (9 units total) in Computer Science: CS 1.0, CS 1.1, and CS 1.2, and two 3-unit courses (6 units) in Full Stack Web: WEB 1.0 and WEB 1.1.
-* **Concentration Curriculum: 18 Units (Including 9 Upper-Division). **Students will either choose one of the four concentrations: Back End Web (BEW), Front End Web (FEW), Mobile (MOB), Data Science (DS), or can choose not to have a concentration.  Each concentration requires six (6) concentration-specific courses to satisfy the degree requirement. 
+* **Concentration Curriculum: 18 Units (Including 9 Upper-Division).** Students will either choose one of the four concentrations: Back End Web (BEW), Front End Web (FEW), Mobile (MOB), Data Science (DS), or can choose not to have a concentration.  Each concentration requires six (6) concentration-specific courses to satisfy the degree requirement. 
     * Back End Web Concentration Courses: 18 Units. \
 BEW 1.2, BEW 1.3, BEW 2.1 - 2.5, and BEW 2.9 are  all 3-unit courses. 
     * Front End Web Concentration Courses: 18 Units. \
@@ -2864,8 +2802,7 @@ Electives are chosen in addition to foundational and concentration courses to br
 * Academic Progress Requirement: Students are required to complete all degree requirements within a percentage of the minimum credits required to degree completion. The maximum time-frame allowance is 150% of the published program length of the student’s currently enrolled program of study.
 * International Language Competency Requirement: Students must demonstrate competency in a non-English language. This requirement can be satisfied through approved High School courses, SAT subject examination, AP or IB examination, college courses, formal instruction, assessment by a university, or certification by a High School Principal. **The International Language Competency Requirement must be satisfied within the first year of enrollment and counts towards your degree progress.**
 
-#### 
-    International Language Competency Requirement
+#### International Language Competency Requirement
 
 
     In order to earn a Bachelor’s degree, all Make School students must satisfy the International Foreign Language Requirement. While most students will meet this requirement based upon their foriegn language credits earned in High School, other students will need to meet the requirement through one of the options listed below.** Note: **Transfer students entering with 60 or more units are considered to have met this requirement. Second bachelor's degree seeking students are also considered to have met this requirement.
@@ -3005,11 +2942,6 @@ Electives are chosen in addition to foundational and concentration courses to br
 
         10. **Enroll in an online language course at a community college or institution of higher education.** This course must be pre-approved as meeting the Foreign Language Requirement.
 
-
-
-### 
-
-
 ### Sample Course Sequencing by Concentration
 
 It is important to be aware of course prerequisites and limited offerings in order to choose courses each term. To see all of our course offerings, including descriptions and prerequisites, visit: [make.sc/course-offerings](http://make.sc/course-offerings ). To see which classes will be offered in future terms please visit [make.sc/course-schedule](make.sc/course-schedule) to see the yearly schedule and [make.sc/course-registrations](make.sc/course-registrations) to see the schedule for this term.   
@@ -3027,18 +2959,10 @@ Sample course sequencing shown below is one option, but your actual schedule may
 * Students are encouraged to take CS 1.3 as one of their technical electives.
 * Key Prerequisites: WEB 1.0 -> WEB 1.1 -> BEW 1.2 -> Most other BEW courses, BEW 1.3 -> BEW 2.1
 
-#### 
-    
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+TK_FIX bew sample plan image
 
 ![alt_text](images/image2.png "image_tooltip")
-
-
-
-
-#### 
 
 
 #### FEW: Frontend Web Development
@@ -3050,16 +2974,9 @@ Sample course sequencing shown below is one option, but your actual schedule may
 
 * Key Prerequisites: WEB 1.0 -> FEW 1.2 ->  Most FEW Courses, WEB 1.1 and FEW 1.2 -> FEW 2.3 -> FEW 2.4
 
-    
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+TK_FIX few sample plan image
 ![alt_text](images/image3.png "image_tooltip")
-
-
-
-
 
 
 #### MOB: Mobile Development
@@ -3072,14 +2989,9 @@ Sample course sequencing shown below is one option, but your actual schedule may
 * Students must also take BEW 1.2 as one of their technical electives as it is a prerequisite for MOB 1.3
 * Key Prerequisites: Most Mobile courses have the previous course as a prerequisite and must be taken in order. MOB 1.1 ->MOB 1.2 -> MOB 2.1 and MOB 2.2  MOB 1.3 ->MOB 2.3  and MOB 2.4
 
-    
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+TK_FIX mob sample plan image
 
 ![alt_text](images/image4.png "image_tooltip")
-
-
 
 
 #### DS: Data Science
@@ -3093,28 +3005,16 @@ Sample course sequencing shown below is one option, but your actual schedule may
 * Students must have met their Quantitative Literacy Requirement or take QL 1.1 prior to DS 1.0 
 * Key Prerequisites: Most Data Science courses have the previous course as a prerequisite and must be taken in order. MATH 1450, CS 1.1 ->DS 1.0 ->DS 1.1, DS 2.1 and DS 2.2 -> DS 2.3, DS 2.4
 
-    
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+TK_FIX  ds sample 2 year plan
 ![alt_text](images/image5.png "image_tooltip")
-
-
 
 
 ## Tuition Information
 
 
-## 
-
----
-
-
-
 ### Tuition and Costs
 
-The total anticipated cost (direct and indirect) and charges for 2021-2022 Bachelor in Applied Computer Science Students is **$113,078. **A breakdown of tuition and charges per year is included below. Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
+The total anticipated cost (direct and indirect) and charges for 2021-2022 Bachelor in Applied Computer Science Students is **$113,078.** A breakdown of tuition and charges per year is included below. Students are encouraged to review the Make School Financial Tuition and Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
 
 Tuition for 2021-2022 Bachelor in Applied Computer Science Students
 
@@ -3165,9 +3065,7 @@ Tuition for 2021-2022 Bachelor in Applied Computer Science Students
 
 Students at Make School are expected to participate in one internship (SWE) to qualify for graduation. 
 
-
-
-* Students who take SWE during their 1st or 2nd summer at Make School are not charged tuition for that summer, but are charged $10,000 for the summer they are not taking SWE.   
+* Students who take SWE during their 1st or 2nd summer at Make School are not charged tuition for that summer, but are charged $10,000 for the summer they are not taking SWE.
 * If a student does not take a SWE during the 1st or 2nd summer at Make School (decided at the end of Year 2, Term 4), a student will need to talk with  [financial.aid@makeschool.com](mailto:finance@makeschool.com) about Year 3 Financing.
 
 
@@ -3179,8 +3077,6 @@ If your degree plan extends beyond two years, you can complete up to 12 addition
 ### Financial Implications: Leave of Absence & Withdrawal
 
 Students may need to take a temporary Leave of Absence (LOA) from Make School, or may leave Make School prior to conferring a degree. If a student opts to take a LOA, any tuition invoicing would be placed on hold until the student’s return. Students who opt to leave Make School early, however, are able to receive refunds on tuition payments based on a per term basis the following conditions: 
-
-
 
 1. If a student withdraws from Make School before 20% of a term is completed, the student will be refunded the full amount of any payments made that term.
 2. If a student withdraws between 20% and 50% of the term, they will owe the prorated amount of tuition for that term. 
@@ -3197,19 +3093,17 @@ Under Make School’s Financial Hold Policy, students may be restricted from enr
 
 
 
-* **Non-Payment Amount Less than $1,000: **Student is allowed to register for 1 term and a 2nd term with no outstanding balance. _If the student does have an outstanding balance, they will be placed on a financial aid hold._
-* **Non-Payment Amount Between $1,000 - $5,000: **Student is allowed to register if they agree to a payment plan._ If the student misses two payments, they will be placed on a financial aid hold._
+* **Non-Payment Amount Less than $1,000:** Student is allowed to register for 1 term and a 2nd term with no outstanding balance. _If the student does have an outstanding balance, they will be placed on a financial aid hold._
+* **Non-Payment Amount Between $1,000 - $5,000:** Student is allowed to register if they agree to a payment plan._ If the student misses two payments, they will be placed on a financial aid hold._
 * **Non-Payment Amount Greater than $5,000: _Student is not allowed to register and is placed on a financial aid hold._**
 
     These invoices will be sent from this email address: [invoice@hq.bill.com](mailto:invoice@hq.bill.com) with the subject line, “You have an invoice from Make School". If you have questions that are related to how to pay the invoice or want to discuss a payment plan, please reach out to [financial.aid@makeschool.com](mailto:finance@makeschool.com). 
 
 
-    In cases when a student has a small balance or payment plan, notification from Financial Aid must indicate the terms of not complying with the terms via email and/or in the **signed **payment plan agreement with student and/or parent. 
+    In cases when a student has a small balance or payment plan, notification from Financial Aid must indicate the terms of not complying with the terms via email and/or in the **signed** payment plan agreement with student and/or parent. 
 
 
     Financial Aid holds that persist for 1-2 terms or more will require students to take LOA for the max allowable to resolve their balances. After that, if the balance is still not satisfied, the student is administratively withdrawn from the program. Make School may review student accounts at any time to ensure proper payment activity.
-
-
 
 ### Contact Information
 
@@ -3217,12 +3111,6 @@ All tuition and financial aid questions should be sent to [financial.aid@makesch
 
 
 ## Student Financial Aid Policies
-
-
-## 
-
----
-
 
 
 ### Federal and State Student Financial Aid 
@@ -3296,8 +3184,7 @@ In addition, we strongly encourage students and parents to consider borrowing fe
     In addition, you may apply with multiple lenders to find the best loan for you. Student loans are provided special protections under credit reporting rules (similar to mortgages)--as long as you conduct your “shopping” within  a 30-day period, there should be no impact on your FICO score or loan terms (Make School does not guarantee this, but that is our understanding).
 
 
-#### 
-    Endorsement Disclaimer
+#### Endorsement Disclaimer
 
 
     Make School does not endorse any specific lender or any specific product. The lenders and products [listed](make.sc/preferred-lenders) are not ranked and these lists are meant to serve only as a guide for students and families looking for additional options to assist with educational expenses. Make School does not receive any benefits in exchange for placing a lender on the preferred private loan list.
@@ -3475,7 +3362,7 @@ Students are required to maintain a minimum quantitative Completion Rate of 67% 
 * Courses of Incomplete, Withdrawn, and Fail do not count as earned credits.  
 * Only courses with a Pass count as earned credits.
     * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass three courses and Fail one course. The completion rate is 9/12 = 75%.  The student has met the completion rate criteria. 
-    * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass two courses, Withdraw from one course and Fail one course. The completion rate is 6/12 = 50%. The student has **not **met the completion rate criteria. 
+    * EX: A student is enrolled in four courses (12 credits) after Census Date.  They Pass two courses, Withdraw from one course and Fail one course. The completion rate is 6/12 = 50%. The student has **not** met the completion rate criteria. 
 
 **Maximum Time-Frame**
 
@@ -3530,12 +3417,6 @@ The SAP Committee will thoroughly review each appeal. If the SAP Committee needs
 
 
 ## Appendix A: Important Links
-
-
-## 
-
----
-
 
 
 ### Academic Services and Information
@@ -3639,12 +3520,6 @@ The SAP Committee will thoroughly review each appeal. If the SAP Committee needs
 
 
 ## Appendix B: Course Descriptions
-
-
-## 
-
----
-
 
 
 ### Foundation
