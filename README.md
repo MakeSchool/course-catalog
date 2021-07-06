@@ -3215,9 +3215,7 @@ and S&L courses.
 - Students are encouraged to take CS 1.3 as one of their technical electives.
 - Key Prerequisites: WEB 1.0 -> WEB 1.1 -> BEW 1.2 -> Most other BEW courses, BEW 1.3 -> BEW 2.1
 
-TK_FIX bew sample plan image
-
-![alt_text](images/image2.png 'image_tooltip')
+![Back end web concentration sample 2 year plan](../images/back-end-web-concentration-sample-2-year-plan.png)
 
 #### FEW: Frontend Web Development
 
@@ -3228,7 +3226,7 @@ SPD, INT and S&L courses.
 - Key Prerequisites: WEB 1.0 -> FEW 1.2 -> Most FEW Courses, WEB 1.1 and FEW 1.2 -> FEW 2.3 -> FEW
   2.4
 
-TK_FIX few sample plan image ![alt_text](images/image3.png 'image_tooltip')
+![Frontend web concentration sample 2 year plan](../images/front-end-web-concentration-sample-2-year-plan.png)
 
 #### MOB: Mobile Development
 
@@ -3241,9 +3239,7 @@ courses.
 - Key Prerequisites: Most Mobile courses have the previous course as a prerequisite and must be
   taken in order. MOB 1.1 ->MOB 1.2 -> MOB 2.1 and MOB 2.2 MOB 1.3 ->MOB 2.3 and MOB 2.4
 
-TK_FIX mob sample plan image
-
-![alt_text](images/image4.png 'image_tooltip')
+![Mobile concentration sample 2 year plan](../images/mobile-concentration-sample-2-year-plan.png)
 
 #### DS: Data Science
 
@@ -3255,7 +3251,7 @@ five 3-unit foundation courses, and four 3-unit electives as well as all SPD, IN
 - Key Prerequisites: Most Data Science courses have the previous course as a prerequisite and must
   be taken in order. MATH 1450, CS 1.1 ->DS 1.0 ->DS 1.1, DS 2.1 and DS 2.2 -> DS 2.3, DS 2.4
 
-TK_FIX ds sample 2 year plan ![alt_text](images/image5.png 'image_tooltip')
+![Data science concentration sample 2 year plan](../images/data-science-concentration-sample-2-year-plan.png)
 
 ## Tuition Information
 
