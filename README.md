@@ -1814,7 +1814,7 @@ Science program.
    <td>On-Campus Hybrid (OCH)
    </td>
    <td>2 hrs/week 
-<p> 14 hrs/term</p></p>
+<p> 14 hrs/term</p>
    </td>
    <td>16.5 hrs/week
 <p> 115.5 hrs/term</p>
