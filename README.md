@@ -662,7 +662,7 @@ internal communications among the Make School community. You can join the follow
 groups on Facebook:
 
 - [Make School Community](https://www.facebook.com/groups/MakeSchoolCommunity/)
-- [Make School ](https://www.facebook.com/makeschool/)
+- [Make School](https://www.facebook.com/makeschool/)
 - [Make School Women](https://www.facebook.com/groups/916655231787097/)
 
 **LinkedIn** is a tool to connect internally with staff and students, as well as externally with
@@ -905,8 +905,8 @@ Complaints categories include:
 - **Academic Concerns**: Manager: Anne Spalding, Dean and Interim President
 
 The student may also choose to speak with their instructor, coach, or a member of the Student
-Experience Team to address the concern and complete
-the[ Student Reporting Form](http://make.sc/student-reporting-form) with the staff member or
+Experience Team to address the concern and complete the
+[Student Reporting Form](http://make.sc/student-reporting-form) with the staff member or
 instructor’s support. All concerns or complaints are addressed in a timely, private manner. Make
 School staff may escalate the concern or complaint to the Dean or Director of Student and Academic
 Affairs as appropriate.
@@ -1026,8 +1026,8 @@ as:
 ##### Reporting Hazing
 
 If you have been hazed, have witnessed or are aware of behavior that may be considered hazing, you
-must report the incident(s) to
-the[ Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com) or use
+must report the incident(s) to the
+[Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com) or use
 [Student Reporting Form](http://make.sc/student-reporting-form). In the event the hazing activity
 has put a student’s safety at risk or is an emergency, you should contact 911 to get emergency
 medical attention.
@@ -2983,7 +2983,7 @@ Select 45 units (Including 18 upper-division units)
     are available to seniors and provide the opportunity to explore and practice a wide variety of
     skills learned across the curriculum. To register for these courses, the student must find a
     Supervisor (instructor or staff) who will oversee their progress and complete the
-    [SUP Contract Template. ](http://make.sc/SUP-contract)
+    [SUP Contract Template.](http://make.sc/SUP-contract)
   - Advanced Technical Seminar: Back End Web (BEW 2.9), Front End Web (FEW 2.9), Mobile (MOB 2.9),
     and Data Science (DS 2.9). These courses cover advanced topics not offered within our standard
     curriculum. Students can indicate topics of interest by filling out
@@ -3017,7 +3017,7 @@ The list of courses that meet these categories can be found [here](https://make.
 In order to graduate from Make School with a bachelor’s degree, students must also meet the
 requirements in the following categories:
 
-- [Unit and Residency Requirements ](https://dominican.smartcatalogiq.com/2019-2020/Academic-Catalog/Undergraduate-Education-General-Degree-Admissions-Information/Undergraduate-Education-General-Degree-Information/General-Requirements-for-a-Baccalaureate-Degree):
+- [Unit and Residency Requirements](https://dominican.smartcatalogiq.com/2019-2020/Academic-Catalog/Undergraduate-Education-General-Degree-Admissions-Information/Undergraduate-Education-General-Degree-Information/General-Requirements-for-a-Baccalaureate-Degree):
   Students must complete a minimum of 124 units, 48 of which must be in upper division courses.
   - At least 28 units of your last 36 units must be completed at Make School.
   - At least 39 units total must be completed at Make School.
@@ -3259,53 +3259,33 @@ five 3-unit foundation courses, and four 3-unit electives as well as all SPD, IN
 
 The total anticipated cost (direct and indirect) and charges for 2021-2022 Bachelor in Applied
 Computer Science Students is **$113,078.** A breakdown of tuition and charges per year is included
-below. Students are encouraged to review the Make School Financial Tuition and
-Aid[ webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
+below. Students are encouraged to review the Make School Financial Tuition and Aid
+[webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
 
-Tuition for 2021-2022 Bachelor in Applied Computer Science Students
+#### Tuition for 2021-2022 Bachelor in Applied Computer Science Students
 
-TK_FIX table tuition
+| Term                                                     | Amount      |
+| -------------------------------------------------------- | ----------- |
+| Fall and Spring semester tuition year 1                  | $30,000     |
+| Summer semester tuition year 1                           | $10,000     |
+| Fall and Spring semester tuition year 2                  | $30,000     |
+| **Total tuition for the Make School bachelor's program** | **$70,000** |
 
-    Fall and Spring semester tuition year 1:	$30,000
+#### Additional Costs for 2021-2022 Bachelor in Applied Computer Science Students
 
+These following anticipated additional costs are an estimate of what a student may expect to spend
+while attending Make School (indirect costs). **Individual student costs may vary.**
 
-    Summer semester tuition year 1:	 $10,000
-
-
-    Fall and Spring semester tuition year 2:	<span style="text-decoration:underline;">$30,000</span>
-
-
-    Total tuition for the Make School bachelor's program	$70,000
-
-
-    Additional Costs for 2021-2022 Bachelor in Applied Computer Science Students
-
-
-    These following anticipated additional costs are an estimate of what a student may expect to spend while attending Make School (indirect costs). **Individual student costs may vary.**
-
-
-    Books classroom materials (including laptop) per year:	$200
-
-
-    Laptop (First year only):	$1,600
-
-
-    Room (Make School Preferred Housing) per year: 	$11,940
-
-
-    Transportation per year:	$864
-
-
-    Food per year:	$4,800
-
-
-    Health Insurance per year:	$100
-
-
-    Personal Expenses per year:	<span style="text-decoration:underline;">$2,853</span>
-
-
-    Total Indirect Costs per year	$22,339
+| Type                                                  | Amount      |
+| ----------------------------------------------------- | ----------- |
+| Books classroom materials (including laptop) per year | $200        |
+| Laptop (First year only)                              | $1,600      |
+| Room (Make School Preferred Housing) per year         | $11,940     |
+| Transportation per year                               | $864        |
+| Food per year                                         | $4,800      |
+| Health Insurance per year                             | $100        |
+| Personal Expenses per year                            | $2,853      |
+| **Total Indirect Costs per year**                     | **$22,339** |
 
 ### Internship (SWE) Tuition Policy
 
@@ -3861,7 +3841,7 @@ documentation as early as possible to allow on-time disbursement of aid if the a
 
 [BetterHelp](http://betterhelp.com) (online counseling services)
 
-[Emotional Support Animal Agreement ](http://make.sc/esa-agreement)
+[Emotional Support Animal Agreement](http://make.sc/esa-agreement)
 
 [Immunization & TB Screening Form](https://drive.google.com/file/d/1mgxXLFwkNxcq-Is8crbZMUMvc5oEmT6N/view)
 
@@ -4558,7 +4538,7 @@ programming with key deliverables and timeline. To enroll in this course, studen
 Project Advisor (instructor or other appropriate Make School staff) who agrees to work with them and
 guide their progress. To register for these courses, the student must find a Supervisor (instructor
 or staff) who will oversee their progress and complete the
-[SUP Contract Template. ](http://make.sc/SUP-contract)
+[SUP Contract Template.](http://make.sc/SUP-contract)
 
 _Note: Students can take up to 2 SUP courses for credit. Either: SUP 2.1 twice - SUP 2.2 twice - SUP
 2.1 and SUP 2.2_
@@ -4573,7 +4553,7 @@ project, set milestones, and project manage with the guidance of a Project Advis
 other appropriate professional). The course is designed to germinate real-world work with purpose
 and will culminate with a deployed or published project. To register for these courses, the student
 must find a Supervisor (instructor or staff) who will oversee their progress and complete the
-[SUP Contract Template. ](http://make.sc/SUP-contract)
+[SUP Contract Template.](http://make.sc/SUP-contract)
 
 _Note: Students can take up to 2 SUP courses for credit. Either • SUP 2.1 twice or • SUP 2.2 twice
 or • SUP 2.1 and SUP 2.2_
