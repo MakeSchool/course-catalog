@@ -54,9 +54,10 @@ How to use this Course Catalog and Student Handbook:
 - **This guide is designed with you in mind.** Let us know if there is something you don’t
   understand or need clarity on so we can improve the information provided in this document.
 
-For quick access to important information, forms, documents, or other items, the [Appendix](#TK_FIX
-heading=h.r6g3lcy73iw9) has a list of links to things most commonly used or asked about by Make
-School Students. This is a great place to start if you’re not sure what you are looking for.
+For quick access to important information, forms, documents, or other items, the
+[Appendix](appendix-a-important-links/academic-services-and-information) has a list of links to
+things most commonly used or asked about by Make School Students. This is a great place to start if
+you’re not sure what you are looking for.
 
 ## Institutional Information
 
@@ -162,7 +163,7 @@ feedback, and work with the College Team to address student needs.
 - **Dean:** [Anne Spalding](mailto:anne@makeschool.com), Doctor of Philosophy, University of
   Colorado at Denver, 1998; Master of Science, University of Colorado at Denver, 1996; Bachelor of
   Science, University of Colorado at Denver, 1993
-- **Director of Science & Letters:**[Justine Meyr](mailto:justine@makeschool.com), Doctor of
+- **Director of Science & Letters:** [Justine Meyr](mailto:justine@makeschool.com), Doctor of
   Philosophy in Education, The Gevirtz School of Education, University of California, Santa Barbara,
   2017; Masters of Arts, University of California Santa Barbara, Santa Barbara, CA, 2010; Bachelor
   of Arts, Brandeis University, Waltham, MS, 2002
@@ -213,8 +214,8 @@ This team is here to make sure we offer you the best learning experience possibl
 team works to ensure what you’re learning in class will help you meet your career goals, is in
 keeping with industry best practices, and offers additional learning support.
 
-- [Ian Birnam](mailto:ian@makeschool.com)**,** Bachelor of Arts, University of California at
-  Berkeley, 2014
+- [Ian Birnam](mailto:ian@makeschool.com), Bachelor of Arts, University of California at Berkeley,
+  2014
 
 #### Student Experience
 
@@ -832,8 +833,9 @@ either immediately or at the end of the term as denoted in the PIP. Typically, a
 is not allowed to return to Make School, and a suspended student may be allowed to return by
 reapplying the following year.
 
-TK_FIX link to section Refer to [Academic Dismissal](#heading=h.jqenqokn9vth) section for more
-information.
+Refer to
+[Academic Dismissal](/academic-and-educational-program-information/academic-standing-and-satisfactory-achievement)
+section for more information.
 
 **Alternate Conduct Action:** Reports of violations of certain policies (i.e., violations of Sexual
 Misconduct policies or violation of the Alcohol, Drug & Smoking Policies) may require alternate
@@ -888,9 +890,8 @@ provided in the form will remain private to the best of Make School’s ability.
 nature of the complaint, anonymity may not be guaranteed, but we will do our best to protect the
 privacy of all parties involved. Make School does not tolerate any form of retaliation. The form can
 be used to report concerns regarding a violation of the
-
-TK_FIX link code of conduct [Code of Conduct](#heading=h.x0jvq6l5kdwl) or a concern regarding the
-conduct of an instructor or staff member.
+[Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion) or a concern regarding
+the conduct of an instructor or staff member.
 
 Complaints categories include:
 
@@ -921,7 +922,7 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
       however;
    2. Some complaints, depending on the nature of the report, will warrant an informal or formal
       resolution process as determined by the Director and described in the
-      [Code of Conduct](#heading=h.8obtx3h2p3mr) policy. TK_FIX link code of conduct
+      [Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion) policy.
    3. Complaints regarding a potential violation of Title IX, Hate Speech Policy, Retaliation, or
       Hazing are not eligible for the restorative justice process.
 3. Through the support of the Director (student-related issues) or the Dean (instructor or
@@ -929,10 +930,10 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
    resolve the issue.
    1. Most issues will be resolved through a Participation Improvement Plan (PIP).
 4. If applicable, students may pursue the appeal process as described in the
-   [Code of Conduct](#heading=h.8obtx3h2p3mr). TK_FIX link code of conduct
+   [Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion).
 5. Records relating to the initial complaint, resolution process, and appeals will be maintained for
    up to seven years after the resolution of the incident. All records are
-   [FERPA](#heading=h.lcouv21rq30j) protected. TK_FIX link ferpa
+   [FERPA](/academic-and-educational-program-information/academic-policies) protected.
 
 ### Community Policies
 
@@ -948,8 +949,8 @@ depict the use of these substances while located on Make School property.
 If it is determined that a student (online or on-campus) is under the influence of alcohol or drugs,
 or has been smoking or vaping during an official Make School activity (including class), any related
 contraband will be confiscated (if on-campus) and the standard
-[Performance Improvement Plan](#heading=h.8obtx3h2p3mr) process will be followed. TK_FIX link pip
-process
+[Performance Improvement Plan](/student-conduct-policies/disciplinary-action-academic-conduct)
+process will be followed.
 
 #### Communications Expectations
 
@@ -1032,7 +1033,7 @@ has put a student’s safety at risk or is an emergency, you should contact 911 
 medical attention.
 
 Incidents of hazing are not eligible for an Informal Resolution of the
-[Student Conduct Process](#heading=h.8obtx3h2p3mr). TK_FIX link student conduct process
+[Student Conduct Process](/student-conduct-policies/disciplinary-action-academic-conduct).
 
 #### Hazardous Materials
 
@@ -1281,9 +1282,10 @@ you are familiar with procedures Make School has set in place to foster a safe c
   phone at (415) 563-0303.
 - **Formal Complaints:** A victim of a crime wishing to file a formal complaint against a
   perpetrator who is a member of the campus community should refer to Make School’s
-  [Formal Resolution](#heading=h.8obtx3h2p3mr) Policy. Students may also choose to file a Police
-  Report. For information about harassment or sexual violence, please refer to the
-  [Title IX Policy.](#heading=h.kvh5jwtvzk3w) TK_FIX links formal resolution and title ix
+  [Formal Resolution](/student-conduct-policies/disciplinary-action-academic-conduct) Policy.
+  Students may also choose to file a Police Report. For information about harassment or sexual
+  violence, please refer to the
+  [Title IX Policy.](/student-conduct-policies/title-ix-understanding-harassment-sexual-misconduct)
 - **Media Inquiries** Any inquiries from the news media regarding the occurrence of criminal
   incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
 - **Missing Persons Reporting:** In compliance with the Higher Education Act, Make School gives all
@@ -1569,11 +1571,11 @@ constitute cheating, including:
 If an incident of plagiarism or cheating occurs, the instructor will investigate the incident and
 consult with the Dean. If the student has been found to have committed an act of academic
 dishonesty, an [Academic Misconduct Report](make.sc/academic-misconduct-report) will be filed and
-the student will be placed on a [Performance Improvement Plan (PIP)](#heading=h.8obtx3h2p3mr). A
-student who believes they have been wrongly accused of plagiarism or cheating, or that the
+the student will be placed on a
+[Performance Improvement Plan (PIP)](/student-conduct-policies/disciplinary-action-academic-conduct).
+A student who believes they have been wrongly accused of plagiarism or cheating, or that the
 instructor’s resolution of the alleged incident is unjust, may file a
-[Request for Appeal of Disciplinary Action](#heading=h.8obtx3h2p3mr). TK_FIX links pip and request
-for appeal
+[Request for Appeal of Disciplinary Action](/student-conduct-policies/disciplinary-action-academic-conduct).
 
 #### Attendance & Participation Policy
 
@@ -1756,13 +1758,11 @@ out-of-class work constitutes 90 hours total or 12.8 hours per week.
    </td>
   </tr>
   <tr>
-   <td>12.5 hours of instruction <strong>X</strong> # of credits
-   <hr />
-   <p> # of weeks in class </p>
+   <td>
+   (12.5 hours of instruction <strong>x</strong> # of credits) / (# of weeks in class)
    </td>
-   <td>30 hours of instruction <strong>X</strong> # of credits
-   <hr />
-   <p> # of weeks in class </p>
+   <td>
+   (30 hours of instruction <strong>x</strong> # of credits) / (# of weeks in class)
    </td>
   </tr>
 </table>
@@ -2307,8 +2307,8 @@ level and knowledge.
 While a grade of Pass in a class equates to a C or better on a standard grading scale, Make School
 does not compute or report a Grade Point Average (GPA). If students need academic performance
 information (i.e. GPA) for the purpose and internship or graduate school application, a
-[narrative of their progress](#heading=h.ohmqqjbk2fre) through the program is available upon
-request. TK_FIX link narrative of progress
+[narrative of their progress](/academic-procedures/documentation-requests) through the program is
+available upon request.
 
 #### Repeated Courses
 
@@ -2558,16 +2558,17 @@ You may request to withdraw from the course until the Withdrawal deadline (see t
 withdraw from a class does not require an instructor signature approval. Students are responsible
 for knowing the financial implications of a withdrawal (W) grade and the impact on academic progress
 towards graduation. Further information can be found in the
-[Financial Implications: Leave of Absence & Withdrawal](#heading=h.8gc851bvz58b) of this catalog.
-TK_FIX link financial implications
+[Financial Implications: Leave of Absence & Withdrawal](/tuition-information/financial-implications-leave-of-absence-withdrawal)
+of this catalog.
 
 #### Auditing a Course vs. “Sitting-In” on a Class
 
-Students in good standing (who are not on a [Performance Improvement Plan](#heading=h.8obtx3h2p3mr))
-may audit a course with instructor approval, provided that the student: has taken the course
-previously and would like to revisit the material; or has an
-[Incomplete grade](#heading=h.46zoxwdj1mjj) for the course from the previous term, and seeks to gain
-further mastery of the material to complete the course. TK_FIX links pip, incomplete grade
+Students in good standing (who are not on a
+[Performance Improvement Plan](/student-conduct-policies/disciplinary-action-academic-conduct)) may
+audit a course with instructor approval, provided that the student: has taken the course previously
+and would like to revisit the material; or has an
+[Incomplete grade](/academic-procedures/documentation-requests) for the course from the previous
+term, and seeks to gain further mastery of the material to complete the course.
 
 Students in good standing, who have not been approved to audit a course, may request to “sit in” on
 one class session of a course. After being granted approval, the student must coordinate with the
@@ -3158,11 +3159,9 @@ language other than English.
    the International Language Competency requirement. This can be confirmed by submitting a copy of
    your high school transcript to the Registrar's office. For students who want to enroll in a
    college course concurrent with their Make School enrollment must follow the
-   [Off-Campus Courses Policies and Procedures](#heading=h.3skhob6xz1kd) to earn credit for this
-   requirement. The following off-campus courses have been approved for meeting the foreing language
-   requirement:
-
-TK_FIX link off campus courses policies
+   [Off-Campus Courses Policies and Procedures](/academic-procedures/registration) to earn credit
+   for this requirement. The following off-campus courses have been approved for meeting the foreign
+   language requirement:
 
 - Coursera's Chinese for Beginners and More Chinese for Beginners (must take both)
 
@@ -3542,8 +3541,9 @@ reduce your Direct Federal Loan payments to $0 if you are unemployed, at other c
 still have to pay monthly for the rest of your loans. Not so at Make School.
 
 Make School is creating and funding an Extended Income-Based Repayment (EIBR) protection plan to
-cover Parent Plus and [private loans](#heading=h.cvhmh8iudig) to create full protection for
-underemployed and unemployed graduates. TK_FIX link private loans
+cover Parent Plus and
+[private loans](/student-financial-aid-policies/student-private-or-personal-loans) to create full
+protection for underemployed and unemployed graduates.
 
 The EIBR protection plan is designed as an extension of the Federal IBR program to apply to all
 types of loans not covered by the Federal IBR and preserve the protection and incentive alignment of
@@ -4593,8 +4593,8 @@ Make School embraces diversity and encourages students to bring their informed p
 learning environment. As such, Make School’s S&L curriculum allows for various worldviews to be
 present in the classroom and extends the ability for students to engage in the free expression of
 ideas in their search for truth. Therefore, faculty and students are protected by
-[Academic Freedom](#heading=h.4nb9fgeoaaoy) in all Science and Letters courses. TK_FIX link academic
-freedom
+[Academic Freedom](/academic-and-educational-program-information/academic-freedom) in all Science
+and Letters courses.
 
 Science and Letters classes available for registration vary by term. The course descriptions
 included are courses that have been previously been offered and may be offered during the 2021-2022
