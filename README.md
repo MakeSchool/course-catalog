@@ -718,10 +718,9 @@ assistance, contact [student.affairs@makeschool.org](mailto:student.affairs@make
 
 ### Online Learning Tutorial
 
-You should review the
-[Online Learning Tutorial](https://docs.google.com/document/d/1Tls-1j9nAx0qw8SnINuEn_q4nm0QWY5s5FhZsVBs_DQ/edit#heading=h.cl51njq0mka)
-to learn tips and tricks to taking classes online, as well as Make School’s expectations for how you
-will engage with instructors and peers when online.
+You should review the [Online Learning Tutorial](make.sc/online-learning-tutorial) to learn tips and
+tricks to taking classes online, as well as Make School’s expectations for how you will engage with
+instructors and peers when online.
 
 This comprehensive guide will help you set-up your environment, learn how to navigate your student
 dashboard, access course materials on GitHub, and utilize GSuite. We recommend that you review this
@@ -1351,9 +1350,8 @@ overpasses, bridges, power lines, signs, and other hazards. Stay inside the vehi
 shaking is over. If a power line falls on the car, stay inside until a trained person removes the
 wire.
 
-```
-It is recommended that everyone in the Bay Area have an earthquake kit ready in case of emergency. Many options are available for purchase through Amazon.
-```
+It is recommended that everyone in the Bay Area have an earthquake kit ready in case of emergency.
+Many options are available for purchase through Amazon.
 
 ##### Fire
 
@@ -2410,9 +2408,8 @@ Withdrawal is when you plan to leave and do not intend to return to Make School.
 with their coach and/or the Dean prior to submitting an official request. This request must be sent
 via completion of the Application for Withdrawal form.
 
-```
-Students who have been academically dismissed from the college are automatically withdrawn and do not need to submit a written withdrawal request.
-```
+**Students who have been academically dismissed from the college are automatically withdrawn and do
+not need to submit a written withdrawal request.**
 
 Important things to consider when pursuing withdrawal from Make School:
 
@@ -2889,9 +2886,11 @@ discrimination based on disability in the administration of its policies and pro
 Both online and on-campus students are entitled to reasonable accommodations in accordance with ADA.
 Online students may
 
-```
-To qualify as having a disability at Make School, the student must have a physical, sensory, learning, or psychological impairment which substantially limits one or more major life activities, and must also be able to provide documentation of such impairment. While students with temporary illnesses, injuries, or conditions are not considered disabled under these laws, Make School will make appropriate adjustments and assist them with available resources.
-```
+**To qualify as having a disability at Make School, the student must have a physical, sensory,
+learning, or psychological impairment which substantially limits one or more major life activities,
+and must also be able to provide documentation of such impairment. While students with temporary
+illnesses, injuries, or conditions are not considered disabled under these laws, Make School will
+make appropriate adjustments and assist them with available resources.**
 
 Once admitted to Make School, you are responsible for requesting accommodations for a disability via
 the [Disability Services Intake Form](make.sc/ada-intake-form). You will meet with the ADA
