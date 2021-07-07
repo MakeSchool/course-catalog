@@ -1,6 +1,6 @@
 # Make School Course Catalog and Student Handbook (2021-2022 Academic Year)
 
-## Frontmatter
+## Introduction
 
 ### Cover Page and Disclosures
 
@@ -20,6 +20,13 @@ copy format to all persons upon request.
 Make School strives to ensure the information provided in this catalog is accurate and
 comprehensive, but cannot guarantee absolute accuracy.
 
+##### Past Catalogs
+
+You can view past versions of our academic catalog online:
+
+- [2020-2021 Course Catalog & Student Handbook](https://make.sc/course-catalog-2020-2021)
+- [2019-2020 Course Catalog & Student Handbook](https://make.sc/course-catalog-2019-2020)
+
 #### APPLICABILITY OF POLICIES & STANDARDS
 
 The Course Catalog & Student Handbook, and all policies and procedures outlined therein are
@@ -31,7 +38,7 @@ should be interpreted in a manner consistent with the mission and values of Make
 policies, rules, and expectations. In such instances, the decision of the Dean (or their designee)
 will be final and binding.
 
-### How to Use This Course Catalog and Student Handbook
+### How to Use This Catalog
 
 Welcome to Make School! We are excited to have you be a part of our community! We have provided this
 Course Catalog and Student Handbook to help you during your time at Make School.
@@ -55,7 +62,7 @@ How to use this Course Catalog and Student Handbook:
   understand or need clarity on so we can improve the information provided in this document.
 
 For quick access to important information, forms, documents, or other items, the
-[Appendix](appendix-a-important-links/academic-services-and-information) has a list of links to
+[Appendix](../appendix-a-important-links/academic-services-and-information) has a list of links to
 things most commonly used or asked about by Make School Students. This is a great place to start if
 you’re not sure what you are looking for.
 
@@ -160,19 +167,19 @@ This team is here to make sure your living and learning environment is dynamic, 
 compliant. The Academic Administrators will help you stay on track for graduation, listen to your
 feedback, and work with the College Team to address student needs.
 
-- **Dean:** [Anne Spalding](mailto:anne@makeschool.com), Doctor of Philosophy, University of
+- **Dean:** [Anne Spalding](mailto:anne@makeschool.org), Doctor of Philosophy, University of
   Colorado at Denver, 1998; Master of Science, University of Colorado at Denver, 1996; Bachelor of
   Science, University of Colorado at Denver, 1993
-- **Director of Science & Letters:** [Justine Meyr](mailto:justine@makeschool.com), Doctor of
+- **Director of Science & Letters:** [Justine Meyr](mailto:justine@makeschool.org), Doctor of
   Philosophy in Education, The Gevirtz School of Education, University of California, Santa Barbara,
   2017; Masters of Arts, University of California Santa Barbara, Santa Barbara, CA, 2010; Bachelor
   of Arts, Brandeis University, Waltham, MS, 2002
 - **Director of Student & Academic Affairs:**
-  [Michelle Lessly Blackburn](mailto:student.affairs@makeschool.com), Doctor of Law and Public
+  [Michelle Lessly Blackburn](mailto:student.affairs@makeschool.org), Doctor of Law and Public
   Policy, Northeastern University, 2016; Masters of Education, Abilene Christian University, 2008;
   Bachelor of Arts, Abilene Christian University, 2005
 - **Registrar, Director of Institutional Research:**
-  [Kaleena L.M. Findley](mailto:kaleena@makeschool.com), Master of Science, Touro College, Graduate
+  [Kaleena L.M. Findley](mailto:kaleena@makeschool.org), Master of Science, Touro College, Graduate
   School of Education & Technology (NY), 2009; Bachelor of Arts, Long Island University-CW Post,
   2004
 
@@ -185,26 +192,26 @@ science, and agile product development. This team is here to make sure you meet 
 by providing project-based learning opportunities. The Instructors will help you master software
 development concepts, provide academic support, and help you grow as an engineer.
 
-- [Adam Braus](mailto:braus@makeschool.com), Bachelor of Arts, St. John’s College, 2008
-- [Adriana Gonzalez](mailto:adriana@makeschool.com), Bachelor of Science, Instituto Tecnologico Y
+- [Adam Braus](mailto:braus@makeschool.org), Bachelor of Arts, St. John’s College, 2008
+- [Adriana Gonzalez](mailto:adriana@makeschool.org), Bachelor of Science, Instituto Tecnologico Y
   Estudios Superiores de Monterrey, 2015
-- [Dan Morse](mailto:dan@makeschool.com), Bachelor of Business Administration, University of
+- [Dan Morse](mailto:dan@makeschool.org), Bachelor of Business Administration, University of
   Michigan, 2013
-- [Dani Roxberry](mailto:dani@makeschool.com), Bachelor of Science, Neumont College of Computer
+- [Dani Roxberry](mailto:dani@makeschool.org), Bachelor of Science, Neumont College of Computer
   Science, 2008
-- [Jay Lowe](mailto:jay@makeschool.com), Bachelor of Science, California State University Monterey
+- [Jay Lowe](mailto:jay@makeschool.org), Bachelor of Science, California State University Monterey
   Bay, 2018
-- [Jess Dahmen](mailto:jess.dahmen@makeschool.com), Doctor of Philosophy, Washington State
+- [Jess Dahmen](mailto:jess.dahmen@makeschool.org), Doctor of Philosophy, Washington State
   University, 2019; Bachelor of Science, Washington State University, 2013
-- [Joseph Catanzarite](mailto:joseph@makeschool.com), Master of Science, University of Southern
+- [Joseph Catanzarite](mailto:joseph@makeschool.org), Master of Science, University of Southern
   California; Master of Science, University of Arizona; Bachelor of Science, California Institute of
   Technology
-- [Kamran Bigdely-Shamloo](mailto:kami@makeschool.com), Masters of Science, University of Calgary,
+- [Kamran Bigdely-Shamloo](mailto:kami@makeschool.org), Masters of Science, University of Calgary,
   2012; Bachelor of Science, University of Amirkabir, 2009
-- [Meredith Teo](mailto:meredith@makeschool.com), Bachelor of Science, Harvey Mudd College, 2013
-- [Mitchell Hudson](mailto:mitchell@makeschool.com), Bachelor of Fine Arts, San Francisco Art
+- [Meredith Teo](mailto:meredith@makeschool.org), Bachelor of Science, Harvey Mudd College, 2013
+- [Mitchell Hudson](mailto:mitchell@makeschool.org), Bachelor of Fine Arts, San Francisco Art
   Institute, 1989
-- [Regina Yoong](mailto:regina@makeschool.com), Doctor of Philosophy in English, Ohio University,
+- [Regina Yoong](mailto:regina@makeschool.org), Doctor of Philosophy in English, Ohio University,
   2021; Master of Arts, University of Malaya, Malaysia, 2017; Bachelor of Arts, UCSI University,
   Malaysia, 2012
 
@@ -214,7 +221,7 @@ This team is here to make sure we offer you the best learning experience possibl
 team works to ensure what you’re learning in class will help you meet your career goals, is in
 keeping with industry best practices, and offers additional learning support.
 
-- [Ian Birnam](mailto:ian@makeschool.com), Bachelor of Arts, University of California at Berkeley,
+- [Ian Birnam](mailto:ian@makeschool.org), Bachelor of Arts, University of California at Berkeley,
   2014
 
 #### Student Experience
@@ -222,11 +229,11 @@ keeping with industry best practices, and offers additional learning support.
 This team is here to make sure you have the best experience possible outside the classroom. Student
 Experience will help you become a student leader and feel connected to the Make School community.
 
-- **Manager:** [Megan Dias](mailto:megan.dias@makeschool.com), Masters of Art, University of the
+- **Manager:** [Megan Dias](mailto:megan.dias@makeschool.org), Masters of Art, University of the
   Pacific, 2012; Bachelor of Arts, California State University-Chico, 2009
-- **Coordinator:** [Lisa Tran](mailto:lisa.tran@makeschool.com), Master of Arts, University of San
+- **Coordinator:** [Lisa Tran](mailto:lisa.tran@makeschool.org), Master of Arts, University of San
   Francisco, 2019; Bachelor of Arts, University of California at Irvine, 2013
-- **Coordinator:** [Valdine Bonheur](mailto:valdine@makeschool.com), Bachelor of Arts,
+- **Coordinator:** [Valdine Bonheur](mailto:valdine@makeschool.org), Bachelor of Arts,
   Manhattanville College, 2013
 
 #### Career Services
@@ -235,7 +242,7 @@ This team is here to make sure you are job ready by the time you graduate. Caree
 you get access to internship opportunities, build your professional network, and hone your
 interviewing skills.
 
-- [Casey Spurgeon](mailto:Casey@makeschool.com), Masters of Science, National University, 2019;
+- [Casey Spurgeon](mailto:Casey@makeschool.org), Masters of Science, National University, 2019;
   Bachelor of Science, National University, 2016; Associate of Arts, FIDM, 2012
 
 ### Alumni Relations
@@ -370,7 +377,7 @@ care:
 Make School maintains an online library with a curated list of digital resources for technical
 content, social science texts, periodicals, reference materials, databases, and reserves to
 supplement student learning. These resources can be accessed online at
-[make.sc/library](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.5ejfrtps59sw).
+[make.sc/library](make.sc/library).
 
 Students who reside in San Francisco may also utilize the **San Francisco Public Library** (SFPL).
 The SFPL is an excellent source for supplemental learning materials, with a great system of
@@ -417,11 +424,11 @@ shared with Make School. Both online and on-campus students have unlimited acces
 [BetterHelp](betterhelp.com).
 
 If your log-in expires, please contact Lisa Tran at
-[lisa.tran@makeschool.com](mailto:lisa.tran@makeschool.com). You can contact Lisa for additional
+[lisa.tran@makeschool.org](mailto:lisa.tran@makeschool.com). You can contact Lisa for additional
 support or information about BetterHelp.
 
 Students can also review a comprehensive list of mental health resources at
-[make.sc/mental-health-resources](https://docs.google.com/document/d/1ONyKidX-a9HCrGVqA0c7JHMSWb85gUjFJlRx5sb9GFE/edit).
+[make.sc/mental-health-resources](make.sc/mental-health-resources).
 
 #### Other Recommended Free or Sliding Scale Counseling Services
 
@@ -619,8 +626,8 @@ up the following accounts:
 
 All Make School students will receive an official Make School email address, which should be used
 for all communication while you’re a student. This email address will be your legal first name, a
-period, and your legal last name, followed by @students.makeschool.com (e.g.,
-john.doe@students.makeschool.com). This account is part of the Google Suite, which also gives access
+period, and your legal last name, followed by @students.makeschool.org (e.g.,
+john.doe@students.makeschool.org). This account is part of the Google Suite, which also gives access
 to all administrative Google interfaces (i.e., Google Drive, Google Docs, etc.).
 
 #### Gradescope Account
@@ -707,7 +714,7 @@ We understand how important it is to have a properly functioning laptop in order
 Make School. Students are responsible for securing a temporary laptop in the event that their
 current laptop is inoperable and needs to be repaired. Make School may be able to assist students
 with the cost associated with renting a laptop. For more information regarding temporary laptop
-assistance, contact [student.affairs@makeschool.com](mailto:student.affairs@makeschool.com).
+assistance, contact [student.affairs@makeschool.org](mailto:student.affairs@makeschool.com).
 
 ### Online Learning Tutorial
 
@@ -726,9 +733,9 @@ document and set-up your environment prior to the start of the term.
 
 The policies described in this section of the Catalog are especially important for students to
 understand, as violating these policies may result in the
-[Formal Resolution](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/edit#heading=h.8obtx3h2p3mr)
-process. Students are expected to follow these policies at all times. Reports regarding potential
-violations of these conduct policies can be submitted using the
+[Formal Resolution](../student-conduct-policies/disciplinary-action-academic-conduct) process.
+Students are expected to follow these policies at all times. Reports regarding potential violations
+of these conduct policies can be submitted using the
 [Student Reporting Form](http://make.sc/student-reporting-form). All policies and processes are
 applicable to both online and on-campus students.
 
@@ -834,7 +841,7 @@ is not allowed to return to Make School, and a suspended student may be allowed 
 reapplying the following year.
 
 Refer to
-[Academic Dismissal](/academic-and-educational-program-information/academic-standing-and-satisfactory-achievement)
+[Academic Dismissal](../academic-and-educational-program-information/academic-standing-and-satisfactory-achievement)
 section for more information.
 
 **Alternate Conduct Action:** Reports of violations of certain policies (i.e., violations of Sexual
@@ -880,7 +887,7 @@ actions:
 
 The decision of the Appellate Officer will be considered final and binding for all parties involved.
 
-### Student’s Rights, Responsibilities, and Addressing Grievances
+### Student Rights, Responsibilities, and Addressing Grievances
 
 All students are responsible for reviewing and upholding all of Make School’s policies as defined in
 this Catalog. In an effort to promote a welcoming and safe learning environment for all community
@@ -890,8 +897,8 @@ provided in the form will remain private to the best of Make School’s ability.
 nature of the complaint, anonymity may not be guaranteed, but we will do our best to protect the
 privacy of all parties involved. Make School does not tolerate any form of retaliation. The form can
 be used to report concerns regarding a violation of the
-[Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion) or a concern regarding
-the conduct of an instructor or staff member.
+[Code of Conduct](../student-conduct-policies/code-of-conduct-equity-inclusion) or a concern
+regarding the conduct of an instructor or staff member.
 
 Complaints categories include:
 
@@ -922,7 +929,7 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
       however;
    2. Some complaints, depending on the nature of the report, will warrant an informal or formal
       resolution process as determined by the Director and described in the
-      [Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion) policy.
+      [Code of Conduct](../student-conduct-policies/code-of-conduct-equity-inclusion) policy.
    3. Complaints regarding a potential violation of Title IX, Hate Speech Policy, Retaliation, or
       Hazing are not eligible for the restorative justice process.
 3. Through the support of the Director (student-related issues) or the Dean (instructor or
@@ -930,10 +937,10 @@ The process for reporting, reviewing, and maintaining grievance records is as fo
    resolve the issue.
    1. Most issues will be resolved through a Participation Improvement Plan (PIP).
 4. If applicable, students may pursue the appeal process as described in the
-   [Code of Conduct](/student-conduct-policies/code-of-conduct-equity-inclusion).
+   [Code of Conduct](../student-conduct-policies/code-of-conduct-equity-inclusion).
 5. Records relating to the initial complaint, resolution process, and appeals will be maintained for
    up to seven years after the resolution of the incident. All records are
-   [FERPA](/academic-and-educational-program-information/academic-policies) protected.
+   [FERPA](../academic-and-educational-program-information/academic-policies) protected.
 
 ### Community Policies
 
@@ -949,7 +956,7 @@ depict the use of these substances while located on Make School property.
 If it is determined that a student (online or on-campus) is under the influence of alcohol or drugs,
 or has been smoking or vaping during an official Make School activity (including class), any related
 contraband will be confiscated (if on-campus) and the standard
-[Performance Improvement Plan](/student-conduct-policies/disciplinary-action-academic-conduct)
+[Performance Improvement Plan](../student-conduct-policies/disciplinary-action-academic-conduct)
 process will be followed.
 
 #### Communications Expectations
@@ -1027,13 +1034,13 @@ as:
 
 If you have been hazed, have witnessed or are aware of behavior that may be considered hazing, you
 must report the incident(s) to the
-[Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com) or use
+[Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.org) or use
 [Student Reporting Form](http://make.sc/student-reporting-form). In the event the hazing activity
 has put a student’s safety at risk or is an emergency, you should contact 911 to get emergency
 medical attention.
 
 Incidents of hazing are not eligible for an Informal Resolution of the
-[Student Conduct Process](/student-conduct-policies/disciplinary-action-academic-conduct).
+[Student Conduct Process](../student-conduct-policies/disciplinary-action-academic-conduct).
 
 #### Hazardous Materials
 
@@ -1110,13 +1117,13 @@ disciplinary action (i.e., being removed from community spaces, etc.). To keep o
 we encourage reporting conduct violations, and will maintain reporter privacy to the extent
 permissible by law and policy. Conduct violations can be reported via our
 [Student Reporting Form](http://make.sc/student-reporting-form) or emailed directly to our
-[Title IX Coordinator](mailto:student.affairs@makeschool.com).
+[Title IX Coordinator](mailto:student.affairs@makeschool.org).
 
-- **Title IX Coordinator:** Carmen Ye ([carmen@makeschool.com](mailto:carmen@makeschool.com))
+- **Title IX Coordinator:** Carmen Ye ([carmen@makeschool.org](mailto:carmen@makeschool.com))
 - **Lead Investigator:** Michelle Lessly Backburn
-  ([michelle.blackburn@makeschool.com](mailto:michelle.blackburn@makeschool.com))
+  ([michelle.blackburn@makeschool.org](mailto:michelle.blackburn@makeschool.com))
 - **Decision Making Administrator (DMA):** Anne Spalding
-  ([anne@makeschool.com](mailto:anne@makeschool.com))
+  ([anne@makeschool.org](mailto:anne@makeschool.com))
 
 #### Reporting Options and Resources
 
@@ -1282,17 +1289,17 @@ you are familiar with procedures Make School has set in place to foster a safe c
   phone at (415) 563-0303.
 - **Formal Complaints:** A victim of a crime wishing to file a formal complaint against a
   perpetrator who is a member of the campus community should refer to Make School’s
-  [Formal Resolution](/student-conduct-policies/disciplinary-action-academic-conduct) Policy.
+  [Formal Resolution](../student-conduct-policies/disciplinary-action-academic-conduct) Policy.
   Students may also choose to file a Police Report. For information about harassment or sexual
   violence, please refer to the
-  [Title IX Policy.](/student-conduct-policies/title-ix-understanding-harassment-sexual-misconduct)
+  [Title IX Policy.](../student-conduct-policies/title-ix-understanding-harassment-sexual-misconduct)
 - **Media Inquiries** Any inquiries from the news media regarding the occurrence of criminal
-  incidents on campus should be directed to [the Dean](mailto:dean@makeschool.com).
+  incidents on campus should be directed to [the Dean](mailto:dean@makeschool.org).
 - **Missing Persons Reporting:** In compliance with the Higher Education Act, Make School gives all
   students the option to provide confidential contact information for a person to be notified in the
   event a student is officially reported as missing. Should you have concerns about an individual
   who may be missing, please speak to the
-  [Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.com).
+  [Director of Student and Academic Affairs](mailto:michelle.blackburn@makeschool.org).
 - **Notification of Current Campus Crime:** Title II of Federal Public Law 101-542, The Jeanne Clery
   Disclosure of Campus Security Policy and Campus Crime Statistics Act, requires colleges to collect
   and report statistics concerning the occurrence on campus of certain criminal offenses which must
@@ -1309,7 +1316,7 @@ you are familiar with procedures Make School has set in place to foster a safe c
 - **Reporting Non-Emergency Criminal Acts:** Non-emergency criminal acts (e.g., vandalism, burglary,
   etc.) should immediately be reported to:
 
-  [Michelle Lessly Blackburn](mailto:michelle.blackburn@makeschool.com)
+  [Michelle Lessly Blackburn](mailto:michelle.blackburn@makeschool.org)
 
   Director of Student Academic Affairs and Clery Officer
 
@@ -1469,7 +1476,7 @@ doubles as the key that provides access to campus, it is especially important th
 their card with them at all times!
 
 If a student happens to lose their ID card, they must contact the
-[Operations Team](mailto:eric@makeschool.com) to secure a new one. When the new card is issued, the
+[Operations Team](mailto:eric@makeschool.org) to secure a new one. When the new card is issued, the
 previous card will be deactivated and the student requesting the card will be charged a $10
 replacement fee.
 
@@ -1501,7 +1508,7 @@ educational agency.
 ### Academic Regulations
 
 All of Make School’s Academic Regulations are located in our Course Catalog & Student Handbook
-published on [makeschool.com](makeschool.com). Our Catalog is made publically accessible through our
+published on [makeschool.org](makeschool.com). Our Catalog is made publically accessible through our
 website and does not require credentials to access its content.
 
 ### Academic Freedom
@@ -1572,10 +1579,10 @@ If an incident of plagiarism or cheating occurs, the instructor will investigate
 consult with the Dean. If the student has been found to have committed an act of academic
 dishonesty, an [Academic Misconduct Report](make.sc/academic-misconduct-report) will be filed and
 the student will be placed on a
-[Performance Improvement Plan (PIP)](/student-conduct-policies/disciplinary-action-academic-conduct).
+[Performance Improvement Plan (PIP)](../student-conduct-policies/disciplinary-action-academic-conduct).
 A student who believes they have been wrongly accused of plagiarism or cheating, or that the
 instructor’s resolution of the alleged incident is unjust, may file a
-[Request for Appeal of Disciplinary Action](/student-conduct-policies/disciplinary-action-academic-conduct).
+[Request for Appeal of Disciplinary Action](../student-conduct-policies/disciplinary-action-academic-conduct).
 
 #### Attendance & Participation Policy
 
@@ -1594,7 +1601,7 @@ Unless otherwise noted, attendance requirements for classes and other scheduled 
 It is the student’s responsibility to know the attendance policy in each course for which they are
 registered, and also to notify their instructor and coach by email or slack immediately when they
 know an absence is necessary. A student who is ill for more than one week, or who has a family
-emergency, should also contact the [Office of the Registrar](mailto:registrar@makeschool.com).
+emergency, should also contact the [Office of the Registrar](mailto:registrar@makeschool.org).
 
 #### Family Educational Rights & Privacy Act of 1974 (FERPA)
 
@@ -1630,7 +1637,7 @@ will only be exercised when absolutely necessary.
 The above-designated information is subject to release by the School at any time unless the School
 has received prior written objection from the student specifying information which they do not agree
 to be released. If you would like to make such a request, please contact the
-[Registrar](mailto:registrar@makeschool.com) for the FERPA Release Form. This should be completed
+[Registrar](mailto:registrar@makeschool.org) for the FERPA Release Form. This should be completed
 annually within the first two weeks of the Fall semester.
 
 Further information on FERPA is available at the US Department of Education FERPA website:
@@ -2307,7 +2314,7 @@ level and knowledge.
 While a grade of Pass in a class equates to a C or better on a standard grading scale, Make School
 does not compute or report a Grade Point Average (GPA). If students need academic performance
 information (i.e. GPA) for the purpose and internship or graduate school application, a
-[narrative of their progress](/academic-procedures/documentation-requests) through the program is
+[narrative of their progress](../academic-procedures/documentation-requests) through the program is
 available upon request.
 
 #### Repeated Courses
@@ -2331,7 +2338,7 @@ deferments) and enrollment reporting, Make School defines enrollment status as:
 
 For further information regarding how enrollment status affects you, or to get help regarding
 submitting a deferment request, contact the
-[Office of the Registrar](mailto:registrar@makeschool.com).
+[Office of the Registrar](mailto:registrar@makeschool.org).
 
 ### Student Status Changes
 
@@ -2351,7 +2358,7 @@ emergency, or another unforeseeable cause. We define an emergency as:
 
 If you need to temporarily stop attending classes due to an emergency beyond your control, you can
 request to take an Emergency Leave of Absence for up to two (2) weeks. To request an Emergency
-Leave, you should contact the [Office of the Registrar](mailto:registrar@makeschool.com) as soon as
+Leave, you should contact the [Office of the Registrar](mailto:registrar@makeschool.org) as soon as
 possible, but no later than one business day after you are unable to attend classes.
 
 If your leave will need to be extended beyond two (2) weeks, you will need to request a Leave of
@@ -2389,7 +2396,7 @@ Important things to consider when going on an LoA:
   will be assigned a “W” grade.
 
 To return from a LoA, students must submit a request to the
-[Registrar](mailto:registrar@makeschool.com) for the Re-enrollment form. Upon returning, students
+[Registrar](mailto:registrar@makeschool.org) for the Re-enrollment form. Upon returning, students
 will rejoin Make School with the same academic standing as when they requested the LoA, and will be
 subject to the same requirements and guidelines.
 
@@ -2421,7 +2428,7 @@ Important things to consider when pursuing withdrawal from Make School:
   will be assigned a “W” grade.
 
 In order to re-enroll after withdrawing, you must contact the
-[Registrar](mailto:registrar@makeschool.com) for the Make School application for Re-Enrollment or
+[Registrar](mailto:registrar@makeschool.org) for the Make School application for Re-Enrollment or
 Reinstatement form and submit official transcripts for any coursework completed off-campus while
 withdrawn and meet with your Advisor. If you return, you will rejoin Make School with the same
 academic standing as when you withdrew, and will be subject to the same requirements and guidelines.
@@ -2437,7 +2444,7 @@ Students have the right to cancel their agreement for a program of instruction, 
 or obligations, through attendance at the first class session or the seventh calendar day after
 enrollment, whichever is later. Cancellation of their agreement can occur through the date denoted
 on their enrollment agreement form. The written notice of cancellation, when emailed to
-[Registrar@makeschool.com](mailto:Registrar@makeschool.com), is effective when deposited in the mail
+[Registrar@makeschool.org](mailto:Registrar@makeschool.com), is effective when deposited in the mail
 properly addressed with proper postage.
 
 If the student obtains a loan to pay for this educational program, the students will be responsible
@@ -2454,7 +2461,7 @@ is considered earned and the student will receive no refund.
 For the purpose of determining a refund under this section, a student may be deemed to have
 withdrawn from a program of instruction when any of the following occurs:
 
-- The [Office of the Registrar](mailto:registrar@makeschool.com), receives notice from the student,
+- The [Office of the Registrar](mailto:registrar@makeschool.org), receives notice from the student,
   indicating a desire to withdraw from the program of instruction. The notice must include the
   expected last date of attendance.
 - The institution terminates the student’s enrollment for failure to maintain satisfactory progress;
@@ -2491,13 +2498,13 @@ difficulty or have any questions, please contact the Clearinghouse directly by t
 #### Verification of Enrollment & Degrees
 
 To request an enrollment verification for loan deferment purposes, contact the
-[Office of the Registrar](mailto:registrar@makeschool.com) for further information. Please note
+[Office of the Registrar](mailto:registrar@makeschool.org) for further information. Please note
 processing time for these requests is 5-10 business days.
 
 #### Progress Narratives
 
 To request a progress narrative report, contact the
-[Office of the Registrar](mailto:registrar@makeschool.com) for further information. Please note
+[Office of the Registrar](mailto:registrar@makeschool.org) for further information. Please note
 processing time for these requests is 5-10 business days.
 
 #### Grade Change Petition
@@ -2506,7 +2513,7 @@ To request a grade change, you should complete the
 [Grade Change Petition](http://make.sc/grade-change-petition). This petition should be used only
 when requesting a reevaluation of a given grade, and should not be used to request an Incomplete
 grade. For information on the status of a grade change petition, please email the
-[Office of the Registrar](mailto:registrar@makeschool.com).
+[Office of the Registrar](mailto:registrar@makeschool.org).
 
 #### Incomplete Grade Request
 
@@ -2558,16 +2565,16 @@ You may request to withdraw from the course until the Withdrawal deadline (see t
 withdraw from a class does not require an instructor signature approval. Students are responsible
 for knowing the financial implications of a withdrawal (W) grade and the impact on academic progress
 towards graduation. Further information can be found in the
-[Financial Implications: Leave of Absence & Withdrawal](/tuition-information/financial-implications-leave-of-absence-withdrawal)
+[Financial Implications: Leave of Absence & Withdrawal](../tuition-information/financial-implications-leave-of-absence-withdrawal)
 of this catalog.
 
 #### Auditing a Course vs. “Sitting-In” on a Class
 
 Students in good standing (who are not on a
-[Performance Improvement Plan](/student-conduct-policies/disciplinary-action-academic-conduct)) may
-audit a course with instructor approval, provided that the student: has taken the course previously
-and would like to revisit the material; or has an
-[Incomplete grade](/academic-procedures/documentation-requests) for the course from the previous
+[Performance Improvement Plan](../student-conduct-policies/disciplinary-action-academic-conduct))
+may audit a course with instructor approval, provided that the student: has taken the course
+previously and would like to revisit the material; or has an
+[Incomplete grade](../academic-procedures/documentation-requests) for the course from the previous
 term, and seeks to gain further mastery of the material to complete the course.
 
 Students in good standing, who have not been approved to audit a course, may request to “sit in” on
@@ -2601,7 +2608,7 @@ more information (below).
    **_prior_** to enrollment in the course. This will help you avoid unnecessary fees and enrollment
    steps, etc.
    1. Complete the form. Incomplete forms will not be accepted for approval.
-   2. Submit the form to [registrar@makeschool.com](mailto:registrar@makeschool.com).
+   2. Submit the form to [registrar@makeschool.org](mailto:registrar@makeschool.com).
 3. Once approved, register in the course as soon as possible to ensure you are able to get into the
    approved class as courses do fill up quickly. Registering as an auditor or “sitting in” means you
    will not receive a grade or transcript credit for the course. 3. Note: Unless already admitted,
@@ -2610,7 +2617,7 @@ more information (below).
    documentation of course enrollment.
 4. Take and pass the class.
 5. Submit proof of passing the class (transcript) to the Registrar at
-   [registrar@makeschool.com](mailto:registrar@makeschool.com)
+   [registrar@makeschool.org](mailto:registrar@makeschool.com)
 
 ##### Articulation Agreements
 
@@ -2635,7 +2642,7 @@ credit to another institution. Make School has
 - Solano Community College
 - West Valley Community College
 
-Contact the [Office of the Registrar](mailto:registrar@makeschool.com) if you have additional
+Contact the [Office of the Registrar](mailto:registrar@makeschool.org) if you have additional
 questions regarding the specific articulation agreements.
 
 ### Transfer Credits & Prior Learning Policy
@@ -3159,7 +3166,7 @@ language other than English.
    the International Language Competency requirement. This can be confirmed by submitting a copy of
    your high school transcript to the Registrar's office. For students who want to enroll in a
    college course concurrent with their Make School enrollment must follow the
-   [Off-Campus Courses Policies and Procedures](/academic-procedures/registration) to earn credit
+   [Off-Campus Courses Policies and Procedures](../academic-procedures/registration) to earn credit
    for this requirement. The following off-campus courses have been approved for meeting the foreign
    language requirement:
 
@@ -3260,7 +3267,7 @@ five 3-unit foundation courses, and four 3-unit electives as well as all SPD, IN
 The total anticipated cost (direct and indirect) and charges for 2021-2022 Bachelor in Applied
 Computer Science Students is **$113,078.** A breakdown of tuition and charges per year is included
 below. Students are encouraged to review the Make School Financial Tuition and Aid
-[webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
+[webpage](https://www.makeschool.org/computer-science-degree/tuition-and-aid).
 
 #### Tuition for 2021-2022 Bachelor in Applied Computer Science Students
 
@@ -3296,7 +3303,7 @@ graduation.
   that summer, but are charged $10,000 for the summer they are not taking SWE.
 - If a student does not take a SWE during the 1st or 2nd summer at Make School (decided at the end
   of Year 2, Term 4), a student will need to talk with
-  [financial.aid@makeschool.com](mailto:finance@makeschool.com) about Year 3 Financing.
+  [financial.aid@makeschool.org](mailto:finance@makeschool.com) about Year 3 Financing.
 
 ### Degree Completion Beyond the 2 Year Program
 
@@ -3305,7 +3312,7 @@ being charged if you have maintained Satisfactory Academic Progress throughout y
 School. These 12 credits do not include the SWE Internship and there is no charge for a SWE
 Internship taken in the post two-year time period. Students needing more than 12 credits after the
 two-year time frame may need to pay tuition for these credits and will need to consult with
-financial aid individually [financial.aid@makeschool.com](mailto:finance@makeschool.com).
+financial aid individually [financial.aid@makeschool.org](mailto:finance@makeschool.com).
 
 ### Financial Implications: Leave of Absence & Withdrawal
 
@@ -3323,7 +3330,7 @@ able to receive refunds on tuition payments based on a per term basis the follow
 4. Withdrawn students are eligible to stay in housing offered to Make School students for up-to 30
    days after their withdrawal date. Please refer to your Housing lease for information on
    withdrawing from student housing or ending an independent lease, or reach out to
-   [ResLife@makeschool.com](mailto:ResLife@makeschool.com).
+   [ResLife@makeschool.org](mailto:ResLife@makeschool.com).
 
 ### Financial Hold Policy
 
@@ -3345,7 +3352,7 @@ which can be found in the Master Academic Calendar.
 These invoices will be sent from this email address:
 [invoice@hq.bill.com](mailto:invoice@hq.bill.com) with the subject line, “You have an invoice from
 Make School". If you have questions that are related to how to pay the invoice or want to discuss a
-payment plan, please reach out to [financial.aid@makeschool.com](mailto:finance@makeschool.com).
+payment plan, please reach out to [financial.aid@makeschool.org](mailto:finance@makeschool.com).
 
 In cases when a student has a small balance or payment plan, notification from Financial Aid must
 indicate the terms of not complying with the terms via email and/or in the **signed** payment plan
@@ -3359,9 +3366,9 @@ to ensure proper payment activity.
 ### Contact Information
 
 All tuition and financial aid questions should be sent to
-[financial.aid@makeschool.com](mailto:financial.aid@makeschool.com). Students are encouraged to
+[financial.aid@makeschool.org](mailto:financial.aid@makeschool.com). Students are encouraged to
 review the Make School Financial Tuition and Aid
-[webpage](https://www.makeschool.com/computer-science-degree/tuition-and-aid).
+[webpage](https://www.makeschool.org/computer-science-degree/tuition-and-aid).
 
 ## Student Financial Aid Policies
 
@@ -3444,7 +3451,7 @@ loan, we strongly recommend you maximize your Federal Direct Loan eligibility.
 
 The Applied Computer Science Program at Make School is awaiting final approval from the Department
 of Education to process Title IV Federal Financial Aid. If you have any questions, please contact
-[financial.aid@makeschool.com](mailto:financial.aid@makeschool.com).
+[financial.aid@makeschool.org](mailto:financial.aid@makeschool.com).
 
 We strongly encourage all students to complete the Free Application for Federal Student Aid (FAFSA)
 prior to borrowing private loans to determine eligibility for Federal, State, and Institutional aid
@@ -3518,7 +3525,7 @@ still have to pay monthly for the rest of your loans. Not so at Make School.
 
 Make School is creating and funding an Extended Income-Based Repayment (EIBR) protection plan to
 cover Parent Plus and
-[private loans](/student-financial-aid-policies/student-private-or-personal-loans) to create full
+[private loans](../student-financial-aid-policies/student-private-or-personal-loans) to create full
 protection for underemployed and unemployed graduates.
 
 The EIBR protection plan is designed as an extension of the Federal IBR program to apply to all
@@ -3586,7 +3593,7 @@ new funding options first\*.
 
 _\*If you have significant existing debt that would result in unaffordable monthly payments after
 Make School, you may be denied for both loans and tuition gap funding. Please contact us immediately
-at [admissions@makeschool.com](mailto:admissions@makeschool.com) if you have more than $7,500 in
+at [admissions@makeschool.org](mailto:admissions@makeschool.com) if you have more than $7,500 in
 outstanding debt. This is not a hard cut-off, just an amount that will trigger a conversation about
 the best financial options for you._
 
@@ -3835,7 +3842,7 @@ documentation as early as possible to allow on-time disbursement of aid if the a
 
 [Free Application for Federal Student Aid (FAFSA)](https://studentaid.gov/h/apply-for-aid/fafsa)
 
-[Student Financial Aid Information](https://www.makeschool.com/computer-science-degree/tuition-and-aid)
+[Student Financial Aid Information](https://www.makeschool.org/computer-science-degree/tuition-and-aid)
 
 ### Student Services
 
@@ -3877,7 +3884,7 @@ documentation as early as possible to allow on-time disbursement of aid if the a
 
 [Healthcare.gov](https://www.healthcare.gov/) (National Healthcare Exchange)
 
-[Make School](http://makeschool.com)
+[Make School](http://makeschool.org)
 
 [Make School’s Incubation Policy](https://www.wscuc.org/content/incubation-policy) (WSCUC
 Accreditation Information)
@@ -4569,7 +4576,7 @@ Make School embraces diversity and encourages students to bring their informed p
 learning environment. As such, Make School’s S&L curriculum allows for various worldviews to be
 present in the classroom and extends the ability for students to engage in the free expression of
 ideas in their search for truth. Therefore, faculty and students are protected by
-[Academic Freedom](/academic-and-educational-program-information/academic-freedom) in all Science
+[Academic Freedom](../academic-and-educational-program-information/academic-freedom) in all Science
 and Letters courses.
 
 Science and Letters classes available for registration vary by term. The course descriptions
