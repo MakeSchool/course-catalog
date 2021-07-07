@@ -308,7 +308,7 @@ Your coach is here to be your advocate and thought partner.
 Make School does not provide childcare, but for students located in the Bay Area, the
 [Children’s Council](http://www.childrenscouncil.org/) can help. Please visit their website to see
 the childcare services they offer. Online students should explore local childcare options or visit
-[Care.com](care.com) for childcare options.
+[Care.com](https://care.com) for childcare options.
 
 ### Health Insurance
 
@@ -377,7 +377,7 @@ care:
 Make School maintains an online library with a curated list of digital resources for technical
 content, social science texts, periodicals, reference materials, databases, and reserves to
 supplement student learning. These resources can be accessed online at
-[make.sc/library](make.sc/library).
+[make.sc/library](https://make.sc/library).
 
 Students who reside in San Francisco may also utilize the **San Francisco Public Library** (SFPL).
 The SFPL is an excellent source for supplemental learning materials, with a great system of
@@ -392,7 +392,7 @@ Regardless if you are online or on-campus you will receive training in the use o
 during orientation in your first week of classes. As necessary, you will receive assignment-specific
 training from their instructors. Through our partnership with Dominican University, all students are
 able to access Library liaisons through the student services webpage
-([make.sc/du-self-service](http://make.sc/du-self-service)). Library liaisons are subject
+([make.sc/du-self-service](https://make.sc/du-self-service)). Library liaisons are subject
 specialists who provide support for your research by locating and recommending relevant information
 and resources. Dominican University also subscribes to numerous online databases containing
 scholarly articles, eBooks, newspapers, and many other resources designed to help students with
@@ -421,14 +421,14 @@ automatically given access to BetterHelp when you first enroll at Make School an
 you throughout your time at Make School. Graduates may receive an additional 6 months of services
 upon request. BetterHelp is 100% confidential and what you share with your counselor will not be
 shared with Make School. Both online and on-campus students have unlimited access to
-[BetterHelp](betterhelp.com).
+[BetterHelp](https://betterhelp.com).
 
 If your log-in expires, please contact Lisa Tran at
 [lisa.tran@makeschool.org](mailto:lisa.tran@makeschool.com). You can contact Lisa for additional
 support or information about BetterHelp.
 
 Students can also review a comprehensive list of mental health resources at
-[make.sc/mental-health-resources](make.sc/mental-health-resources).
+[make.sc/mental-health-resources](https://make.sc/mental-health-resources).
 
 #### Other Recommended Free or Sliding Scale Counseling Services
 
@@ -718,9 +718,9 @@ assistance, contact [student.affairs@makeschool.org](mailto:student.affairs@make
 
 ### Online Learning Tutorial
 
-You should review the [Online Learning Tutorial](make.sc/online-learning-tutorial) to learn tips and
-tricks to taking classes online, as well as Make School’s expectations for how you will engage with
-instructors and peers when online.
+You should review the [Online Learning Tutorial](https://make.sc/online-learning-tutorial) to learn
+tips and tricks to taking classes online, as well as Make School’s expectations for how you will
+engage with instructors and peers when online.
 
 This comprehensive guide will help you set-up your environment, learn how to navigate your student
 dashboard, access course materials on GitHub, and utilize GSuite. We recommend that you review this
@@ -1506,8 +1506,8 @@ educational agency.
 ### Academic Regulations
 
 All of Make School’s Academic Regulations are located in our Course Catalog & Student Handbook
-published on [makeschool.org](makeschool.com). Our Catalog is made publically accessible through our
-website and does not require credentials to access its content.
+published on [makeschool.org](https://makeschool.com). Our Catalog is made publically accessible
+through our website and does not require credentials to access its content.
 
 ### Academic Freedom
 
@@ -1575,8 +1575,8 @@ constitute cheating, including:
 
 If an incident of plagiarism or cheating occurs, the instructor will investigate the incident and
 consult with the Dean. If the student has been found to have committed an act of academic
-dishonesty, an [Academic Misconduct Report](make.sc/academic-misconduct-report) will be filed and
-the student will be placed on a
+dishonesty, an [Academic Misconduct Report](https://make.sc/academic-misconduct-report) will be
+filed and the student will be placed on a
 [Performance Improvement Plan (PIP)](../student-conduct-policies/disciplinary-action-academic-conduct).
 A student who believes they have been wrongly accused of plagiarism or cheating, or that the
 instructor’s resolution of the alleged incident is unjust, may file a
@@ -2525,10 +2525,10 @@ the following circumstances:
   additional semester.
 
 To request an Incomplete grade, you must complete the
-[Incomplete Grade Request Form](make.sc/incomplete-grade-request-form). This must be completed
-before the end of the term or semester in which they would like to request an “I” grade. You will
-receive an email regarding approval of the Incomplete Grade Contract within five business days of
-its submission.
+[Incomplete Grade Request Form](https://make.sc/incomplete-grade-request-form). This must be
+completed before the end of the term or semester in which they would like to request an “I” grade.
+You will receive an email regarding approval of the Incomplete Grade Contract within five business
+days of its submission.
 
 Approval by your instructor(s), and the Registrar will enter you into an Incomplete Grade Contract.
 This contract temporarily places an "I" grade on your transcript, indicating they are expected to
@@ -2893,7 +2893,7 @@ illnesses, injuries, or conditions are not considered disabled under these laws,
 make appropriate adjustments and assist them with available resources.**
 
 Once admitted to Make School, you are responsible for requesting accommodations for a disability via
-the [Disability Services Intake Form](make.sc/ada-intake-form). You will meet with the ADA
+the [Disability Services Intake Form](https://make.sc/ada-intake-form). You will meet with the ADA
 Coordinator, and through advising and support, we will ensure accommodations are provided to remove
 competitive disadvantages, enabling you to realize their academic potential and objectives.
 Information disclosed throughout this process will remain private in keeping with FERPA (see below).
@@ -3206,9 +3206,9 @@ language other than English.
 It is important to be aware of course prerequisites and limited offerings in order to choose courses
 each term. To see all of our course offerings, including descriptions and prerequisites, visit:
 [make.sc/course-offerings](http://make.sc/course-offerings). To see which classes will be offered in
-future terms please visit [make.sc/course-schedule](make.sc/course-schedule) to see the yearly
-schedule and [make.sc/course-registrations](make.sc/course-registrations) to see the schedule for
-this term.
+future terms please visit [make.sc/course-schedule](https://make.sc/course-schedule) to see the
+yearly schedule and [make.sc/course-registrations](https://make.sc/course-registrations) to see the
+schedule for this term.
 
 Sample course sequencing shown below is one option, but your actual schedule may be different.
 
@@ -3495,10 +3495,10 @@ terms (Make School does not guarantee this, but that is our understanding).
 #### Endorsement Disclaimer
 
 Make School does not endorse any specific lender or any specific product. The lenders and products
-[listed](make.sc/preferred-lenders) are not ranked and these lists are meant to serve only as a
-guide for students and families looking for additional options to assist with educational expenses.
-Make School does not receive any benefits in exchange for placing a lender on the preferred private
-loan list.
+[listed](https://make.sc/preferred-lenders) are not ranked and these lists are meant to serve only
+as a guide for students and families looking for additional options to assist with educational
+expenses. Make School does not receive any benefits in exchange for placing a lender on the
+preferred private loan list.
 
 Make School is always evaluating the lenders, products, and websites it uses to assist students and
 families with the private loan search process. A lender will remain on the lender list unless Make
@@ -3799,7 +3799,7 @@ documentation as early as possible to allow on-time disbursement of aid if the a
 
 [Academic Misconduct Report](https://docs.google.com/forms/d/e/1FAIpQLSeUBN68KkiOyXoynNwBrc89zb5Tr-Z0g0aCpNqbgNzCBm1uGQ/viewform?usp=sf_link)
 
-[Add Form](make.sc/add_course)
+[Add Form](https://make.sc/add_course)
 
 [Authorization to Take Course(s) Off-Campus Form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4BlS23tqoio_ZcMtQdtJT-OyEZ-Rhp6mArJmTSprTcAFow/viewform)
 
