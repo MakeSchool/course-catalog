@@ -326,6 +326,11 @@ students:
 
 All completed forms must be submitted to the Admissions Office upon initial enrollment.
 
+#### COVID-19 Vaccination
+
+Students who enroll in the on-campus program are required to be fully vaccinated against COVID-19,
+and will be required to provide proof of vaccination prior to their first day on campus.
+
 ### Hospitals & Clinics
 
 If you are on-campus, below are a few local hospitals and clinics, should you ever need immediate
@@ -659,6 +664,11 @@ often the fastest way to share information with colleagues and Make School staff
 automatically invited to Slack upon enrollment. To access the student Slack workspace on your
 computer or mobile device, open the email invitation sent to your Make School email account and
 click “join.” Slack will then guide you through the process of setting up your account.
+
+#### Dominican University Technology Access
+
+To access Dominican University services (like your @dominican.edu email), refer to the
+[Technology at Dominican](make.sc/du-tech-support) page.
 
 #### Social Media Accounts
 
