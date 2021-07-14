@@ -152,13 +152,6 @@ accredited school.
 
 ## Student Services & Resources
 
-### Student Services & Resources Overview
-
-This section of the Catalog focuses on any resources or support a student may need. This includes
-points of contact for our college team staff, information about student clubs and campus recreation,
-alumni relations and career services, and so much more. We encourage you to read this section in its
-entirety as it includes information for both online and on-campus students.
-
 ### College Team Staff and Instructors
 
 #### Academic Administration
@@ -738,7 +731,8 @@ document and set-up your environment prior to the start of the term.
 
 ## Student Conduct Policies
 
-### Student Conduct Policies Overview
+
+### Code of Conduct, Equity & Inclusion
 
 The policies described in this section of the Catalog are especially important for students to
 understand, as violating these policies may result in the
@@ -747,8 +741,6 @@ Students are expected to follow these policies at all times. Reports regarding p
 of these conduct policies can be submitted using the
 [Student Reporting Form](http://make.sc/student-reporting-form). All policies and processes are
 applicable to both online and on-campus students.
-
-### Code of Conduct, Equity & Inclusion
 
 Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect
 for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age,
@@ -1233,11 +1225,6 @@ Title IX Policy, Make School will most likely take the actions (not necessarily 
 - Review and determine appeal requests, when applicable.
 
 ## On-Campus Policies
-
-### On-Campus Policies Overview
-
-The policies included in this section of the Catalog are specifically campus-related. Students
-should be aware of and abide by these policies at all times.
 
 ### Campus Access Policy
 
@@ -2860,7 +2847,7 @@ than seven years.
 
 ## Academic Support
 
-### Academic Support Overview
+### Academic Support
 
 Make School provides academic support to students through coaching, in-class teaching assistants,
 and an open plan workspace that encourages students to help each other through academic challenges.
@@ -2871,7 +2858,7 @@ help each other through academic challenges. If you are uncertain where to go fo
 your coach should be your first point of contact! All Academic Support Programs are available to
 both online and on-campus students.
 
-### CoWork
+#### CoWork
 
 Make School offers weekly CoWork sessions to provide students with support in technical and
 non-technical coursework, time management, job/internship search, resume reviews, and interview
@@ -2879,7 +2866,7 @@ prep. Various staff and teaching assistants are available during each session to
 students who need help. Students are also welcome to use CoWork as a time to work independently or
 do pair coding with their peers as a means of accountability and staying on top of their work.
 
-### Teaching Assistants
+#### Teaching Assistants
 
 Teaching Assistants are students who have taken the course before and can support you in debugging,
 working through code issues and learning the core concepts of the class. Teaching Assistants are
